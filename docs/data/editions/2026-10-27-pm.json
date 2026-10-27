@@ -1,0 +1,319 @@
+{
+ "date": "2026-10-27",
+ "slot": "pm",
+ "key": 2026102702,
+ "generatedAt": "2026-10-27T19:37:16+09:00",
+ "brief": [
+  "政府が副首都の指定要件を閣議決定。北海道・愛知・大阪・福岡の4道府県が該当する。",
+  "ウクライナ南部オレシュキで米国仲介の局地停戦が発効。人道物資の搬入と住民避難が目的。",
+  "ブラジル株が急落し、26日のボベスパ指数は13.88%安。中国の工業利益は1〜9月に15.5%増。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "副首都の指定要件を閣議決定　4道府県が該当",
+   "body": "政府は27日の閣議で、副首都の指定要件を定めた政令を決定した。国の出先機関が14以上ある市町村、全国人口の1.2%以上を占める市町村があり、道府県の経済規模がGDPの2.1%以上（直近3年平均）であることが要件で、北海道、愛知、大阪、福岡の4道府県が該当する。首都直下地震や富士山噴火で東京と同時に被災する恐れがある地域は対象から外れる。",
+   "note": "指定には、政令市を特別区に再編するか、政令市と道府県が連携協約を結んだうえで国に申請する必要がある。",
+   "visual": {
+    "kicker": "副首都の要件に該当",
+    "figure": "4",
+    "unit": "道府県",
+    "caption": "北海道・愛知・大阪・福岡"
+   },
+   "sources": [
+    {
+     "name": "時事通信（10/27）",
+     "url": "https://www.jiji.com/jc/article?k=2026102700121&g=pol"
+    },
+    {
+     "name": "日本経済新聞（10/27）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA236LW0T21C26A0000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日・バングラデシュ首脳会談、巡視船供与と投資拡大で一致",
+   "body": "高市首相は27日、首相官邸でバングラデシュのラーマン首相と会談した。政府開発援助（ODA）を活用した巡視船の供与を決め、日本企業による同国への投資が今後5年間で1兆円にのぼる見通しを示した。ベンガル湾に面するマタバリ深海港を中心とした地域を物流・産業の拠点として開発することでも協力する。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/27）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA272970X21C26A0000000/"
+    },
+    {
+     "name": "nippon.com（共同通信、10/27）",
+     "url": "https://www.nippon.com/ja/news/kd1487647716205084872/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日経平均終値は1078円高、4日ぶりに反発",
+   "body": "27日の東京株式市場で、日経平均株価の終値は前日比1078円72銭高の6万3268円37銭だった。米アンソロピックが新規株式公開（IPO）に向けた書類を公開したことを受け、AI・半導体関連株が買われた。上げ幅のうち約601円はアドバンテスト1銘柄によるもので、値下がり銘柄数は値上がり銘柄数を上回った。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "63,268.37",
+    "unit": "円",
+    "caption": "前日比 +1,078.72円"
+   },
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/27）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/931982"
+    },
+    {
+     "name": "株探（10/27）",
+     "url": "https://s.kabutan.jp/news/n202610271089/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "介護保険の負担見直し、金融所得の反映を検討",
+   "body": "高齢者の介護サービスの自己負担割合や保険料の算定に、株式の配当などの金融所得を反映させる議論が、厚生労働省の社会保障審議会介護保険部会で本格化した。金融所得は確定申告をしなければ把握できず、現在は負担割合の算定に考慮されていない。75歳以上の医療費負担では、2029年8月から金融所得を反映させる方針が決まっている。",
+   "note": "介護サービスの利用者負担は原則1割で、所得に応じて2割または3割になる。",
+   "sources": [
+    {
+     "name": "NHK（10/27）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66079"
+    },
+    {
+     "name": "CBnewsマネジメント（10/27）",
+     "url": "https://www.cbnews.jp/news/entry/20261027130337"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "勤務間インターバル、導入企業は6.9%にとどまる",
+   "body": "終業から次の始業までに一定の休息時間を設ける「勤務間インターバル」制度の導入率は、2025年時点で6.9%だった。政府は2028年までに15%以上とする目標を掲げている。現在は努力義務で、政府が検討する労働時間規制の見直しでは義務化の是非が焦点になっている。",
+   "visual": {
+    "kicker": "勤務間インターバル導入率",
+    "figure": "6.9",
+    "unit": "%",
+    "caption": "2025年時点。政府目標は28年までに15%以上"
+   },
+   "sources": [
+    {
+     "name": "時事通信（10/26）",
+     "url": "https://www.jiji.com/jc/article?k=2026102600837&g=soc"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "住友ファーマの白血病治療薬候補、米FDAが画期的治療薬に指定",
+   "body": "住友ファーマは27日、開発中の抗がん剤エンゾメニブ（開発コード DSP-5336）が、米食品医薬品局（FDA）から「ブレイクスルーセラピー」に指定されたと発表した。対象は再発または難治性のKMT2A遺伝子再構成を有する急性白血病。指定を受けた薬は、開発と審査の迅速化に向けてFDAから継続的な助言や支援を受けられる。",
+   "sources": [
+    {
+     "name": "医薬通信社（10/27）",
+     "url": "https://iyakutsushinsha.com/2026/10/27/%E9%96%8B%E7%99%BA%E4%B8%AD%E3%81%AE%E6%80%A5%E6%80%A7%E7%99%BD%E8%A1%80%E7%97%85%E6%B2%BB%E7%99%82%E8%96%AC%E3%80%8C%E3%82%A8%E3%83%B3%E3%82%BE%E3%83%A1%E3%83%8B%E3%83%96%E3%80%8D%E3%80%80%E7%B1%B3/"
+    },
+    {
+     "name": "OncLive（10/27）",
+     "url": "https://www.onclive.com/view/fda-grants-breakthrough-therapy-designation-to-enzomenib-in-r-r-kmt2a-rearranged-acute-leukemia"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "北日本で11月1日頃から著しい低温の可能性　気象庁",
+   "body": "気象庁は26日、北海道と東北地方を対象に「低温に関する早期天候情報」を発表した。11月1日頃から、この時期としては10年に一度程度しか起きないような著しい低温になる可能性がある。5日間平均気温の平年差が北海道で-2.4℃以下、東北で-2.0℃以下になる見込みで、各気象台は農作物の管理や体調管理に注意するよう呼びかけている。",
+   "sources": [
+    {
+     "name": "OBS大分放送（10/26）",
+     "url": "https://news.yahoo.co.jp/articles/b7f2dfc262825c54859b13e609d0653fb42e0de2"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ウクライナ南部オレシュキで局地停戦が発効",
+   "body": "ロシアの占領下にあるウクライナ南部ヘルソン州オレシュキで、米国の仲介による局地停戦が現地時間27日午前3時（日本時間同10時）に発効した。人道支援物資の搬入と住民の避難のため、軍事行動を一時停止する。オレシュキはドニプロ川を挟んで州都ヘルソンの対岸にあり、孤立した住民は約2000人とされる。",
+   "note": "AFP通信は、戦闘が実際に減ったかどうかは直ちに確認できなかったと伝えている。",
+   "visual": {
+    "kicker": "孤立するオレシュキの住民",
+    "figure": "約2000",
+    "unit": "人",
+    "caption": "停戦は日本時間27日10時に発効"
+   },
+   "sources": [
+    {
+     "name": "AFPBB News（10/27）",
+     "url": "https://www.afpbb.com/articles/-/3659559"
+    },
+    {
+     "name": "NHK（10/27）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66240"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "中国共産党の5中全会が開幕、党の規律強化が議題",
+   "body": "中国共産党の第20期中央委員会第5回全体会議（5中全会）が26日、北京で開幕した。会期は29日まで。習近平総書記が政治局の活動報告を行い、党の自己統治の強化に関する文書が審議される。アルジャジーラによると、中央委員の8議席が空席で、ほかに15人が調査を受けている。",
+   "sources": [
+    {
+     "name": "U.S. News（ロイター、10/25）",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-25/chinas-communist-party-opens-fifth-plenum"
+    },
+    {
+     "name": "Al Jazeera（10/26）",
+     "url": "https://aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "エチオピア・オロミア州で正教徒60人超が死亡と教会",
+   "body": "エチオピア正教会は、中部オロミア州アルシ地区で20日と24日に起きた襲撃で、少なくとも60人が死亡したと明らかにした。州政府は反政府勢力の連合が襲撃したとしている一方、反政府勢力側に近い関係者は州政府が殺害したと主張しており、主張が対立している。",
+   "sources": [
+    {
+     "name": "Al Jazeera（10/27）",
+     "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region"
+    },
+    {
+     "name": "TimesLIVE（10/27）",
+     "url": "https://www.timeslive.co.za/news/africa/2026-10-27-60-killed-in-attacks-on-ethiopias-orthodox-christians/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "ブラジル株が急落、ルラ氏再選で取引一時停止",
+   "body": "ルラ大統領の再選が決まった後の26日、ブラジル株式市場は大きく下落し、ボベスパ指数は前営業日比13.88%安の17万6608で取引を終えた。取引中に10%下落した時点で、新型コロナ流行期以来となる30分間の取引停止措置が発動された。通貨レアルも大幅に下落した。",
+   "note": "決選投票の得票率はルラ氏51.8%、フラビオ・ボルソナロ上院議員48.2%。ボルソナロ氏は敗北を認めていない。",
+   "visual": {
+    "kicker": "ボベスパ指数 26日終値",
+    "figure": "-13.88",
+    "unit": "%",
+    "caption": "17万6608で取引終了"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（10/26）",
+     "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory"
+    },
+    {
+     "name": "The Globe and Mail（10/26）",
+     "url": "https://www.theglobeandmail.com/investing/article-trading-on-brazils-stock-exchange-halted-after-15-tumble-following/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "中国の工業利益、1〜9月は前年比15.5%増",
+   "body": "中国国家統計局によると、一定規模以上の工業企業の1〜9月の利益は前年同期比15.5%増えた。9月単月は14.4%増だった。ハイテク製造業の利益は52.0%増え、電子機器分野の伸びが全体を押し上げた。",
+   "visual": {
+    "kicker": "中国 工業利益（1〜9月）",
+    "figure": "15.5",
+    "unit": "%増",
+    "caption": "9月単月は14.4%増"
+   },
+   "sources": [
+    {
+     "name": "新華社（10/27）",
+     "url": "https://english.news.cn/20261027/48ce9a7086514cd985313eb8a68d8e72/c.html"
+    },
+    {
+     "name": "CGTN（10/27）",
+     "url": "https://news.cgtn.com/news/2026-10-27/China-s-industrial-profits-up-15-5-in-first-nine-months-of-2026-1RzS2nBETHa/p.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米アンソロピック、上場に向けた登録書類を公開",
+   "body": "米AI企業アンソロピックは米国時間26日、新規株式公開（IPO）に向けた登録届出書（S-1）を米証券取引委員会（SEC）で公開した。2026年1〜6月の売上高は163億ドル、純損失は807億ドルで、損失の大部分は転換社債などの評価変動による営業外の費用だった。公開価格の仮条件や発行株数はまだ示されていない。",
+   "sources": [
+    {
+     "name": "米SEC（S-1、10/26）",
+     "url": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
+    },
+    {
+     "name": "Fortune（10/26）",
+     "url": "https://fortune.com/2026/10/26/anthropics-s-1/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "豪通信電子局、AIを使ったサイバー攻撃の増加を警告",
+   "body": "オーストラリア通信電子局（ASD）は27日、2025〜26年度の年次サイバー脅威報告書を公表した。サイバー・セキュリティー・センターが対応したインシデントは1524件で約2割増え、サイバー犯罪の通報は8万2000件を超えた。報告書はAIを脅威の主な要因と位置づけ、ブラッドショー長官は日常のサービスが妨げられる事態が増える可能性があると述べた。",
+   "visual": {
+    "kicker": "豪当局が対応したインシデント",
+    "figure": "1,524",
+    "unit": "件",
+    "caption": "2025〜26年度、前年度から約2割増"
+   },
+   "sources": [
+    {
+     "name": "ABC News（豪、10/27）",
+     "url": "https://www.abc.net.au/news/2026-10-27/australian-signals-directorate-ai-cybersecurity-hacking-threats/107309858"
+    },
+    {
+     "name": "France 24（AFP、10/27）",
+     "url": "https://www.france24.com/en/live-news/20261027-australia-warns-of-unprecedented-ai-threat"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "インド東部にサイクロン接近、住民の避難を指示",
+   "body": "インド気象局によると、サイクロン「アルナブ」は「非常に強いサイクロン」の勢力で、28日朝にアンドラプラデシュ州の沿岸に上陸する見通しで、最大瞬間風速は時速150キロに達する。AFP通信によると、同州で最大5万人、隣接するオディシャ州で4万8000人に安全な場所への避難が指示された。",
+   "sources": [
+    {
+     "name": "France 24（AFP、10/27）",
+     "url": "https://www.france24.com/en/live-news/20261027-india-orders-evacuations-as-cyclone-arnab-looms"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/28〜29",
+   "what": "ロシア・アフリカ首脳会議（モスクワ）"
+  },
+  {
+   "when": "10/29",
+   "what": "中国共産党5中全会が閉幕"
+  },
+  {
+   "when": "10/29",
+   "what": "ASEAN拡大国防相会議（フィリピン・セブ）、議長国をシンガポールへ引き継ぎ"
+  },
+  {
+   "when": "10/29 3:00",
+   "what": "米FOMCの政策金利発表（日本時間）"
+  },
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "12/8〜9",
+   "what": "次回の米FOMC"
+  }
+ ]
+}
