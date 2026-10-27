@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>朝夜ブリーフ</title>
+<meta name="description" content="毎朝・毎夜に世界情勢・経済・新製品・科学のニュースをまとめて届けます。">
+<meta name="theme-color" content="#1f6f8b" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1418" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;500;700;900&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: 一列の読み物。上に版の切り替え、要点、分野フィルタ、記事リスト、最後に今後の予定 */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --fg:#17202a; --muted:#5a6672; --line:#dde3e9;
+  --accent:#1f6f8b; --accent-soft:#e1eef3;
+  --c-world:#b2452f; --c-economy:#2f7a4f; --c-tech:#3b5bb5; --c-science:#7a4fb0; --c-japan:#a2681b;
+  --f-body:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic","Noto Sans JP",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+  color-scheme:light;
+}
+:root[data-ed="pm"]{ --accent:#4b4fa8; --accent-soft:#e6e7f6 }
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f1418; --surface:#161d23; --fg:#e4e9ee; --muted:#93a1ad; --line:#26313a;
+    --accent:#5fb3cf; --accent-soft:#17303a;
+    --c-world:#e6806b; --c-economy:#6cc292; --c-tech:#8aa4f0; --c-science:#b996e8; --c-japan:#dcaa5c;
+    color-scheme:dark;
+  }
+  :root:not([data-theme="light"])[data-ed="pm"]{ --accent:#9a9ef0; --accent-soft:#25264a }
+}
+:root[data-theme="dark"]{
+  --bg:#0f1418; --surface:#161d23; --fg:#e4e9ee; --muted:#93a1ad; --line:#26313a;
+  --accent:#5fb3cf; --accent-soft:#17303a;
+  --c-world:#e6806b; --c-economy:#6cc292; --c-tech:#8aa4f0; --c-science:#b996e8; --c-japan:#dcaa5c;
+  color-scheme:dark;
+}
+:root[data-theme="dark"][data-ed="pm"]{ --accent:#9a9ef0; --accent-soft:#25264a }
+
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.75;
+  padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:720px;margin:0 auto;padding-block:28px 64px;display:flex;flex-direction:column;gap:28px}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+header{display:flex;flex-direction:column;gap:14px}
+.mast{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.mast h1{margin:0;font-size:15px;font-weight:700;letter-spacing:.12em;color:var(--muted)}
+.mast .right{display:flex;align-items:center;gap:10px}
+.stamp{font-family:var(--f-mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.reload{border:1px solid var(--line);background:var(--surface);color:var(--fg);font:inherit;font-size:12px;
+  padding:2px 10px;border-radius:999px;cursor:pointer}
+.reload[disabled]{opacity:.5;cursor:default}
+.offline{font-size:12px;color:var(--c-world)}
+.edtitle{margin:0;font-size:clamp(26px,6vw,36px);font-weight:900;line-height:1.3;text-wrap:balance}
+.edtitle .slot{display:inline-block;margin-left:.4em;padding:0 .45em;border-radius:6px;background:var(--accent);color:var(--surface);font-size:.6em;vertical-align:.25em;font-weight:700}
+
+.editions{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:thin}
+.editions button{flex:0 0 auto;border:1px solid var(--line);background:var(--surface);color:var(--fg);
+  font:inherit;font-size:13px;padding:6px 12px;border-radius:999px;cursor:pointer;white-space:nowrap}
+.editions button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface);font-weight:700}
+
+.brief{background:var(--accent-soft);border-radius:12px;padding:18px 20px}
+.brief h2{margin:0 0 8px;font-size:13px;letter-spacing:.1em;color:var(--accent)}
+.brief ol{margin:0;padding-left:1.3em;display:flex;flex-direction:column;gap:6px}
+.brief li{font-weight:500}
+
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.filters button{border:1px solid var(--line);background:transparent;color:var(--muted);font:inherit;font-size:13px;
+  padding:4px 12px;border-radius:999px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.filters button .n{font-family:var(--f-mono);font-size:11px}
+.filters button[aria-pressed="true"]{color:var(--fg);border-color:var(--fg);font-weight:700}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex:0 0 auto}
+
+.section{display:flex;flex-direction:column;gap:0}
+.section h2{margin:0 0 4px;font-size:13px;letter-spacing:.1em;display:flex;align-items:center;gap:8px}
+.item{padding:16px 0;border-top:1px solid var(--line);display:flex;flex-direction:column;gap:6px;min-width:0}
+.item:last-child{border-bottom:1px solid var(--line)}
+.item h3{margin:0;font-size:17px;line-height:1.55;font-weight:700;text-wrap:balance}
+.item p{margin:0}
+.item .note{font-size:13.5px;color:var(--muted)}
+.item .note b{font-weight:700;color:var(--fg);margin-right:.4em}
+.src{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px}
+.src a{text-decoration:none;border-bottom:1px solid currentColor;overflow-wrap:anywhere}
+
+.cat-world{--cc:var(--c-world)} .cat-economy{--cc:var(--c-economy)} .cat-tech{--cc:var(--c-tech)}
+.cat-science{--cc:var(--c-science)} .cat-japan{--cc:var(--c-japan)}
+[class*="cat-"] .dot{background:var(--cc)}
+.section[class*="cat-"] h2{color:var(--cc)}
+
+.upcoming h2{margin:0 0 10px;font-size:13px;letter-spacing:.1em;color:var(--muted)}
+.upcoming dl{margin:0;display:grid;grid-template-columns:max-content 1fr;gap:8px 16px;background:var(--surface);
+  border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.upcoming dt{font-family:var(--f-mono);font-size:13px;color:var(--accent);font-variant-numeric:tabular-nums;white-space:nowrap}
+.upcoming dd{margin:0;min-width:0}
+
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:12px;padding:24px;color:var(--muted)}
+.empty strong{color:var(--fg);display:block;margin-bottom:4px}
+footer{font-size:12px;color:var(--muted)}
+@media (max-width:440px){.upcoming dl{grid-template-columns:1fr;gap:2px}.upcoming dd{margin-bottom:8px}}
+@media (prefers-reduced-motion:no-preference){.item{animation:in .3s ease both}@keyframes in{from{opacity:.4}to{opacity:1}}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="mast">
+      <h1>朝夜ブリーフ</h1>
+      <div class="right">
+        <span class="offline" id="offline" hidden>オフライン</span>
+        <span class="stamp" id="stamp"></span>
+        <button type="button" class="reload" id="reload">更新</button>
+      </div>
+    </div>
+    <p class="edtitle" id="edtitle">最新の版を読み込んでいます</p>
+    <nav class="editions" id="editions" aria-label="過去の版"></nav>
+  </header>
+
+  <main id="main" style="display:flex;flex-direction:column;gap:28px">
+    <div class="empty">
+      <strong>読み込み中</strong>
+      毎朝7時前と夜7時前に、世界情勢・経済・新製品・科学のニュースをまとめた版が届きます。芸能・ゴシップは扱いません。
+    </div>
+  </main>
+
+  <footer>朝版は毎日6:53ごろ、夜版は18:53ごろに更新します。各記事の出典リンクから元記事を確認できます。</footer>
+</div>
+
+<script>
+const CATS = [
+  ["world","世界情勢"],["economy","経済・市場"],["tech","テクノロジー・新製品"],["science","科学・宇宙"],["japan","日本"]
+];
+const WD = ["日","月","火","水","木","金","土"];
+let editions = [];      // 新しい順（目次のみ）
+const loaded = {};      // id → 版の本文
+let currentId = null;
+let filter = "all";
+try { filter = localStorage.getItem("brief.filter") || "all"; } catch(e) {}
+
+const $ = (id) => document.getElementById(id);
+function el(tag, attrs = {}, ...kids){
+  const n = document.createElement(tag);
+  for (const [k,v] of Object.entries(attrs)) {
+    if (k === "class") n.className = v; else if (k === "text") n.textContent = v; else n.setAttribute(k, v);
+  }
+  for (const k of kids) if (k) n.append(k);
+  return n;
+}
+function safeUrl(u){ try { const x = new URL(u); return x.protocol === "https:" || x.protocol === "http:" ? x.href : null; } catch(e){ return null; } }
+function dateLabel(d){ const [y,m,dd] = d.split("-").map(Number); const w = WD[new Date(y,m-1,dd).getDay()]; return `${m}月${dd}日（${w}）`; }
+function slotLabel(s){ return s === "pm" ? "夜" : "朝"; }
+function fmtTime(iso){
+  try { return new Intl.DateTimeFormat("ja-JP",{timeZone:"Asia/Tokyo",month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"}).format(new Date(iso)) + " 更新"; }
+  catch(e){ return ""; }
+}
+async function getJSON(path){
+  const res = await fetch(path, {cache:"no-cache"});
+  if (!res.ok) throw new Error(res.status);
+  return res.json();
+}
+
+function renderEditions(){
+  const nav = $("editions"); nav.replaceChildren();
+  for (const e of editions) {
+    const [, m, d] = e.date.split("-").map(Number);
+    const b = el("button", {type:"button","aria-pressed": String(e.id === currentId)}, `${m}/${d} ${slotLabel(e.slot)}`);
+    b.addEventListener("click", () => { select(e.id); window.scrollTo({top:0}); });
+    nav.append(b);
+  }
+}
+
+async function select(id){
+  currentId = id;
+  renderEditions();
+  if (!loaded[id]) {
+    try { loaded[id] = await getJSON(`data/editions/${encodeURIComponent(id)}.json`); }
+    catch(e) { showMessage("この版を読み込めませんでした", "通信できる状態で「更新」を押してください。"); return; }
+  }
+  if (currentId === id) render();
+}
+
+function render(){
+  const ed = loaded[currentId];
+  const main = $("main");
+  if (!ed) return;
+  document.documentElement.dataset.ed = ed.slot === "pm" ? "pm" : "am";
+  $("stamp").textContent = fmtTime(ed.generatedAt);
+  const t = $("edtitle"); t.replaceChildren(dateLabel(ed.date), el("span",{class:"slot",text: slotLabel(ed.slot) + "版"}));
+  main.replaceChildren();
+
+  if (Array.isArray(ed.brief) && ed.brief.length) {
+    const ol = el("ol"); ed.brief.forEach(s => ol.append(el("li",{text:s})));
+    main.append(el("section",{class:"brief"}, el("h2",{text:"この版の要点"}), ol));
+  }
+
+  const items = Array.isArray(ed.items) ? ed.items : [];
+  const counts = {}; items.forEach(i => counts[i.cat] = (counts[i.cat]||0) + 1);
+  const active = filter !== "all" && !counts[filter] ? "all" : filter;
+  const fl = el("div",{class:"filters",role:"group","aria-label":"分野で絞り込み"});
+  const mk = (key,label,n) => {
+    const b = el("button",{type:"button",class: key==="all" ? "" : "cat-"+key,"aria-pressed":String(active===key)},
+      key==="all" ? null : el("span",{class:"dot"}), label, el("span",{class:"n",text:String(n)}));
+    b.addEventListener("click",()=>{ filter = key; try{localStorage.setItem("brief.filter",key);}catch(e){} render(); });
+    return b;
+  };
+  fl.append(mk("all","すべて",items.length));
+  CATS.forEach(([k,l]) => { if (counts[k]) fl.append(mk(k,l,counts[k])); });
+  main.append(fl);
+
+  for (const [k,l] of CATS) {
+    if (active !== "all" && active !== k) continue;
+    const list = items.filter(i => i.cat === k);
+    if (!list.length) continue;
+    const sec = el("section",{class:"section cat-"+k}, el("h2",{}, el("span",{class:"dot"}), l));
+    for (const it of list) {
+      const art = el("article",{class:"item"});
+      art.append(el("h3",{text:it.title||""}));
+      if (it.body) art.append(el("p",{text:it.body}));
+      if (it.note) art.append(el("p",{class:"note"}, el("b",{text:"補足"}), it.note));
+      const srcs = (it.sources||[]).map(s => ({name:s.name, url:safeUrl(s.url)})).filter(s => s.url);
+      if (srcs.length) {
+        const d = el("div",{class:"src"});
+        srcs.forEach(s => d.append(el("a",{href:s.url,target:"_blank",rel:"noopener noreferrer",text:s.name||new URL(s.url).hostname})));
+        art.append(d);
+      }
+      sec.append(art);
+    }
+    main.append(sec);
+  }
+
+  if (Array.isArray(ed.upcoming) && ed.upcoming.length) {
+    const dl = el("dl");
+    ed.upcoming.forEach(u => { dl.append(el("dt",{text:u.when||""}), el("dd",{text:u.what||""})); });
+    main.append(el("section",{class:"upcoming"}, el("h2",{text:"これからの予定"}), dl));
+  }
+}
+
+function showMessage(title, text){
+  $("main").replaceChildren(el("div",{class:"empty"}, el("strong",{text:title}), text));
+}
+
+async function load(){
+  const btn = $("reload"); btn.disabled = true;
+  try {
+    const idx = await getJSON("data/index.json");
+    const prevTop = editions[0] && editions[0].id;
+    editions = (idx.editions || []).slice().sort((a,b) => b.key - a.key);
+    if (!editions.length) { $("edtitle").textContent = "最初の版を準備中です"; return; }
+    // 新しい版が届いていれば最新に切り替える。同じ版の本文も取り直す
+    if (!currentId || editions[0].id !== prevTop || !editions.some(e => e.id === currentId)) currentId = editions[0].id;
+    delete loaded[currentId];
+    await select(currentId);
+  } catch(e) {
+    if (!editions.length) { $("edtitle").textContent = "朝夜ブリーフ"; showMessage("ニュースを読み込めません","通信できる状態で「更新」を押してください。"); }
+  } finally { btn.disabled = false; }
+}
+
+function syncOnline(){ $("offline").hidden = navigator.onLine; }
+window.addEventListener("online", () => { syncOnline(); load(); });
+window.addEventListener("offline", syncOnline);
+$("reload").addEventListener("click", load);
+// アプリを開き直したとき（バックグラウンドから戻ったとき）に新しい版を確認する
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
+syncOnline();
+load();
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => { navigator.serviceWorker.register("sw.js").catch(() => {}); });
+}
+</script>
+</body>
+</html>
