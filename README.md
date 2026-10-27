@@ -16,5 +16,9 @@
 `python3 scripts/build_index.py` で `docs/data/index.json` を作り直してリポジトリに push します。GitHub Pages への反映には数分かかります。
 
 ## 記事データの形式
-各記事は `region`（`domestic`=国内 / `international`=海外）と `cat`（`politics` / `economy` / `tech` / `science`）を持ちます。
+各記事は `region`（`domestic`=国内 / `international`=海外）と `cat`（`politics` / `economy` / `society` / `tech` / `science` / `health` / `environment`）を持ちます。
 `lead: true` の記事は見出し記事として図つきで大きく表示され、`visual`（`kicker`・`figure`・`unit`・`caption`）が図の文字になります。
+
+## 偏りの検査
+`python3 scripts/build_index.py --check <版のID>` は、その版について次を検査します（基準はスクリプト冒頭の定数）。
+国内・海外それぞれ6件以上で差は2件以内、分野は5種類以上、出典の媒体は8種類以上、1つの媒体を出典にする記事は3件以内、国内・海外それぞれに図つきの見出し記事が1〜2件。

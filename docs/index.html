@@ -20,6 +20,7 @@
   --bg:#f3f5f7; --surface:#ffffff; --fg:#17202a; --muted:#5a6672; --line:#dde3e9;
   --accent:#1f6f8b; --accent-soft:#e1eef3;
   --c-politics:#b2452f; --c-economy:#2f7a4f; --c-tech:#3b5bb5; --c-science:#7a4fb0;
+  --c-society:#a2681b; --c-health:#b03a6e; --c-environment:#5e7418;
   --f-body:"Zen Kaku Gothic New","Hiragino Sans","Yu Gothic","Noto Sans JP",system-ui,sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
   --nav-h:60px;
@@ -31,6 +32,7 @@
     --bg:#0f1418; --surface:#161d23; --fg:#e4e9ee; --muted:#93a1ad; --line:#26313a;
     --accent:#5fb3cf; --accent-soft:#17303a;
     --c-politics:#e6806b; --c-economy:#6cc292; --c-tech:#8aa4f0; --c-science:#b996e8;
+    --c-society:#dcaa5c; --c-health:#ec8fb8; --c-environment:#b3c75c;
     color-scheme:dark;
   }
   :root:not([data-theme="light"])[data-ed="pm"]{ --accent:#9a9ef0; --accent-soft:#25264a }
@@ -39,6 +41,7 @@
   --bg:#0f1418; --surface:#161d23; --fg:#e4e9ee; --muted:#93a1ad; --line:#26313a;
   --accent:#5fb3cf; --accent-soft:#17303a;
   --c-politics:#e6806b; --c-economy:#6cc292; --c-tech:#8aa4f0; --c-science:#b996e8;
+    --c-society:#dcaa5c; --c-health:#ec8fb8; --c-environment:#b3c75c;
   color-scheme:dark;
 }
 :root[data-theme="dark"][data-ed="pm"]{ --accent:#9a9ef0; --accent-soft:#25264a }
@@ -93,6 +96,8 @@ main{display:flex;flex-direction:column;gap:24px;padding-block:20px 40px}
 .cats button .n{font-family:var(--f-mono);font-size:11px}
 .cats button[aria-pressed="true"]{color:var(--fg);border-color:var(--fg);font-weight:700}
 .dot{width:8px;height:8px;border-radius:50%;background:var(--cc,var(--muted));flex:0 0 auto}
+.cat-society{--cc:var(--c-society);--deep:#7a4c10} .cat-health{--cc:var(--c-health);--deep:#86264f}
+.cat-environment{--cc:var(--c-environment);--deep:#46560f}
 .cat-politics{--cc:var(--c-politics);--deep:#8f3424} .cat-economy{--cc:var(--c-economy);--deep:#1f5c39}
 .cat-tech{--cc:var(--c-tech);--deep:#2a4592} .cat-science{--cc:var(--c-science);--deep:#5b3790}
 
@@ -214,10 +219,10 @@ footer{font-size:12px;color:var(--muted);padding-bottom:24px}
 
 <script>
 const REGIONS = [["domestic","国内"],["international","海外"]];
-const CATS = ["politics","economy","tech","science"];
+const CATS = ["politics","economy","society","tech","science","health","environment"];
 const CAT_LABEL = {
-  domestic:{politics:"政治・社会",economy:"経済・市場",tech:"テクノロジー・新製品",science:"科学・宇宙"},
-  international:{politics:"国際情勢",economy:"経済・市場",tech:"テクノロジー・新製品",science:"科学・宇宙"}
+  domestic:{politics:"政治",economy:"経済・市場",society:"社会・暮らし",tech:"テクノロジー・新製品",science:"科学・宇宙",health:"医療・健康",environment:"環境・エネルギー"},
+  international:{politics:"国際情勢",economy:"経済・市場",society:"社会",tech:"テクノロジー・新製品",science:"科学・宇宙",health:"医療・健康",environment:"環境・エネルギー"}
 };
 const WD = ["日","月","火","水","木","金","土"];
 const POLL_MS = 10 * 60 * 1000;
@@ -276,6 +281,15 @@ const PATTERNS = {
     <rect x="270" y="40" width="80" height="80" rx="6"/><rect x="290" y="60" width="40" height="40" rx="3"/>
     <path d="M285 40V12M310 40V12M335 40V12M285 120v28M310 120v28M335 120v28M270 65h-28M270 95h-28M350 65h28M350 95h28M242 65h-30v-40h-40M242 95h-30v60h-50"/>
     <circle cx="172" cy="25" r="4"/><circle cx="162" cy="155" r="4"/></svg>`,
+  society:`<svg viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" fill="none" stroke="#fff" stroke-opacity=".17" stroke-width="1.5">
+    <circle cx="260" cy="70" r="16"/><path d="M228 140c0-22 14-38 32-38s32 16 32 38"/><circle cx="330" cy="58" r="20"/><path d="M290 140c0-28 18-48 40-48s40 20 40 48"/>
+    <circle cx="390" cy="76" r="14"/><path d="M362 140c0-20 12-34 28-34"/><path d="M180 160h240" stroke-opacity=".1"/></svg>`,
+  health:`<svg viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" fill="none" stroke="#fff" stroke-opacity=".18" stroke-width="2">
+    <path d="M300 30h30v30h30v30h-30v30h-30V90h-30V60h30z" fill="#fff" fill-opacity=".08"/>
+    <path d="M150 160h70l14-30 18 56 16-40 10 14h122" stroke-width="1.8"/></svg>`,
+  environment:`<svg viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" fill="none" stroke="#fff" stroke-opacity=".17" stroke-width="1.5">
+    <path d="M320 140C260 140 250 80 290 40c40 30 70 70 30 100z" fill="#fff" fill-opacity=".08"/><path d="M320 140c-10-30-20-60-30-100"/>
+    <path d="M160 170q30-14 60 0t60 0t60 0t60 0M160 186q30-14 60 0t60 0t60 0t60 0" stroke-opacity=".12"/></svg>`,
   science:`<svg viewBox="0 0 400 200" preserveAspectRatio="xMaxYMid slice" aria-hidden="true" fill="none" stroke="#fff" stroke-opacity=".17" stroke-width="1.5">
     <circle cx="320" cy="80" r="16" fill="#fff" fill-opacity=".14"/>
     <ellipse cx="320" cy="80" rx="90" ry="30" transform="rotate(-20 320 80)"/><ellipse cx="320" cy="80" rx="90" ry="30" transform="rotate(40 320 80)"/>
