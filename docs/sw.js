@@ -1,6 +1,6 @@
 // アプリの画面はキャッシュ優先、ニュースのデータはネットワーク優先（圏外のときは前回の内容を表示）
-const SHELL = "shell-v1";
-const DATA = "data-v1";
+const SHELL = "shell-v2";
+const DATA = "data-v2";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", (e) => {

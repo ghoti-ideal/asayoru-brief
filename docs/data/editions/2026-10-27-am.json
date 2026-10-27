@@ -1,205 +1,261 @@
 {
-  "brief": [
-    "米FOMCが27〜28日に開催。政策金利は据え置きの見方が優勢で、結果は日本時間29日午前3時に公表予定。",
-    "ブラジル大統領選でルラ氏の再選が確定、セルビアではブチッチ氏が議会選での敗北を認めた。",
-    "Appleが有機EL搭載の新iPad miniを発表。28日（米国時間）にも新製品の発表が予定されている。"
-  ],
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T13:20:00+09:00",
-  "items": [
+ "brief": [
+  "米FOMCが27〜28日に開催。政策金利は据え置きの見方が優勢で、結果は日本時間29日午前3時に公表予定。",
+  "ブラジル大統領選でルラ氏の再選が確定、セルビアではブチッチ氏が議会選での敗北を認めた。",
+  "Appleが有機EL搭載の新iPad miniを発表。28日（米国時間）にも新製品の発表が予定されている。"
+ ],
+ "date": "2026-10-27",
+ "generatedAt": "2026-10-27T13:20:00+09:00",
+ "items": [
+  {
+   "region": "international",
+   "cat": "politics",
+   "body": "米国は、イランが米国民への攻撃計画を進めているとの情報を理由に、中東に駐在する要員の警戒レベルを引き上げ、大使館・領事館の人員を減らす方針を示した。一方、イランの駐パキスタン大使は、6月の暫定合意に基づく協議に応じる用意があると述べ、米国が海上封鎖を解除すればホルムズ海峡を再開すると提案したと明らかにした。",
+   "sources": [
     {
-      "body": "米国は、イランが米国民への攻撃計画を進めているとの情報を理由に、中東に駐在する要員の警戒レベルを引き上げ、大使館・領事館の人員を減らす方針を示した。一方、イランの駐パキスタン大使は、6月の暫定合意に基づく協議に応じる用意があると述べ、米国が海上封鎖を解除すればホルムズ海峡を再開すると提案したと明らかにした。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "Just Security（10/26）",
-          "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
-        }
-      ],
-      "title": "米国、中東の要員に警戒態勢　在外公館の人員も削減へ"
-    },
-    {
-      "body": "選挙裁判所は、ルラ大統領が得票率51.79%で再選されたと発表した。対立候補のフラビオ・ボルソナロ氏は敗北を認めず、選挙結果の無効を裁判所に求める方針を示している。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "Just Security（10/26）",
-          "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
-        },
-        {
-          "name": "Democracy Now!（10/26）",
-          "url": "https://www.democracynow.org/2026/10/26/headlines"
-        }
-      ],
-      "title": "ブラジル大統領選、ルラ氏が4期目の再選"
-    },
-    {
-      "body": "前倒しで実施された議会選挙で、学生主導の野党「学生リスト」が250議席中135議席以上を獲得する見通しとなり、ブチッチ大統領は敗北を認めた。ブチッチ氏側の獲得議席は105議席の見通し。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "Democracy Now!（10/26）",
-          "url": "https://www.democracynow.org/2026/10/26/headlines"
-        }
-      ],
-      "title": "セルビア議会選、ブチッチ氏が敗北を認める"
-    },
-    {
-      "body": "マスク氏は、高速で移動する端末の接続を意図的に制限したことを認めた。これにより軍用機やドローンの運用に支障が生じたが、ウクライナ当局によると通信は通常の状態に戻っている。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "Democracy Now!（10/26）",
-          "url": "https://www.democracynow.org/2026/10/26/headlines"
-        },
-        {
-          "name": "Just Security（10/26）",
-          "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
-        }
-      ],
-      "title": "ウクライナでスターリンク通信が一時制限、現在は復旧"
-    },
-    {
-      "body": "ロシアのウシャコフ大統領補佐官は26日、プーチン大統領が28〜29日にモスクワでアフリカ諸国との首脳会議を開くと明らかにした。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "nippon.com（共同通信）",
-          "url": "https://www.nippon.com/ja/news/kd1487543314723111768/"
-        }
-      ],
-      "title": "ロシア、28〜29日にモスクワでアフリカとの首脳会議"
-    },
-    {
-      "body": "スーダンの国営電力会社は、準軍事組織RSF（即応支援部隊）の無人機攻撃で南東部4州の発電所が被害を受けたと発表した。英国は、ファシェル陥落に関連する性暴力や民間人への攻撃などを理由に、両陣営の軍・民兵幹部15人に制裁を科した。",
-      "cat": "world",
-      "sources": [
-        {
-          "name": "Just Security（10/26）",
-          "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
-        }
-      ],
-      "title": "スーダン、RSFの無人機攻撃で4州の発電所が被害"
-    },
-    {
-      "body": "現在の政策金利（FF金利の誘導目標）は3.75〜4.00%。CMEのFedWatchでは据え置きの確率が約9割と織り込まれている。9月の消費者物価指数は前年比3.7%上昇と予想（3.6%）を上回っており、12月8〜9日の会合での利上げ確率は約73%に高まっている。今回は経済見通しの更新がないため、ウォーシュ議長の記者会見の内容が焦点となる。",
-      "cat": "economy",
-      "note": "結果の公表は米東部時間28日午後2時（日本時間29日午前3時）。",
-      "sources": [
-        {
-          "name": "Kiplinger",
-          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
-        }
-      ],
-      "title": "米FOMC、27〜28日に開催　据え置きの見方が優勢"
-    },
-    {
-      "body": "27日の東京株式市場で、日経平均株価は前場終値が前日比1191.64円高の6万3381.29円となった。同時刻のドル円相場は1ドル＝157円64銭付近。",
-      "cat": "economy",
-      "sources": [
-        {
-          "name": "ザイFX!（フィスコ）",
-          "url": "https://zai.diamond.jp/articles/-/497957"
-        }
-      ],
-      "title": "日経平均、27日前場は1191円高の6万3381円"
-    },
-    {
-      "body": "GlobalFoundriesは、日本からの最大210億ドルの資金支援を受け、米ニューヨーク州マルタに半導体工場を2棟建設する計画。米商務省は同社株の約4%を取得する。また、ASMLは2027〜28年の供給計画では顧客の需要を満たしきれない見通しを示した。",
-      "cat": "economy",
-      "note": "10月中旬に報じられた内容です。",
-      "sources": [
-        {
-          "name": "Investing News Network",
-          "url": "https://investingnews.com/top-tech-news/"
-        }
-      ],
-      "title": "半導体：日本の支援でGlobalFoundriesが米国に新工場2棟"
-    },
-    {
-      "body": "新しいiPad miniは有機ELディスプレイ、A20 Proチップ、IP67の防塵・防水性能を備え、従来より薄く軽くなった。米国価格は699ドルから。予約受付は10月28日、発売は11月6日。急速充電には別売りの35W電源アダプタが必要。",
-      "cat": "tech",
-      "sources": [
-        {
-          "name": "MacRumors（10/26）",
-          "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
-        }
-      ],
-      "title": "Apple、有機EL搭載の新iPad miniを発表"
-    },
-    {
-      "body": "Appleのジョズウィアック氏が「エキサイティングな1週間」を予告した。米国時間28日午前10時にロサンゼルスで報道関係者向けの催しがあり、M6チップ搭載のiMacや14インチMacBook Pro、タッチ操作対応の有機EL搭載MacBook Proの発表が予想されている（いずれも未発表）。",
-      "cat": "tech",
-      "sources": [
-        {
-          "name": "MacRumors（10/26）",
-          "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
-        },
-        {
-          "name": "Business Standard",
-          "url": "https://www.business-standard.com/technology/tech-news/apple-pro-and-tell-event-oled-macbook-pro-ipad-mini-imac-126102600273_1.html"
-        }
-      ],
-      "title": "Apple、28日にも新製品発表の見込み"
-    },
-    {
-      "body": "HomePod mini 2（S10チップ搭載）は10月30日、A19チップ搭載の新しいApple TVと、7インチの正方形ディスプレイを持つ家庭用端末HomeView（米国価格299ドル）は11月13日に発売される。いずれも予約受付中。",
-      "cat": "tech",
-      "sources": [
-        {
-          "name": "MacRumors（10/26）",
-          "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
-        },
-        {
-          "name": "Investing News Network",
-          "url": "https://investingnews.com/top-tech-news/"
-        }
-      ],
-      "title": "HomePod mini 2は30日、新Apple TVとHomeViewは11月13日発売"
-    },
-    {
-      "body": "調査会社IDCによると、7〜9月期の世界のスマートフォン出荷台数は前年同期比22%減少し、記録上最大の減少幅となった。IDCはメモリ価格の上昇を要因に挙げている。",
-      "cat": "tech",
-      "note": "10月中旬に報じられた内容です。",
-      "sources": [
-        {
-          "name": "Investing News Network",
-          "url": "https://investingnews.com/top-tech-news/"
-        }
-      ],
-      "title": "7〜9月の世界スマートフォン出荷、前年比22%減で過去最大の落ち込み"
+     "name": "Just Security（10/26）",
+     "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
     }
-  ],
-  "key": 2026102701,
-  "slot": "am",
-  "upcoming": [
+   ],
+   "title": "米国、中東の要員に警戒態勢　在外公館の人員も削減へ"
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "body": "選挙裁判所は、ルラ大統領が得票率51.79%で再選されたと発表した。対立候補のフラビオ・ボルソナロ氏は敗北を認めず、選挙結果の無効を裁判所に求める方針を示している。",
+   "sources": [
     {
-      "what": "ロシア・アフリカ首脳会議（モスクワ）",
-      "when": "10/28〜29"
+     "name": "Just Security（10/26）",
+     "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
     },
     {
-      "what": "新iPad mini 予約開始／Apple 報道向け催し（米国時間）",
-      "when": "10/28"
-    },
-    {
-      "what": "米FOMCの政策金利発表（日本時間）",
-      "when": "10/29 3:00"
-    },
-    {
-      "what": "HomePod mini 2 発売",
-      "when": "10/30"
-    },
-    {
-      "what": "米国中間選挙",
-      "when": "11/3"
-    },
-    {
-      "what": "新iPad mini 発売",
-      "when": "11/6"
-    },
-    {
-      "what": "次回の米FOMC",
-      "when": "12/8〜9"
+     "name": "Democracy Now!（10/26）",
+     "url": "https://www.democracynow.org/2026/10/26/headlines"
     }
-  ]
+   ],
+   "title": "ブラジル大統領選、ルラ氏が4期目の再選",
+   "visual": {
+    "kicker": "ルラ氏の得票率",
+    "figure": "51.79",
+    "unit": "%",
+    "caption": "ブラジル大統領選"
+   }
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "body": "前倒しで実施された議会選挙で、学生主導の野党「学生リスト」が250議席中135議席以上を獲得する見通しとなり、ブチッチ大統領は敗北を認めた。ブチッチ氏側の獲得議席は105議席の見通し。",
+   "sources": [
+    {
+     "name": "Democracy Now!（10/26）",
+     "url": "https://www.democracynow.org/2026/10/26/headlines"
+    }
+   ],
+   "title": "セルビア議会選、ブチッチ氏が敗北を認める",
+   "visual": {
+    "kicker": "学生リストの獲得見通し",
+    "figure": "135",
+    "unit": "議席以上",
+    "caption": "定数250"
+   }
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "body": "マスク氏は、高速で移動する端末の接続を意図的に制限したことを認めた。これにより軍用機やドローンの運用に支障が生じたが、ウクライナ当局によると通信は通常の状態に戻っている。",
+   "sources": [
+    {
+     "name": "Democracy Now!（10/26）",
+     "url": "https://www.democracynow.org/2026/10/26/headlines"
+    },
+    {
+     "name": "Just Security（10/26）",
+     "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
+    }
+   ],
+   "title": "ウクライナでスターリンク通信が一時制限、現在は復旧"
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "body": "ロシアのウシャコフ大統領補佐官は26日、プーチン大統領が28〜29日にモスクワでアフリカ諸国との首脳会議を開くと明らかにした。",
+   "sources": [
+    {
+     "name": "nippon.com（共同通信）",
+     "url": "https://www.nippon.com/ja/news/kd1487543314723111768/"
+    }
+   ],
+   "title": "ロシア、28〜29日にモスクワでアフリカとの首脳会議"
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "body": "スーダンの国営電力会社は、準軍事組織RSF（即応支援部隊）の無人機攻撃で南東部4州の発電所が被害を受けたと発表した。英国は、ファシェル陥落に関連する性暴力や民間人への攻撃などを理由に、両陣営の軍・民兵幹部15人に制裁を科した。",
+   "sources": [
+    {
+     "name": "Just Security（10/26）",
+     "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/"
+    }
+   ],
+   "title": "スーダン、RSFの無人機攻撃で4州の発電所が被害"
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "body": "現在の政策金利（FF金利の誘導目標）は3.75〜4.00%。CMEのFedWatchでは据え置きの確率が約9割と織り込まれている。9月の消費者物価指数は前年比3.7%上昇と予想（3.6%）を上回っており、12月8〜9日の会合での利上げ確率は約73%に高まっている。今回は経済見通しの更新がないため、ウォーシュ議長の記者会見の内容が焦点となる。",
+   "note": "結果の公表は米東部時間28日午後2時（日本時間29日午前3時）。",
+   "sources": [
+    {
+     "name": "Kiplinger",
+     "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
+    }
+   ],
+   "title": "米FOMC、27〜28日に開催　据え置きの見方が優勢",
+   "visual": {
+    "kicker": "FF金利の誘導目標",
+    "figure": "3.75〜4.00",
+    "unit": "%",
+    "caption": "結果の公表は日本時間29日午前3時"
+   }
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "body": "27日の東京株式市場で、日経平均株価は前場終値が前日比1191.64円高の6万3381.29円となった。同時刻のドル円相場は1ドル＝157円64銭付近。",
+   "sources": [
+    {
+     "name": "ザイFX!（フィスコ）",
+     "url": "https://zai.diamond.jp/articles/-/497957"
+    }
+   ],
+   "title": "日経平均、27日前場は1191円高の6万3381円",
+   "visual": {
+    "kicker": "日経平均 前場終値",
+    "figure": "63,381.29",
+    "unit": "円",
+    "caption": "前日比 +1,191.64円"
+   }
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "body": "GlobalFoundriesは、日本からの最大210億ドルの資金支援を受け、米ニューヨーク州マルタに半導体工場を2棟建設する計画。米商務省は同社株の約4%を取得する。また、ASMLは2027〜28年の供給計画では顧客の需要を満たしきれない見通しを示した。",
+   "note": "10月中旬に報じられた内容です。",
+   "sources": [
+    {
+     "name": "Investing News Network",
+     "url": "https://investingnews.com/top-tech-news/"
+    }
+   ],
+   "title": "半導体：日本の支援でGlobalFoundriesが米国に新工場2棟",
+   "visual": {
+    "kicker": "日本からの資金支援",
+    "figure": "最大210",
+    "unit": "億ドル"
+   }
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "body": "新しいiPad miniは有機ELディスプレイ、A20 Proチップ、IP67の防塵・防水性能を備え、従来より薄く軽くなった。米国価格は699ドルから。予約受付は10月28日、発売は11月6日。急速充電には別売りの35W電源アダプタが必要。",
+   "sources": [
+    {
+     "name": "MacRumors（10/26）",
+     "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+    }
+   ],
+   "title": "Apple、有機EL搭載の新iPad miniを発表",
+   "visual": {
+    "kicker": "新iPad mini 米国価格",
+    "figure": "699",
+    "unit": "ドルから"
+   }
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "body": "Appleのジョズウィアック氏が「エキサイティングな1週間」を予告した。米国時間28日午前10時にロサンゼルスで報道関係者向けの催しがあり、M6チップ搭載のiMacや14インチMacBook Pro、タッチ操作対応の有機EL搭載MacBook Proの発表が予想されている（いずれも未発表）。",
+   "sources": [
+    {
+     "name": "MacRumors（10/26）",
+     "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+    },
+    {
+     "name": "Business Standard",
+     "url": "https://www.business-standard.com/technology/tech-news/apple-pro-and-tell-event-oled-macbook-pro-ipad-mini-imac-126102600273_1.html"
+    }
+   ],
+   "title": "Apple、28日にも新製品発表の見込み"
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "body": "HomePod mini 2（S10チップ搭載）は10月30日、A19チップ搭載の新しいApple TVと、7インチの正方形ディスプレイを持つ家庭用端末HomeView（米国価格299ドル）は11月13日に発売される。いずれも予約受付中。",
+   "sources": [
+    {
+     "name": "MacRumors（10/26）",
+     "url": "https://www.macrumors.com/2026/10/26/apple-teases-exciting-week-ahead/"
+    },
+    {
+     "name": "Investing News Network",
+     "url": "https://investingnews.com/top-tech-news/"
+    }
+   ],
+   "title": "HomePod mini 2は30日、新Apple TVとHomeViewは11月13日発売"
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "body": "調査会社IDCによると、7〜9月期の世界のスマートフォン出荷台数は前年同期比22%減少し、記録上最大の減少幅となった。IDCはメモリ価格の上昇を要因に挙げている。",
+   "note": "10月中旬に報じられた内容です。",
+   "sources": [
+    {
+     "name": "Investing News Network",
+     "url": "https://investingnews.com/top-tech-news/"
+    }
+   ],
+   "title": "7〜9月の世界スマートフォン出荷、前年比22%減で過去最大の落ち込み",
+   "visual": {
+    "kicker": "世界スマホ出荷 7〜9月期",
+    "figure": "−22",
+    "unit": "%",
+    "caption": "前年同期比"
+   }
+  }
+ ],
+ "key": 2026102701,
+ "slot": "am",
+ "upcoming": [
+  {
+   "what": "ロシア・アフリカ首脳会議（モスクワ）",
+   "when": "10/28〜29"
+  },
+  {
+   "what": "新iPad mini 予約開始／Apple 報道向け催し（米国時間）",
+   "when": "10/28"
+  },
+  {
+   "what": "米FOMCの政策金利発表（日本時間）",
+   "when": "10/29 3:00"
+  },
+  {
+   "what": "HomePod mini 2 発売",
+   "when": "10/30"
+  },
+  {
+   "what": "米国中間選挙",
+   "when": "11/3"
+  },
+  {
+   "what": "新iPad mini 発売",
+   "when": "11/6"
+  },
+  {
+   "what": "次回の米FOMC",
+   "when": "12/8〜9"
+  }
+ ]
 }
