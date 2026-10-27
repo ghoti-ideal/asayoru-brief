@@ -1,0 +1,286 @@
+{
+ "date": "2026-10-28",
+ "slot": "am",
+ "key": 2026102801,
+ "generatedAt": "2026-10-28T06:58:38+09:00",
+ "brief": [
+  "イスラエル総選挙の出口調査で、どの陣営も過半数の61議席に届かず。リクードは第1党の見通し。",
+  "消費減税法案で参院の野党6党が特別委の設置を審議入りの条件に。与党は財政金融委での審議を主張。",
+  "10月の鶏卵の店頭平均価格は312円で過去最高。米国株はナスダック総合指数が1.2%上昇した。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "消費減税法案、参院野党が特別委設置を審議入りの条件に",
+   "body": "立憲民主党など参院の野党6党の国会対策委員長が27日に会談し、消費減税関連法案について、特別委員会を設置しなければ審議入りに応じないことで一致した。特別委は40人で構成し、委員長ポストを野党に割り当てることや、高市首相の複数回の出席、衆院を上回る審議時間の確保を求める。与党側は財政金融委員会で審議する立場を示している。",
+   "visual": {
+    "kicker": "特別委設置を求める野党",
+    "figure": "6",
+    "unit": "党",
+    "caption": "参院の野党国対委員長が27日に一致"
+   },
+   "sources": [
+    {
+     "name": "時事通信（10/27）",
+     "url": "https://www.jiji.com/jc/article?k=2026102700893&g=pol"
+    },
+    {
+     "name": "日本経済新聞（10/27）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA277X50X21C26A0000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "10月の月例経済報告、「緩やかに回復」の判断を維持",
+   "body": "政府は27日、10月の月例経済報告で、景気は「緩やかに回復しているが、中東情勢の影響を注視する必要がある」との基調判断を前月から維持した。注視する対象から自然災害を外した。個別項目では、輸出を「このところ持ち直しの動きに足踏みがみられる」に引き下げ、企業の業況判断は上方修正した。",
+   "sources": [
+    {
+     "name": "NHK（10/27）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66635"
+    },
+    {
+     "name": "nippon.com（共同通信、10/27）",
+     "url": "https://www.nippon.com/ja/news/kd1487725406418600801/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ニデック、永守氏ら旧役員9人を提訴へ　不正会計で",
+   "body": "ニデックは27日、不正会計問題をめぐり、創業者の永守重信氏ら旧役員9人に損害賠償を求める訴訟を起こす方針を決めたと発表した。役員責任調査委員会は9人の賠償責任を認め、調査費用を含む損害額を約276億円と算定していた。具体的な請求額は今後検討し、準備が整い次第提訴する。",
+   "sources": [
+    {
+     "name": "NHK（10/27）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261027de66585"
+    },
+    {
+     "name": "東京新聞（共同通信、10/27）",
+     "url": "https://www.tokyo-np.co.jp/article/524290"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "NY外為市場、円相場は1ドル＝157円台後半",
+   "body": "27日のニューヨーク外国為替市場で、円相場は1ドル＝157円台後半で取引された。米国の経済指標が市場予想を上回って長期金利が上昇し、ドルを買う動きが優勢になった。",
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/27）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/932225"
+    },
+    {
+     "name": "ザイFX！（10/28）",
+     "url": "https://zai.diamond.jp/articles/-/498027"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "10月の卵の店頭価格、1パック312円で過去最高",
+   "body": "農林水産省が27日に発表した食品価格動向調査によると、10月の鶏卵の平均価格は10個入り1パックで312円となり、前月より3円上がった。2003年の調査開始以来の最高値となった。調査は全国のスーパーなど470店舗が対象。",
+   "visual": {
+    "kicker": "鶏卵10個入り 平均価格",
+    "figure": "312",
+    "unit": "円",
+    "caption": "2003年の調査開始以来の最高"
+   },
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/27）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/932068"
+    },
+    {
+     "name": "テレビ朝日（ANN、10/27）",
+     "url": "https://news.yahoo.co.jp/articles/cbf68ce7e372fddd3056784fdf32512ed1ec7a44"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMOへの不正アクセス、攻撃者側が顧客情報の一部を掲載",
+   "body": "GMOインターネットグループのサービスに不正アクセスした攻撃者を名乗るグループが27日、顧客のものとする個人情報の一部を自らのサイトに掲載したと報じられた。攻撃者側は同日正午までに100万ドルを支払うよう求めていたが、GMOは応じていない。掲載された情報が本物かどうかは確認されておらず、GMOは情報の拡散を控えるよう呼びかけている。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/27）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC2748H0X21C26A0000000/"
+    },
+    {
+     "name": "共同通信（10/27）",
+     "url": "https://news.yahoo.co.jp/articles/e0b740f5c9d42c301c51e39e56e72e87768b1993"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "28日は12月並みの寒気、北海道で暴風や雪のおそれ",
+   "body": "28日は日本付近が西高東低の冬型の気圧配置となり、北日本を中心に12月並みの寒気が流れ込む見込み。北海道では平地でも雪が降り、最大瞬間風速35メートルの暴風が吹くおそれがある。関東や近畿でも北風が強まり、木枯らし1号が吹く可能性がある。",
+   "sources": [
+    {
+     "name": "tenki.jp（日本気象協会、10/27）",
+     "url": "https://tenki.jp/forecaster/t_yoshida/2026/10/27/41114.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "イスラエル総選挙、出口調査でどの陣営も過半数に届かず",
+   "body": "イスラエルで27日に国会（定数120）の総選挙が行われた。主要テレビ局の出口調査によると、ネタニヤフ首相の陣営は約50議席、アイゼンコット元参謀総長を中心とする野党陣営は52〜53議席で、いずれも過半数の61議席に届かない見通し。ネタニヤフ氏のリクードは24〜25議席で第1党となる見込みで、アラブ系政党は17〜18議席とされる。",
+   "note": "出口調査は推計で、最終結果は数日中に判明する。ヘルツォグ大統領が来週、組閣を任せる党を決める。",
+   "visual": {
+    "kicker": "過半数に必要な議席",
+    "figure": "61",
+    "unit": "議席",
+    "caption": "出口調査ではどの陣営も届かず"
+   },
+   "sources": [
+    {
+     "name": "CNN（10/27）",
+     "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+    },
+    {
+     "name": "CTV News（10/27）",
+     "url": "https://www.ctvnews.ca/world/article/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "オレシュキの局地停戦、初日は双方が順守とウクライナ側",
+   "body": "ウクライナ南部オレシュキで27日に発効した局地停戦について、ウクライナの人権オンブズマンのルビネツ氏は、現地時間27日17時30分（日本時間28日0時30分）の時点で双方が停戦を守っており、違反は確認されていないと述べた。停戦は11月1日夜まで続く予定。一方、ゼレンスキー大統領は、ロシアが前夜に弾道ミサイル16発と無人機280機を発射したと述べた。",
+   "sources": [
+    {
+     "name": "ウクラインスカ・プラウダ（10/27）",
+     "url": "https://www.pravda.com.ua/eng/news/2026/10/27/8059982/"
+    },
+    {
+     "name": "CNBC（10/27）",
+     "url": "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "中国外務省、英国の入出国時の取り調べに抗議",
+   "body": "中国外務省の郭嘉昆報道官は27日の記者会見で、英国への入出国の際に中国人が警察に長時間足止めされて取り調べを受け、携帯電話を押収される事例があるとして、英国側に正式に抗議したと述べた。",
+   "sources": [
+    {
+     "name": "中国外務省（10/27）",
+     "url": "https://www.fmprc.gov.cn/eng/xw/fyrbt/lxjzh/202610/t20261027_12047821.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米国株、ナスダックが1.2%高　AI・半導体株に買い",
+   "body": "27日の米国株式市場は、ナスダック総合指数が前日比1.2%（308ポイント）高の2万6478、S&P500種株価指数が0.6%高の7722.60で取引を終えた。ダウ工業株30種平均は0.03%の小幅高だった。AIや半導体関連の銘柄が買われた。28日には米連邦準備制度理事会（FRB）が政策金利を発表する。",
+   "visual": {
+    "kicker": "ナスダック総合 終値",
+    "figure": "26,478",
+    "caption": "前日比 +1.2%"
+   },
+   "sources": [
+    {
+     "name": "Investing.com（10/27）",
+     "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-003-4976864"
+    },
+    {
+     "name": "Proactive Investors（10/27）",
+     "url": "https://www.proactiveinvestors.com/companies/news/1100726/markets-live-wall-street-closes-higher-as-tech-stocks-rebound-ahead-of-fed-decision-1100726.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "Apple、M6チップ搭載の14インチMacBook Proを発表",
+   "body": "Appleは米国時間27日、新しいM6チップを搭載した14インチMacBook Proを発表した。Appleによると、GPUの性能はM5に比べて最大30%向上した。予約受け付けは28日に始まり、11月6日に発売する。同日、M6を搭載したiMacも発表した。",
+   "sources": [
+    {
+     "name": "Apple（10/27）",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+    },
+    {
+     "name": "MacRumors（10/27）",
+     "url": "https://www.macrumors.com/2026/10/27/14-inch-macbook-pro-with-m6-chip/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "インドネシアとシンガポール、煙害対策で作業部会設置へ",
+   "body": "インドネシアとシンガポールの外相が27日、ジャカルタで会談し、インドネシアの森林火災による煙害について、関与した企業の責任を問うための合同作業部会を設ける方針を示した。インドネシアがシンガポール向けの天然ガス輸出を減らしたことをめぐっては、インドネシアのバフリル・エネルギー相が契約の最低量の範囲内だと説明している。",
+   "note": "インドネシア産ガスはシンガポールの1日のガス需要の2%未満とされる。",
+   "sources": [
+    {
+     "name": "The Star（10/27）",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/27/indonesian-singapore-foreign-ministers-meet-amid-spat-over-haze-gas"
+    },
+    {
+     "name": "South China Morning Post（10/27）",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3372331/singapore-indonesia-plan-create-haze-task-force-share-data-amid-tensions"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "サイクロン「アルナブ」、28日昼にもインド東部に上陸へ",
+   "body": "インド気象局によると、非常に強いサイクロン「アルナブ」は現地時間28日11時30分（日本時間同日15時）までにアンドラプラデシュ州とオディシャ州付近の海岸を通過する見通しで、最大風速は時速115〜125キロ、最大瞬間風速は時速140キロに達する。アンドラプラデシュ州の災害当局者はロイター通信に、避難が必要な約40万人のうち、26日夜までに約5万人が避難所に移ったと述べた。",
+   "sources": [
+    {
+     "name": "Al Jazeera（10/27）",
+     "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/28",
+   "what": "Appleの新製品発表会（米国時間）"
+  },
+  {
+   "when": "10/29 3:00",
+   "what": "米FOMCの政策金利発表（日本時間）"
+  },
+  {
+   "when": "10/29",
+   "what": "中国共産党5中全会が閉幕"
+  },
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "11/1",
+   "what": "オレシュキ局地停戦の期限（現地時間 夜）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/6",
+   "what": "M6搭載の新MacBook Pro発売"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
