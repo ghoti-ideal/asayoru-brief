@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-28",
+ "slot": "pm",
+ "key": 2026102802,
+ "generatedAt": "2026-10-28T18:58:31+09:00",
+ "brief": [
+  "イスラエル総選挙は開票途中でネタニヤフ氏の陣営が54議席。どの陣営も過半数の61に届かず。",
+  "日経平均は685円高の6万3954円で続伸。韓国SKハイニックスは7〜9月期に過去最高の売上高。",
+  "コンゴのエボラ出血熱の確定感染者が1万人を超えた。東京と近畿では木枯らし1号が吹いた。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が続伸、685円高の6万3954円",
+   "body": "28日の東京株式市場で、日経平均株価の終値は前日比685円82銭（1.08%）高の6万3954円19銭だった。半導体関連株に海外投資家の買いが入り、韓国SKハイニックスの好決算を受けてキオクシアホールディングスは一時13.76%高まで上昇した。東証株価指数（TOPIX）は5.66ポイント安の3991.71で、3営業日ぶりに反落した。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "63,954.19",
+    "unit": "円",
+    "caption": "前日比 +685.82円"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（10/28）",
+     "url": "https://www.nikkei.com/article/DGXZQOFL285BP0Y6A021C2000000/"
+    },
+    {
+     "name": "共同通信（10/28）",
+     "url": "https://news.yahoo.co.jp/articles/f2ca5c81a1f7101025d610f81fba2b1a48b641dc"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "アドバンテスト、今期の純利益予想を12%上方修正",
+   "body": "半導体試験装置大手のアドバンテストは28日の取引終了後に決算を発表し、2027年3月期の連結純利益予想を6600億円から7415億円に引き上げた。株探によると、最高益予想の上乗せとなる。",
+   "sources": [
+    {
+     "name": "株探（10/28）",
+     "url": "https://kabutan.jp/news/?b=k202610280046"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、政府が支援金の考え方を示す資料を提示",
+   "body": "食料品の消費税減税を盛り込んだ関連法案をめぐり、政府は28日、衆院財務金融委員会の理事会で、所得に応じて支給する支援金の考え方を整理した資料を示した。野党側の求めに応じたもの。",
+   "note": "法案は2027年4月から2年間に限り、食料品の消費税率を1%に引き下げる内容。",
+   "sources": [
+    {
+     "name": "NHK（10/28）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66946"
+    },
+    {
+     "name": "秋田魁新報（共同通信、10/1）",
+     "url": "https://www.sakigake.jp/news/article/20261001CO0108/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "ドイツのメルツ首相が初来日、高市首相と会談へ",
+   "body": "政府の発表によると、ドイツのメルツ首相が28日から29日の日程で来日し、高市首相と会談する。メルツ氏の来日は首相就任後初めて。インド太平洋地域の安全保障や防衛協力、ドローンの技術開発などが話し合われる見通し。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/23）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA239MW0T21C26A0000000/"
+    },
+    {
+     "name": "共同通信（10/23）",
+     "url": "https://news.yahoo.co.jp/articles/49b1cce0728532e17eb342021f4993d97935e276"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "「自動物流道路」の実証実験が始まる　つくばで自動走行を検証",
+   "body": "国土交通省は28日から、荷物を専用の道路で自動輸送する「自動物流道路」の実証実験を順次始めた。最初はつくば市の国土技術政策総合研究所の試験走路で、大成建設などのグループが複数台の搬送機器による自動走行や車線変更、分流・合流を検証する。11月以降は成田空港などでも実験を行う。",
+   "sources": [
+    {
+     "name": "国土交通省（10/20）",
+     "url": "https://www.mlit.go.jp/report/press/road01_hh_002159.html"
+    },
+    {
+     "name": "LOGISTICS TODAY",
+     "url": "https://www.logi-today.com/1012967"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "熊本地震から3か月、約1000人が避難所に",
+   "body": "7月に起きた熊本地震から28日で3か月となった。現在も約1000人が避難所で暮らし、損壊した自宅で生活を続ける人も多い。住まいの確保と、在宅で避難する人への継続した支援が課題となっている。",
+   "sources": [
+    {
+     "name": "NHK（10/28）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66706"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "富山市の国の分散備蓄拠点、支援物資の搬入始まる",
+   "body": "大規模災害の際に被災した自治体へ支援物資を速く届けるため、富山市に整備される国の「分散備蓄拠点」で、28日から物資の搬入が始まった。",
+   "sources": [
+    {
+     "name": "NHK（10/28）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028de66837"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "東京と近畿で木枯らし1号、昨年より6日早く",
+   "body": "気象庁は28日、東京地方と近畿地方で木枯らし1号が吹いたと発表した。いずれも昨年より6日早い。冬型の気圧配置となり、東京都心では午前5時20分に最大瞬間風速16.9メートルを観測した。",
+   "sources": [
+    {
+     "name": "時事通信（10/28）",
+     "url": "https://www.jiji.com/jc/article?k=2026102800520&g=soc&m=rss"
+    },
+    {
+     "name": "tenki.jp（日本気象協会、10/28）",
+     "url": "https://tenki.jp/forecaster/deskpart/2026/10/28/41121.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "イスラエル総選挙、開票途中でどの陣営も過半数届かず",
+   "body": "27日に投票が行われたイスラエル総選挙（定数120）は開票が進み、中央選挙管理委員会の途中結果では、ネタニヤフ首相の陣営が54議席、アイゼンコット元参謀総長の陣営が47議席、アラブ系政党が19議席となっている。どの陣営も組閣に必要な過半数の61議席に届いていない。政党別ではネタニヤフ氏のリクードが27議席で第1党となる見込み。",
+   "note": "28日のイスラエル市場では、選挙で明確な勝者が出なかったことを受けて国債と通貨シェケルが売られた（CNBC）。",
+   "visual": {
+    "kicker": "ネタニヤフ氏の陣営",
+    "figure": "54",
+    "unit": "議席",
+    "caption": "開票途中。過半数は61議席"
+   },
+   "sources": [
+    {
+     "name": "The Times of Israel（10/28）",
+     "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
+    },
+    {
+     "name": "CNBC（10/28）",
+     "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ブラジル大統領選で敗れたフラビオ・ボルソナロ氏、出国と報道",
+   "body": "ブラジル最高裁のモラエス判事は、資金洗浄の捜査に関連して、大統領選の決選投票で敗れたフラビオ・ボルソナロ上院議員に旅券を24時間以内に提出するよう命じていた。その後、同氏が国外に出たと複数のメディアが報じ、米国務省高官は同氏と家族に査証を発給すると述べた。警察関係者はAFP通信に、旅券は無効になり、正式な出国記録はないと話した。ルラ大統領は出国を「恥ずべきことだ」と批判した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（10/27）",
+     "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa"
+    },
+    {
+     "name": "France 24（10/27）",
+     "url": "https://www.france24.com/en/americas/20261027-defeated-brazilian-candidate-flavio-bolsonaro-passports-cancelled-whereabouts-unknown"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ASEAN拡大国防相会議が開幕、米国防長官が協力の枠組みを提案",
+   "body": "第20回ASEAN国防相会議と第13回拡大ASEAN国防相会議が28日、フィリピン中部セブ州ラプラプ市で始まった。会期は29日まで。ヘグセス米国防長官は、今後の指針となる米ASEAN防衛協力の枠組みを提案した。会期中、ヘグセス氏はインドのシン国防相や小泉防衛相とも会談した。",
+   "sources": [
+    {
+     "name": "The Manila Times（10/28）",
+     "url": "https://manilatimes.net/2026/10/28/news/hegseth-proposes-ambitious-us-asean-defense-framework-at-philippine-summit/2455807"
+    },
+    {
+     "name": "AsiaOne（10/28）",
+     "url": "https://www.asiaone.com/world/hegseth-reassures-southeast-asia-us-commitment-pledges-stronger-defence-ties"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "SKハイニックス、7〜9月期の売上高と営業利益が過去最高",
+   "body": "韓国の半導体大手SKハイニックスは28日、7〜9月期の売上高が104兆6000億ウォン、営業利益が83兆3300億ウォンだったと発表し、いずれも過去最高となった。営業利益は前年同期比632%増で、営業利益率は79.7%だった。AI向けの高帯域幅メモリー「HBM4」は7〜9月期に本格的な量産に入った。",
+   "visual": {
+    "kicker": "SKハイニックス 7〜9月売上高",
+    "figure": "104.6",
+    "unit": "兆ウォン",
+    "caption": "営業利益率は79.7%"
+   },
+   "sources": [
+    {
+     "name": "The Korea Times（10/28）",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261028/sk-hynix-logs-record-q3-operating-profit-of-628-bil"
+    },
+    {
+     "name": "Seoul Economic Daily（10/28）",
+     "url": "https://en.sedaily.com/finance/2026/10/28/sk-hynix-posts-record-797-percent-operating-margin-in-third"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "サイクロン「アルナブ」がインド東部に上陸、3人死亡",
+   "body": "サイクロン「アルナブ」は28日未明、インド東部アンドラプラデシュ州の沿岸に上陸し、その後「強いサイクロン」に勢力を弱めた。インド国家災害対応部隊（NDRF）によると、同州で3人が死亡し、住宅31棟が損壊した。同州では約5万7000人が救援キャンプに避難した。",
+   "sources": [
+    {
+     "name": "ThePrint（PTI、10/28）",
+     "url": "https://theprint.in/india/cyclone-arnab-andhra-pradesh-bears-the-brunt-as-3-dead-31-houses-damaged-57000-evacuated/3083798/"
+    },
+    {
+     "name": "The Week（10/28）",
+     "url": "https://www.theweek.in/news/india/2026/10/28/cyclone-arnab-hits-andhra-pradesh-deaths.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "コンゴのエボラ出血熱、確定感染者が1万人を超える",
+   "body": "コンゴ民主共和国の保健当局によると、5月に確認されたエボラ出血熱の流行で、10月25日までの確定感染者は1万60人、死者は4887人となった。感染は8つの州に広がっている。アフリカ疾病対策センター（アフリカCDC）は、最近の感染者の約8割が把握されている接触者以外から出ているとしている。",
+   "visual": {
+    "kicker": "コンゴのエボラ確定感染者",
+    "figure": "10,060",
+    "unit": "人",
+    "caption": "死者4887人（10月25日まで）"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（10/27）",
+     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+    },
+    {
+     "name": "Malay Mail（AFP、10/28）",
+     "url": "https://www.malaymail.com/news/world/2026/10/28/ebola-outbreak-tops-10000-cases-in-africa-with-nearly-5000-dead/240851"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/29 3:00",
+   "what": "米FOMCの政策金利発表（日本時間）"
+  },
+  {
+   "when": "10/29",
+   "what": "中国共産党5中全会が閉幕"
+  },
+  {
+   "when": "10/29",
+   "what": "愛媛県知事選が告示（投開票は11/15）"
+  },
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "10/30",
+   "what": "キオクシアHDが4〜9月期決算を発表"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/6",
+   "what": "M6搭載の新MacBook Pro発売"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
