@@ -1,0 +1,273 @@
+{
+ "date": "2026-10-29",
+ "slot": "am",
+ "key": 2026102901,
+ "generatedAt": "2026-10-29T06:56:40+09:00",
+ "brief": [
+  "米FRBは政策金利を3.75〜4.00%で据え置き。採決は10対2で、反対した2人は利上げを主張した。",
+  "自民・維新・国民が衆院比例31議席削減案で法案協議へ。日独首脳はAI対話の創設で合意。",
+  "イスラエル総選挙は一般票の開票が終わり、ネタニヤフ氏の陣営53、アイゼンコット氏の陣営48。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "衆院定数削減、自民・維新・国民が比例31減案で法案協議へ",
+   "body": "衆院議員の定数削減をめぐり、自民党、日本維新の会、国民民主党の実務者は28日、比例代表のみ31議席を減らすなど8項目の見直しで合意した。3党はこの案をもとに法案を検討し、自民党は3党で法案を共同で作成して今国会での成立を目指す考えを示した。公明、共産、参政など野党6党は反対している。",
+   "note": "議席配分の方式を、中小政党に有利とされる修正サンラグ式に変えることも含まれる。",
+   "visual": {
+    "kicker": "衆院比例の削減案",
+    "figure": "31",
+    "unit": "議席",
+    "caption": "自民・維新・国民が法案協議へ"
+   },
+   "sources": [
+    {
+     "name": "NHK（10/29）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261029de67438"
+    },
+    {
+     "name": "東京新聞（10/28）",
+     "url": "https://www.tokyo-np.co.jp/article/524552"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日独首脳会談、「AIハイレベル対話」の創設で合意",
+   "body": "高市首相は28日、来日したドイツのメルツ首相と首相官邸で会談し、人工知能（AI）分野の協力を進める「AIハイレベル対話」を創設することで合意した。中国の輸出規制を念頭に経済安全保障での連携を確認し、半導体や重要鉱物の供給網を強化する方針で一致した。メルツ氏は、日英伊で開発を進める次期戦闘機計画「GCAP」へのドイツの参加を模索したい考えを示した。",
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/28）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/932849"
+    },
+    {
+     "name": "テレビ朝日（ANN、10/28）",
+     "url": "https://news.ksb.co.jp/ann/article/17002521"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "NY外為市場、円相場は1ドル＝157円台後半で取引終える",
+   "body": "28日のニューヨーク外国為替市場で、ドル円相場は一時1ドル＝158円35銭までドル高・円安が進んだ後、157円84銭で取引を終えた。米連邦公開市場委員会（FOMC）が市場の予想通り政策金利の据え置きを決めると、ドルを買う動きは弱まった。",
+   "sources": [
+    {
+     "name": "ザイFX！（10/29）",
+     "url": "https://zai.diamond.jp/articles/-/498113"
+    },
+    {
+     "name": "NHK（10/28）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261028dw67398"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "JR東海、今期の純利益予想を400億円上方修正",
+   "body": "JR東海は28日、2027年3月期の連結純利益が前期比12%減の4870億円になる見通しだと発表した。従来の予想から400億円引き上げた。日本経済新聞によると、東海道新幹線の利用が好調だった。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/28）",
+     "url": "https://www.nikkei.com/article/DGXZQOFD286Z60Y6A021C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "さくらインターネット、今期純利益は前期の12倍の見通し",
+   "body": "さくらインターネットは28日、2027年3月期の連結純利益が前期比12倍の25億円になる見通しだと発表し、従来予想から10億円引き上げた。日本経済新聞によると、生成AI向けのGPUサービスの稼働率が高かった。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/28）",
+     "url": "https://www.nikkei.com/article/DGXZQOUF282KN0Y6A021C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "千葉県北東部でM5.4の地震、横芝光町で震度5弱",
+   "body": "29日午前0時7分ごろ、千葉県北東部を震源とする地震があり、千葉県横芝光町で震度5弱を観測した。気象庁によると、震源の深さは約50キロ、地震の規模を示すマグニチュードは5.4と推定される。この地震による津波の心配はない。",
+   "visual": {
+    "kicker": "千葉県北東部の地震",
+    "figure": "5弱",
+    "caption": "M5.4、震源の深さ約50km"
+   },
+   "sources": [
+    {
+     "name": "ウェザーニュース（10/29）",
+     "url": "https://weathernews.jp/news/202610/290007quake/"
+    },
+    {
+     "name": "産経新聞（10/29）",
+     "url": "https://news.yahoo.co.jp/articles/513cefca536c9deb6149c0a03625c01944ff19ee"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "29日朝は各地で今季一番の冷え込み、路面凍結に注意",
+   "body": "29日朝は晴れて風が弱まる所で放射冷却が強まり、各地で今季一番の冷え込みとなる見込み。最低気温は札幌で2℃、釧路で1℃、東京都心で11℃と予想され、北海道では氷点下になる所もある。路面の凍結に注意が必要。",
+   "sources": [
+    {
+     "name": "tenki.jp（日本気象協会、10/28）",
+     "url": "https://tenki.jp/forecaster/gureweather/2026/10/28/41127.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "米FRB、政策金利を据え置き　2人は利上げを主張",
+   "body": "米連邦準備制度理事会（FRB）は米東部時間28日（日本時間29日未明）、連邦公開市場委員会（FOMC）で政策金利の誘導目標を3.75〜4.00%に据え置くことを決めた。採決は10対2で、クック理事とクリーブランド連銀のハマック総裁は0.25%の利上げを主張して反対した。声明では、経済活動の拡大のペースを「力強い」と表現し、インフレは「高い水準にとどまっている」とした。",
+   "note": "同日の米国株式市場では、S&P500種株価指数が0.28%、ダウ工業株30種平均が0.19%上昇した。次回のFOMCは12月8〜9日。",
+   "visual": {
+    "kicker": "米政策金利の誘導目標",
+    "figure": "3.75〜4.00",
+    "unit": "%",
+    "caption": "据え置き。採決は10対2"
+   },
+   "sources": [
+    {
+     "name": "CNBC（10/28）",
+     "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+    },
+    {
+     "name": "Fox Business（10/28）",
+     "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "マイクロソフトは予想上回る決算、アルファベットは売上高が予想下回る",
+   "body": "米マイクロソフトが28日に発表した7〜9月期決算は、売上高が922億8000万ドルで市場予想を上回り、クラウドサービス「Azure」の売上高は48%増えた。株価は時間外取引で約4%上がった。同日に決算を発表したグーグルの親会社アルファベットは、売上高が約1275億7000万ドルで市場予想に届かず、株価は時間外取引で下落した。",
+   "sources": [
+    {
+     "name": "Investing.com（10/28）",
+     "url": "https://www.investing.com/news/earnings/microsoft-earnings-beat-by-017-revenue-topped-estimates-4980696"
+    },
+    {
+     "name": "CNBC（10/28）",
+     "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "Apple、有機ELのタッチ画面を備えたMacBook Proを発表",
+   "body": "Appleは米国時間28日、有機ELディスプレー「PROLED XDR」を搭載し、タッチ操作に対応したMacBook Proを発表した。14インチと16インチがあり、M5 ProまたはM5 Maxチップを搭載する。11月6日に発売する。",
+   "note": "米国での価格は14インチが2899ドルから、16インチが3399ドルから（MacRumors）。",
+   "sources": [
+    {
+     "name": "Apple（10/28）",
+     "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+    },
+    {
+     "name": "MacRumors（10/28）",
+     "url": "https://www.macrumors.com/2026/10/28/apple-new-macbook-pro/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル総選挙、一般票の開票終了　どの陣営も過半数届かず",
+   "body": "イスラエル総選挙（定数120）は一般の投票所の開票が終わり、ネタニヤフ首相の陣営が53議席、アイゼンコット元参謀総長の陣営が48議席、アラブ系政党が19議席となった。どの陣営も過半数の61議席に届いていない。政党別ではリクードが26議席で第1党、アイゼンコット氏の政党が21議席で続く。",
+   "note": "兵士などの不在者票（二重封筒票）は現地時間28日夜に開票される予定で、議席配分が変わる可能性がある。",
+   "visual": {
+    "kicker": "ネタニヤフ氏の陣営",
+    "figure": "53",
+    "unit": "議席",
+    "caption": "一般票の開票終了時点。過半数は61"
+   },
+   "sources": [
+    {
+     "name": "The Jerusalem Post（10/28）",
+     "url": "https://www.jpost.com/israel-election-2026/article-913122"
+    },
+    {
+     "name": "Ynetnews（10/28）",
+     "url": "https://www.ynetnews.com/article/hjnatbkaml"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "スーダン・ニャラの市場に無人機攻撃、死者数に食い違い",
+   "body": "スーダン西部の南ダルフール州ニャラで、現地時間26日夜、夜間市場が無人機に攻撃された。AFP通信は少なくとも21人が死亡し40人がけがをしたと伝え、現地の人権団体は100人以上が死亡したとしている。人権団体と、即応支援部隊（RSF）側の勢力は国軍による攻撃だと非難している。国連人権高等弁務官事務所によると、10月の最初の3週間に国軍とRSFによるとされる無人機攻撃で少なくとも306人が死亡した。",
+   "note": "国軍側の声明は確認されていない。",
+   "sources": [
+    {
+     "name": "Al Jazeera（AFP、10/27）",
+     "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala"
+    },
+    {
+     "name": "NBC News（10/27）",
+     "url": "https://www.nbcnews.com/world/africa/100-people-killed-sudanese-army-drone-attack-market-says-sudanese-righ-rcna606044"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ASEAN国防相会議、フィリピン国防相が南シナ海問題の平和的解決を訴え",
+   "body": "フィリピン・セブ州で28日に始まったASEAN国防相会議の開会式で、フィリピンのテオドロ国防相は、南シナ海をめぐる紛争を含む争いを平和的かつ法に基づいて解決するよう呼びかけ、ASEANの結束を求めた。29日には日米中などを加えた拡大ASEAN国防相会議が開かれる。",
+   "sources": [
+    {
+     "name": "Rappler（10/28）",
+     "url": "https://www.rappler.com/philippines/teodoro-asean-defense-ministers-south-china-sea-frgmenting-world/"
+    },
+    {
+     "name": "Manila Bulletin（10/28）",
+     "url": "https://mb.com.ph/2026/10/28/teodoro-urges-asean-unity-amid-pressure-on-smaller-states-maritime-coercion"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/29",
+   "what": "中国共産党5中全会が閉幕"
+  },
+  {
+   "when": "10/29",
+   "what": "愛媛県知事選が告示（投開票は11/15）"
+  },
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "10/30",
+   "what": "キオクシアHDが4〜9月期決算を発表"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/6",
+   "what": "有機EL搭載MacBook Pro、M6搭載MacBook Proなど発売"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/8〜9",
+   "what": "次回の米FOMC"
+  }
+ ]
+}
