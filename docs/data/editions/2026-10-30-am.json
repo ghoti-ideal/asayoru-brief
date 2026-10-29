@@ -1,0 +1,268 @@
+{
+ "date": "2026-10-30",
+ "slot": "am",
+ "key": 2026103001,
+ "generatedAt": "2026-10-30T06:57:43+09:00",
+ "brief": [
+  "ECBは政策金利を据え置き。ラガルド総裁は任期を残して来年2月7日に退任すると表明した。",
+  "政府は12月〜2月使用分の電気・ガス代を補助し、ガソリン補助は12月から段階的に縮小する。",
+  "自民・維新・国民が衆院比例31削減で正式合意。米国株はナスダックが約1.4%下落した。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "電気・ガス代を12月から補助、ガソリン補助は段階的に縮小へ",
+   "body": "高市首相は29日、12月から来年2月使用分の電気・ガス料金を補助し、標準的な家庭で3か月間に7000円程度の負担軽減になると表明した。電気代は12月に1キロワット時あたり1円、1月と2月に4.5円を補助する。ガソリン補助については、1リットル170円程度としている基準価格を12月から毎月5円ずつ引き上げ、段階的に縮小する。",
+   "visual": {
+    "kicker": "電気・ガス代の負担軽減",
+    "figure": "7000",
+    "unit": "円程度",
+    "caption": "標準家庭、12月〜2月の3か月間"
+   },
+   "sources": [
+    {
+     "name": "南日本新聞（共同通信、10/29）",
+     "url": "https://373news.com/news/national/detail/2026102901001905"
+    },
+    {
+     "name": "時事通信（10/29）",
+     "url": "https://news.yahoo.co.jp/articles/0f4c59061d02446edcd2a030bcd92c221945a553"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "衆院比例の31削減、自民・維新・国民が正式合意",
+   "body": "自民党、日本維新の会、国民民主党の幹事長が29日に会談し、衆院の比例代表の定数を31削減することで正式に合意した。3党は関連法案の今国会での成立を目指す。",
+   "sources": [
+    {
+     "name": "共同通信（10/29）",
+     "url": "https://news.infoseek.co.jp/article/kyodo_1488368371862422178/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "不正アクセスによる個人情報漏えい、今年度はのべ約2億6000万人分",
+   "body": "政府の個人情報保護委員会のまとめによると、今年4月以降に不正アクセスによって漏えいした個人情報は、のべ約2億6000万人分にのぼった。",
+   "visual": {
+    "kicker": "漏えいした個人情報",
+    "figure": "約2億6000万",
+    "unit": "人分",
+    "caption": "今年4月以降、のべ人数"
+   },
+   "sources": [
+    {
+     "name": "NHK（10/29）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261029de68067"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ダイヘン、今期経常益予想を20%上方修正　ちゅうぎんFGも引き上げ",
+   "body": "溶接機などを手がけるダイヘンは29日、2027年3月期の連結経常利益の予想を255億円から305億円に引き上げ、配当も増やすと発表した。中国地方の地銀グループ、ちゅうぎんフィナンシャルグループも同日、今期の経常利益予想を23%上方修正した。いずれも最高益の予想を上乗せした。",
+   "sources": [
+    {
+     "name": "株探（10/29）",
+     "url": "https://s.kabutan.jp/news/k202610290167/"
+    },
+    {
+     "name": "株探（10/29）",
+     "url": "https://s.kabutan.jp/news/k202610290043/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "science",
+   "title": "全国の森林、構造や樹種の割合が長期的に変化　京大など",
+   "body": "京都大学などの研究グループは、1950年代以降に全国の森林で集めた観測データを分析し、主要な4つの森林のタイプで、森林の構造や樹種の割合が長期的に変化していることを明らかにした。その変化は気候変動の傾向と関連していた。",
+   "sources": [
+    {
+     "name": "京都大学（10/27）",
+     "url": "https://www.kyoto-u.ac.jp/ja/research-news/2026-10-27-2"
+    },
+    {
+     "name": "京都大学 発表資料",
+     "url": "https://www.kyoto-u.ac.jp/sites/default/files/2026-10/web-2610-Tateno-daa36259d4695afc45a93014325e81bd.pdf"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "11月使用分の電気料金、大手10社のうち7社で過去最高の見通し",
+   "body": "大手電力会社の11月使用分の電気料金は、10社のうち7社で過去最高となる見通し。東京電力の試算では、平均的な家庭の料金は9700円台で、2か月連続で過去最高を更新する。政府の電気・ガス料金の補助が9月使用分で終わったことなどが影響している。",
+   "sources": [
+    {
+     "name": "NHK（10/21）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62902"
+    },
+    {
+     "name": "セレクトラ",
+     "url": "https://selectra.jp/energy/news/electricity-bill-record-high-november-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "ECBが政策金利を据え置き、ラガルド総裁は来年2月に退任へ",
+   "body": "欧州中央銀行（ECB）は29日の理事会で、預金ファシリティー金利を2.50%とするなど主要な政策金利を据え置いた。エネルギー価格の上昇がインフレの上振れ要因になるとして、前回の会合以降に金融環境が引き締まったとも指摘した。ラガルド総裁は、2027年10月までの任期を残して来年2月7日に退任すると表明した。",
+   "visual": {
+    "kicker": "ECB 預金ファシリティー金利",
+    "figure": "2.50",
+    "unit": "%",
+    "caption": "据え置き。ラガルド総裁は2月7日に退任"
+   },
+   "sources": [
+    {
+     "name": "欧州中央銀行（10/29）",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    },
+    {
+     "name": "Al Jazeera（10/29）",
+     "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米国株、ナスダックが約1.4%下落　アルファベット株が急落",
+   "body": "29日の米国株式市場は、ナスダック総合指数が約1.4%下落した。前日に決算を発表したグーグルの親会社アルファベットの株価は、取引中に一時12%下がった。",
+   "sources": [
+    {
+     "name": "Yahoo Finance（10/29）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html"
+    },
+    {
+     "name": "StockTitan（10/29）",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "インテル、売上高見通しが前期を下回り株価が時間外で急落",
+   "body": "米インテルは29日に7〜9月期決算を発表し、次の四半期の売上高が前の四半期を下回るとの見通しを示した。株価は時間外取引で17%余り下落した。同日に決算を発表したアマゾン・ドット・コムは、クラウド事業AWSの売上高が459億ドルと市場予想を上回ったが、株価は時間外取引で下落した。",
+   "sources": [
+    {
+     "name": "StockTitan（10/29）",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+    },
+    {
+     "name": "Yahoo Finance（10/29）",
+     "url": "https://finance.yahoo.com/markets/stocks/live/amazon-earnings-live-q3-earnings-miss-sends-stock-lower-203345870.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米財務省、ルワンダ国防省に制裁　コンゴ東部の武装勢力支援で",
+   "body": "米財務省は28日、コンゴ民主共和国東部の武装勢力M23を支援しているとして、ルワンダ国防省と金融機関1社を制裁対象に指定した。軍事支援や資金・物流面の支援を理由に挙げ、米国内の資産を凍結する。",
+   "sources": [
+    {
+     "name": "Eurasia Review（米財務省発表、10/29）",
+     "url": "https://www.eurasiareview.com/29102026-us-treasury-sanctions-rwandan-ministry-of-defence-and-financial-institution-supporting-m23/"
+    },
+    {
+     "name": "AP（10/28）",
+     "url": "https://www.yahoo.com/news/us/articles/us-imposes-sanctions-rwandan-defense-174710915.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル総選挙の開票終了、リクード27議席で第1党",
+   "body": "イスラエル中央選挙管理委員会の開票結果によると、ネタニヤフ首相のリクードが27議席で第1党となり、アイゼンコット元参謀総長の政党が21議席で続いた。陣営別では、ネタニヤフ氏の陣営が53議席、野党陣営が48議席、アラブ系政党が19議席で、どの陣営も過半数の61議席に届いていない。",
+   "note": "選管は追加の確認を行ったうえで正式な結果を公表する。",
+   "sources": [
+    {
+     "name": "The Jerusalem Post（10/29）",
+     "url": "https://www.jpost.com/israel-election-2026/article-913237"
+    },
+    {
+     "name": "Israel Hayom（10/29）",
+     "url": "https://www.israelhayom.com/2026/10/29/israels-2026-election-results-released/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "中国共産党、次の党大会を2027年後半に開催と決定",
+   "body": "29日に閉幕した中国共産党の5中全会は、党の統治を厳しく進めることに関する決定を採択した。新華社によると、全会は第21回党大会を2027年後半に北京で開くことを決めた。インドのThePrintは、全会が33人の党籍剥奪を確認したと伝えている。",
+   "sources": [
+    {
+     "name": "新華社（10/29）",
+     "url": "https://english.news.cn/20261029/2eb3bfd7e50d44868dfbd48b525964a5/c.html"
+    },
+    {
+     "name": "ThePrint（10/29）",
+     "url": "https://theprint.in/world/chinas-key-party-meeting-expels-record-33-officials-bolsters-xis-anti-graft-campaign-ahead-of-possible-fourth-term/3085514"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "タイ、家庭用太陽光発電に1世帯5万バーツを補助",
+   "body": "タイ政府は、家庭の太陽光発電の導入を後押しするため、1世帯あたり5万バーツを返済不要で支給する補助制度を打ち出した。予算は約500億バーツで、100万世帯を対象とする。補助は電力公社が設備を電力網に接続した後に支払う。",
+   "sources": [
+    {
+     "name": "The Star（10/26）",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/thailand-launches-rm613bil-household-solar-push"
+    },
+    {
+     "name": "Malay Mail（10/26）",
+     "url": "https://www.malaymail.com/amp/news/money/2026/10/26/thailand-plans-us15b-solar-subsidy-to-help-one-million-households/240694"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "10/30",
+   "what": "キオクシアHDが4〜9月期決算を発表"
+  },
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/6",
+   "what": "有機EL搭載MacBook Pro、M6搭載MacBook Proなど発売"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/8〜9",
+   "what": "次回の米FOMC"
+  }
+ ]
+}
