@@ -1,0 +1,265 @@
+{
+ "date": "2026-10-29",
+ "slot": "pm",
+ "key": 2026102902,
+ "generatedAt": "2026-10-29T18:58:56+09:00",
+ "brief": [
+  "北朝鮮が短距離弾道ミサイル約10発を発射。日本のEEZ外に落下し、被害は確認されていない。",
+  "日経平均は705円高の6万4659円で3日続伸。TOPIXは4003.28で取引を終えた。",
+  "スペインで高速列車同士が衝突し68人以上が死亡。欧州のガス価格は2022年以来の100ユーロ超え。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が3日続伸、705円高の6万4659円",
+   "body": "29日の東京株式市場で、日経平均株価の終値は前日比705円28銭高の6万4659円47銭だった。好決算の半導体関連株が買われ、前日の米国株高も支えとなった。東証株価指数（TOPIX）は11.57ポイント高の4003.28だった。",
+   "note": "業績予想の上方修正と自社株買いを発表したアドバンテスト1銘柄で、日経平均を約453円押し上げた。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "64,659.47",
+    "unit": "円",
+    "caption": "前日比 +705.28円"
+   },
+   "sources": [
+    {
+     "name": "沖縄タイムス（共同通信、10/29）",
+     "url": "https://www.okinawatimes.co.jp/articles/-/1955260"
+    },
+    {
+     "name": "共同通信（10/29）",
+     "url": "https://news.yahoo.co.jp/articles/d39496d6d71f40097ce85d7630b3b8795251e0f1"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "愛媛県知事選が告示、3人が立候補",
+   "body": "任期満了に伴う愛媛県知事選挙が29日告示され、現職と新人2人の合わせて3人が立候補を届け出た。現職の中村時広氏は5期目を目指す。投開票は11月15日で、17日間の選挙戦が始まった。",
+   "sources": [
+    {
+     "name": "NHK（10/29）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261029de67577"
+    },
+    {
+     "name": "熊本日日新聞（共同通信）",
+     "url": "https://kumanichi.com/articles/2044459"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、参院自民が特別委設置の条件に委員長ポストを提示",
+   "body": "食料品の消費税減税関連法案の参院での審議をめぐり、特別委員会の設置を求める立憲民主党に対し、参院自民党は29日、自民党の議員が委員長を務めることなどを設置の条件として示した。両党は協議を続ける。",
+   "sources": [
+    {
+     "name": "NHK（10/29）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261029de67850"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ルネサスの1〜9月期は黒字、イビデンは経常益予想を上方修正",
+   "body": "29日に決算を発表した企業のうち、ルネサスエレクトロニクスは2026年1〜9月期の連結純利益が5895億2600万円となり、最終黒字となった。電子部品のイビデンは今期の連結経常利益の予想を1270億円から1345億円に引き上げ、最高益の予想を上乗せした。",
+   "sources": [
+    {
+     "name": "時事通信（10/29）",
+     "url": "https://finance.yahoo.co.jp/news/detail/11b1e709651c0a5fa988a589f67f2eb54a4af0c2"
+    },
+    {
+     "name": "株探（10/29）",
+     "url": "https://finance.yahoo.co.jp/news/detail/4a1dadf6b4f7d1edb1c68bad6de4f26a678dd7a3"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMOへの不正アクセス、熊谷社長「攻撃者特定の有力情報を入手」",
+   "body": "GMOインターネットグループのサービスが不正アクセスを受け、利用者の個人情報とみられる情報が公開された問題で、同グループの熊谷正寿社長は29日、攻撃者の特定につながる有力な情報を入手し、警察などに提出するとXに投稿した。同グループは被害の拡大を防ぐ対応を続けている。",
+   "sources": [
+    {
+     "name": "NHK（10/29）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261029de67553"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "浜岡原発のデータ不正、地震の揺れを1〜2割小さく評価　規制委",
+   "body": "中部電力浜岡原発の耐震データ不正をめぐり、原子力規制委員会は28日、立ち入り検査の結果を公表した。耐震設計の目安となる基準地震動を、計算の過程で1〜2割小さく評価していたことが分かった。規制委は年内にも追加の検査を行う。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/28）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA27C6S0X21C26A0000000/"
+    },
+    {
+     "name": "静岡放送（10/28）",
+     "url": "https://news.yahoo.co.jp/articles/496deb6e6d2471af90d34ac2dfe78a13bf60f3b1"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "経産省、独シーメンスエナジーと浮体式洋上風力で協力覚書",
+   "body": "経済産業省は、ドイツのエネルギー企業シーメンスエナジーと、浮体式洋上風力発電の事業推進に向けた協力の覚書を結んだ。風車などの供給網の強化や専門人材の育成で連携する。同社は北海道恵庭市に風力発電事業の拠点を2027年1月に設ける。",
+   "sources": [
+    {
+     "name": "OANDA（共同通信）",
+     "url": "https://www.oanda.jp/lab-education/?p=131591"
+    },
+    {
+     "name": "OANDA（共同通信）",
+     "url": "https://www.oanda.jp/lab-education/?p=131494"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "北朝鮮が短距離弾道ミサイル約10発を発射",
+   "body": "韓国軍合同参謀本部によると、北朝鮮は29日午後0時30分ごろ、東部の元山付近から日本海に向けて短距離弾道ミサイル約10発を発射し、ミサイルは約250キロ飛行した。日本政府は、排他的経済水域（EEZ）への飛来は確認されていないと発表した。北朝鮮による弾道ミサイルの発射は10月12日以来。",
+   "visual": {
+    "kicker": "北朝鮮の弾道ミサイル",
+    "figure": "約10",
+    "unit": "発",
+    "caption": "元山付近から約250km飛行"
+   },
+   "sources": [
+    {
+     "name": "The Japan Times（10/29）",
+     "url": "https://www.japantimes.co.jp/news/2026/10/29/asia-pacific/north-korea-ballistic-missile/"
+    },
+    {
+     "name": "U.S. News（ロイター、10/28）",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-28/north-korea-fires-projectile-toward-sea-off-east-coast-south-korea-military-says"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "中国共産党の5中全会が閉幕、党統治の強化に関する決定を採択",
+   "body": "中国共産党の第20期中央委員会第5回全体会議（5中全会）が29日、北京で閉幕した。習近平総書記が行った政治局の活動報告を討議し、全面的に厳しく党を統治することに関する決定を採択した。出席したのは中央委員162人、候補委員117人。",
+   "sources": [
+    {
+     "name": "星島日報（10/29）",
+     "url": "https://www.stheadline.com/zh-hans/realtime-china/3631185/%E4%B8%AD%E5%85%B1%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%8C%97%E4%BA%AC%E9%97%AD%E5%B9%95-%E5%8F%91%E5%B8%83%E4%BC%9A%E8%AE%AE%E5%85%AC%E6%8A%A5"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ブラジル大統領選で敗れたフラビオ・ボルソナロ氏、米マイアミに到着",
+   "body": "ブラジル大統領選の決選投票で敗れたフラビオ・ボルソナロ上院議員が米国時間28日、家族とともに米フロリダ州マイアミに到着した。同氏はアルゼンチンとエクアドルを経由した。ブラジル最高裁は資金洗浄などの捜査に関連して同氏に旅券の提出を命じていた。同氏は捜査を政治的な迫害だと主張し、証拠を示さずに選挙に不正があったと述べた。",
+   "sources": [
+    {
+     "name": "Al Jazeera（10/28）",
+     "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election"
+    },
+    {
+     "name": "The Washington Post（10/28）",
+     "url": "https://www.washingtonpost.com/world/2026/10/28/flvio-bolsonaro-lands-miami-after-fleeing-brazil-following-election-loss/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "スペインで高速列車同士が衝突、少なくとも68人死亡",
+   "body": "スペイン中部トレド県で28日、マドリードとセビリアを結ぶ路線上で高速列車同士が衝突し、地元当局によると少なくとも68人が死亡、58人がけがをした。事故の原因は分かっていない。サンチェス首相は、過失が見つかれば厳正に対処すると述べた。",
+   "note": "スペインでは1月にも南部コルドバ県で高速列車の衝突事故があり、45人が死亡している。",
+   "visual": {
+    "kicker": "スペイン列車事故の死者",
+    "figure": "68",
+    "unit": "人以上",
+    "caption": "負傷者は58人（地元当局）"
+   },
+   "sources": [
+    {
+     "name": "CNBC（10/28）",
+     "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html"
+    },
+    {
+     "name": "CNN（10/28）",
+     "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "欧州の天然ガス価格、2022年以来の1メガワット時100ユーロ超え",
+   "body": "欧州の天然ガス価格の指標となるオランダTTFの先物価格が28日、1メガワット時あたり100ユーロを超え、2022年以来の高値となった。イランをめぐる戦争で中東からの液化天然ガス（LNG）の供給が乱れていることが背景にある。2月には30ユーロ前後で取引されていた。",
+   "sources": [
+    {
+     "name": "Seoul Economic Daily（10/29）",
+     "url": "https://en.sedaily.com/international/2026/10/29/european-gas-prices-hit-4-year-high-triple-since-iran-war"
+    },
+    {
+     "name": "Vanguard（AFP、10/28）",
+     "url": "https://www.vanguardngr.com/2026/10/european-gas-prices-hit-100-euros-for-first-time-since-2022/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "イラン革命防衛隊、ホルムズ海峡でタンカー3隻が機雷に触れたと主張",
+   "body": "イランの革命防衛隊は29日、ホルムズ海峡を南側の「許可されていない」航路で出ようとしたタンカー3隻が機雷に触れて炎上したと発表した。船名や船籍は明らかにしておらず、独立した確認はとれていない。イランのアラグチ外相は28日、戦闘の終結と海峡の再開に向けた7日間の計画について仲介国と協議していると述べた。",
+   "sources": [
+    {
+     "name": "Arab News（10/29）",
+     "url": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-three-oil-tankers-hit-mines-in-strait-of-hormuz-3008795"
+    },
+    {
+     "name": "Fox News（10/29）",
+     "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "10/30",
+   "what": "日銀 金融政策決定会合の結果発表"
+  },
+  {
+   "when": "10/30",
+   "what": "キオクシアHDが4〜9月期決算を発表"
+  },
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/6",
+   "what": "有機EL搭載MacBook Pro、M6搭載MacBook Proなど発売"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/8〜9",
+   "what": "次回の米FOMC"
+  }
+ ]
+}
