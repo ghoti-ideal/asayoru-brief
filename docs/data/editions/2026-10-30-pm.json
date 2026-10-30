@@ -1,0 +1,243 @@
+{
+ "date": "2026-10-30",
+ "slot": "pm",
+ "key": 2026103002,
+ "generatedAt": "2026-10-30T18:57:28+09:00",
+ "brief": [
+  "日銀は政策金利を1.25%で据え置き、基調的な物価上昇率は2%目標とおおむね整合と判断した。",
+  "日経平均は1369円安の6万3290円で4日ぶり反落。9月の完全失業率は2.4%に改善した。",
+  "韓国サムスン電子の7〜9月期営業利益は107.4兆ウォンで過去最高。メキシコのカルデナス氏が死去。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日銀、政策金利1.25%で据え置き　物価は2%目標と「おおむね整合」",
+   "body": "日銀は30日の金融政策決定会合で、政策金利を1.25%に据え置くことを決めた。採決は賛成8、反対1で、高田委員は1.5%への引き上げを提案した。同時に公表した展望リポートでは、基調的な物価上昇率が2%の目標とおおむね整合的な水準に達したと判断した。保有する上場投資信託（ETF）の売却ペースを、簿価で年間8600億円程度に引き上げることも決めた。",
+   "visual": {
+    "kicker": "日銀の政策金利",
+    "figure": "1.25",
+    "unit": "%",
+    "caption": "据え置き。採決は8対1"
+   },
+   "sources": [
+    {
+     "name": "テレ東BIZ（10/30）",
+     "url": "https://news.yahoo.co.jp/articles/0f7a5ba1e1de570d7fb13cba1cbdf5709eabb427"
+    },
+    {
+     "name": "外為どっとコム（10/30）",
+     "url": "https://www.gaitame.com/media/entry/2026/10/30/165152"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日経平均が4日ぶり反落、1369円安の6万3290円",
+   "body": "30日の東京株式市場で、日経平均株価の終値は前日比1369円36銭安の6万3290円11銭だった。前日の米国市場でハイテク株が売られた流れを受け、AIや半導体の関連銘柄に売りが広がった。下げ幅は一時1900円を超えた。東証株価指数（TOPIX）は3965.07で取引を終えた。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "63,290.11",
+    "unit": "円",
+    "caption": "前日比 -1,369.36円"
+   },
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/30）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/934233"
+    },
+    {
+     "name": "ブルームバーグ（10/30）",
+     "url": "https://bloomberg.com/jp/news/articles/2026-10-30/TNP6AZLJJ3LS00"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "9月の完全失業率2.4%に改善、有効求人倍率は1.19倍",
+   "body": "総務省が30日発表した9月の完全失業率（季節調整値）は2.4%で、前月から0.1ポイント低下した。厚生労働省が発表した有効求人倍率（同）は1.19倍で、前月を0.01ポイント上回った。就業者数は6896万人で、比較できる1953年以降で最も多かった。",
+   "sources": [
+    {
+     "name": "東京新聞（共同通信、10/30）",
+     "url": "https://www.tokyo-np.co.jp/article/524960"
+    },
+    {
+     "name": "琉球新報（共同通信、10/30）",
+     "url": "https://ryukyushimpo.jp/kyodo/entry-5582601.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "10月の東京都区部物価、生鮮除き2.6%上昇　コメは31.3%下落",
+   "body": "総務省が30日発表した10月の東京都区部の消費者物価指数（中旬速報値）は、生鮮食品を除く総合が前年同月比2.6%上昇した。9月の2.7%から伸びが縮み、2か月連続の2%台となった。米類は31.3%下がった一方、電気代と都市ガス代は前年同月を上回った。",
+   "sources": [
+    {
+     "name": "時事通信（10/30）",
+     "url": "https://www.jiji.com/jc/article?k=2026103000274&g=eco"
+    },
+    {
+     "name": "デイリースポーツ（共同通信、10/30）",
+     "url": "https://www.daily.co.jp/society/economics/2026/10/30/0020982521.shtml"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "自律神経の研究成果を発表、日本自律神経学会の総会が金沢で開幕",
+   "body": "精神的なストレスによる体調の悪化などに関わる自律神経の研究成果を発表する日本自律神経学会の総会が、30日から金沢市で始まった。31日までの2日間の日程で、テーマは「こころの時代の自律神経学」。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68334"
+    },
+    {
+     "name": "第79回日本自律神経学会総会",
+     "url": "https://jsnr79.umin.jp/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMOへの不正アクセス、被害拡大防止へ有力情報を警察などと共有",
+   "body": "GMOインターネットグループのサービスが不正アクセスを受け、利用者の個人情報とみられる情報が公開された問題で、同グループは被害の拡大を防ぐため、入手した有力な情報を警察などと随時共有していると明らかにした。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68154"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "lead": true,
+   "title": "サムスン電子、7〜9月期の営業利益が107.4兆ウォンで過去最高",
+   "body": "韓国のサムスン電子は29日、7〜9月期の連結営業利益が107兆4000億ウォンとなり、四半期として過去最高を更新したと発表した。売上高は195兆3000億ウォンだった。AI向けのメモリー需要が強く、半導体部門が利益の大半を占めた。",
+   "visual": {
+    "kicker": "サムスン 7〜9月営業利益",
+    "figure": "107.4",
+    "unit": "兆ウォン",
+    "caption": "四半期として過去最高"
+   },
+   "sources": [
+    {
+     "name": "The Next Web（10/29）",
+     "url": "https://thenextweb.com/news/samsung-record-profit-q3-2026-ai-memory"
+    },
+    {
+     "name": "Investing.com（10/29）",
+     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-samsung-electronics-posts-record-q3-2026-profit-93CH-4981365"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "メキシコ左派の重鎮、カルデナス元メキシコ市長が死去",
+   "body": "メキシコの野党指導者として3度大統領選に立候補したクアウテモク・カルデナス氏が28日、92歳で死去した。シェインバウム大統領が明らかにした。同氏は長く政権を担った制度的革命党（PRI）から離れて野党勢力を率い、1997年に初の公選のメキシコ市長となった。",
+   "sources": [
+    {
+     "name": "The Washington Post（AP、10/29）",
+     "url": "https://www.washingtonpost.com/world/2026/10/29/mexico-cuauhtemoc-cardenas-dies/8563fbb4-d34f-11f1-9931-2a41b76fc976_story.html"
+    },
+    {
+     "name": "U.S. News（ロイター、10/29）",
+     "url": "https://www.usnews.com/news/world/articles/2026-10-29/cuauhtemoc-cardenas-elder-statesman-of-mexican-left-dies-at-92"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米イラン協議、カタールが新たな合意案　イラン側は受け入れに否定的",
+   "body": "米紙ウォール・ストリート・ジャーナルは、バンス米副大統領がイランの安全保障当局者に書簡を送り、停滞している協議の再開を図ったと報じた。カタールの仲介者はイランに戦闘終結に向けた新たな合意案を示したとされる。イラン政府高官はロイター通信に対し、示された内容では応じられないと述べた。",
+   "sources": [
+    {
+     "name": "CBS News（10/29）",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"
+    },
+    {
+     "name": "Arab Times（10/30）",
+     "url": "https://www.arabtimesonline.com/news/qatari-mediators-return-to-tehran-in-renewed-push-for-us-iran-deal-to-avert-us-strikes/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米中間選挙まで5日、トランプ氏は対面集会を縮小し電話集会へ",
+   "body": "11月3日の米中間選挙を前に、トランプ大統領はアイオワ州とカンザス州での週末の集会を取りやめ、最大20回の電話集会に切り替える方針を示した。カリフォルニア州では、連邦地裁が、市民権がないと政権が主張する人の郵便投票を分けて扱うよう求めた政権の申し立てを退けた。",
+   "sources": [
+    {
+     "name": "CNN（10/29）",
+     "url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "インドのモディ首相、地元グジャラート州で1400億ルピー超の開発事業",
+   "body": "インドのモディ首相は30日、西部グジャラート州バナスカンタを訪れた。総額1400億ルピー（1万4000クロール）を超える開発事業の開所や着工に臨むほか、農家向け所得支援制度の第24回の支給として計1900億ルピーを配る予定。",
+   "sources": [
+    {
+     "name": "LatestLY（ANI、10/30）",
+     "url": "https://www.latestly.com/agency-news/india-news-pm-modi-holds-roadshow-in-gujarats-banaskantha-ahead-of-unveiling-projects-worth-over-rs-14000-crore-7661664.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "韓国の尹前大統領の控訴審判決、ソウル高裁が生中継を許可",
+   "body": "韓国の尹錫悦前大統領の公職選挙法違反事件の控訴審をめぐり、ソウル高裁は判決公判の生中継を許可した。判決は11月4日に言い渡される予定。",
+   "sources": [
+    {
+     "name": "聯合ニュース（10/30）",
+     "url": "https://news.yahoo.co.jp/articles/5b0f87e3d8c0ed0d7dcd0a711570be1863957668"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/2",
+   "what": "Apple 7〜9月期決算（米国時間）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "韓国・尹前大統領の控訴審判決"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/8〜9",
+   "what": "次回の米FOMC"
+  }
+ ]
+}
