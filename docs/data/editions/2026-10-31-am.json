@@ -1,0 +1,247 @@
+{
+ "date": "2026-10-31",
+ "slot": "am",
+ "key": 2026103101,
+ "generatedAt": "2026-10-31T06:55:43+09:00",
+ "brief": [
+  "日ロ外相が5年ぶりに対面で会談。茂木外相は拘束された北海道新聞記者の即時解放を求めた。",
+  "暗号資産交換業大手バイナンスで約63億ドル相当の顧客資産が流出。過去最大規模とされる。",
+  "ユーロ圏の7〜9月期GDPは前期比0.4%増。キオクシアの4〜9月期純利益は2兆円を超えた。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "日ロ外相が5年ぶり会談、茂木外相が道新記者の解放を要求",
+   "body": "茂木外相とロシアのラブロフ外相が30日、20か国・地域（G20）外相会合が開かれている米南部アトランタで会談した。日ロ外相の対面での会談は2021年9月以来5年ぶりで、ロシアのウクライナ侵攻後は初めて。茂木外相は、10月13日にサハリン州で拘束された北海道新聞の記者の即時解放を強く求めた。ロシア側は、日本が「非友好的な路線」を改める必要があると主張した。",
+   "visual": {
+    "kicker": "日ロ外相の対面会談",
+    "figure": "5年ぶり",
+    "caption": "ウクライナ侵攻後で初めて"
+   },
+   "sources": [
+    {
+     "name": "新潟日報（共同通信、10/31）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/934620"
+    },
+    {
+     "name": "共同通信（10/31）",
+     "url": "https://news.yahoo.co.jp/articles/52bc916a14f47c8c442be52c50ff7d2bd029ed01"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、11月4日に質疑へ　支援金の参考値も提示",
+   "body": "食料品の消費税減税関連法案について、与野党は11月4日に質疑を行い、国民民主党の対案も審議入りさせることを確認した。政府は、所得に応じて支給する支援金について、年収119万円以下の人は年間5000円程度とする参考値を示した。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68222"
+    },
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68281"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "ガソリン価格の抑制継続へ、予備費1兆1481億円の支出を決定",
+   "body": "政府は30日の閣議で、ガソリン価格などを抑える対策を当面続けるため、予備費から1兆1481億円を支出することを決めた。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68243"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "キオクシアの4〜9月期純利益は2兆1978億円",
+   "body": "半導体メモリー大手のキオクシアホールディングスは30日、2026年4〜9月期の連結純利益が2兆1978億円となり、前年同期の約37倍になったと発表した。Investing.comによると、10〜12月期の業績見通しは市場予想を下回った。",
+   "visual": {
+    "kicker": "キオクシア 4〜9月期純利益",
+    "figure": "2兆1978億",
+    "unit": "円",
+    "caption": "前年同期の約37倍"
+   },
+   "sources": [
+    {
+     "name": "共同通信（10/30）",
+     "url": "https://news.yahoo.co.jp/articles/61dee12f306335ada999b208ef807d55f12dc569"
+    },
+    {
+     "name": "Investing.com（10/30）",
+     "url": "https://jp.investing.com/news/earnings/article-93CH-1735223"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "NY外為市場、円相場は一時156円台に上昇",
+   "body": "30日のニューヨーク外国為替市場で、ドル円相場は一時1ドル＝156円96銭まで円高・ドル安が進んだ後、157円64銭で取引を終えた。日銀の12月の利上げ観測から円を買う動きが出た一方、中東情勢による原油高などでドルも買われた。",
+   "sources": [
+    {
+     "name": "ザイFX！（10/31）",
+     "url": "https://zai.diamond.jp/articles/-/498288"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "松江市で給食を食べた約300人が体調不良、焼き魚のヒスタミンが原因",
+   "body": "松江市で学校給食を食べた児童ら約300人が体調不良を訴え、焼き魚に含まれたヒスタミンによる集団食中毒と判断された。ヒスタミンは加熱しても分解されにくく、サバやイワシなど赤身の魚で発生しやすい。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68361"
+    },
+    {
+     "name": "島根県 ヒスタミン食中毒の解説",
+     "url": "https://www.pref.shimane.lg.jp/bousai_info/syoku/anzen/chuudoku/histamin.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "lead": true,
+   "title": "バイナンスで約63億ドル相当が流出、暗号資産で過去最大規模",
+   "body": "暗号資産交換業大手のバイナンスは29日、約63億ドル相当の顧客資産が不正に流出したと明らかにした。資金の大半は約20分でウォレットから引き出され、約30億ドル分は凍結されている。バイナンスは損失を自社資金で補填するとしている。分析会社などは北朝鮮系のハッカー集団の関与を疑っているが、バイナンスは攻撃者を特定していない。",
+   "note": "ビットコイン価格は30日、6週間ぶりの安値に下がった。",
+   "visual": {
+    "kicker": "バイナンスから流出",
+    "figure": "約63億",
+    "unit": "ドル",
+    "caption": "暗号資産の流出で過去最大規模"
+   },
+   "sources": [
+    {
+     "name": "CNBC（10/29）",
+     "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+    },
+    {
+     "name": "CoinDesk（10/29）",
+     "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "ユーロ圏の7〜9月期GDP、前期比0.4%増",
+   "body": "欧州連合（EU）統計局が30日発表したユーロ圏の7〜9月期の域内総生産（GDP）速報値は、前期比0.4%増で市場予想を上回った。前年同期比では1.3%増だった。フランスは0.1%減、イタリアは横ばいだった。",
+   "sources": [
+    {
+     "name": "Eurostat（10/30）",
+     "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-30102026-ap"
+    },
+    {
+     "name": "新華社（10/30）",
+     "url": "https://english.news.cn/20261030/2bc3cfd83cf140edab790d7890393993/c.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米国株、ナスダックが一時3%近く下落",
+   "body": "30日の米国株式市場では、ハイテク企業の決算やAI投資への懸念から売りが広がり、ナスダック総合指数は一時3%近く下落した。インテルなどの株価が大きく下がった。",
+   "sources": [
+    {
+     "name": "TheStreet（10/30）",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+    },
+    {
+     "name": "Yahoo Finance（10/30）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "フーシ派がサウジの石油施設などへの攻撃を主張、原油価格が上昇",
+   "body": "イエメンの親イラン武装組織フーシ派は、サウジアラビアの空港や石油施設に対してミサイルや無人機で6回の攻撃を行ったと主張した。サウジ側は攻撃とその影響を確認していない。北海ブレント原油の先物価格は30日の取引で1バレル115ドル台に上がった。",
+   "sources": [
+    {
+     "name": "CNBC（10/30）",
+     "url": "https://www.cnbc.com/2026/10/30/oil-rises-on-supply-concerns-as-houthis-attack-saudi-arabia.html"
+    },
+    {
+     "name": "Gulf News（10/30）",
+     "url": "https://gulfnews.com/world/mena/yemens-houthis-claim-attacks-on-saudi-oil-aviation-military-targets-1.500729076"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "カタールの仲介者、米国の修正案を携えイランへ",
+   "body": "米国とイランの戦闘終結に向けて、カタールの仲介者が米国の修正案を携えてテヘランを再び訪れたと報じられている。イラン側の正式な回答は確認されていない。米国は核問題を最初から協議の対象にするよう求め、イランは港湾封鎖と石油輸出制裁の解除を先に求めている。",
+   "sources": [
+    {
+     "name": "Arab Times（10/30）",
+     "url": "https://www.arabtimesonline.com/news/qatari-mediators-return-to-tehran-in-renewed-push-for-us-iran-deal-to-avert-us-strikes/"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "中国、ASEAN国防相会議への出席を比が妨げたと非難",
+   "body": "中国はフィリピンで開かれたASEAN拡大国防相会議をめぐり、フィリピン側が出席に「多くの障害」を設けたと非難した。中国海警局は、両国が領有権を争う岩礁の付近で放水砲や無人機を使った演習を行っていると、香港紙サウスチャイナ・モーニング・ポストが伝えている。",
+   "sources": [
+    {
+     "name": "South China Morning Post（10/29）",
+     "url": "https://scmp.com/news/china/military/article/3372607/china-accuses-philippines-setting-obstacles-attending-asean-defence-meeting"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/2",
+   "what": "Apple 7〜9月期決算（米国時間）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "消費減税関連法案の質疑"
+  },
+  {
+   "when": "11/4",
+   "what": "韓国・尹前大統領の控訴審判決"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
