@@ -1,0 +1,252 @@
+{
+ "date": "2026-10-31",
+ "slot": "pm",
+ "key": 2026103102,
+ "generatedAt": "2026-10-31T18:56:09+09:00",
+ "brief": [
+  "30日の米国株はS&P500が1.8%下落し6月以来の大幅安。ナスダックは10月に5.2%下げた。",
+  "中国の10月の製造業PMIは49.3で、景気の節目の50を下回った。G20外相会合は合意文書なし。",
+  "防災庁が11月2日に発足する。消費減税法案は与党が来週の衆院採決の日程を探る。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、与党が来週の衆院採決を探る　野党は首相出席を要求",
+   "body": "食料品の消費税減税関連法案について、与党は審議時間が積み上がってきたとして、来週の衆議院での採決に向けて日程を探る方針。野党側は、委員会への高市首相の出席を求めている。",
+   "sources": [
+    {
+     "name": "NHK（10/31）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261031de68800"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "防災庁が11月2日に発足、首相をトップとする司令塔組織",
+   "body": "災害対策で省庁を横断する司令塔となる防災庁が11月2日に発足する。首相をトップとする内閣直属の組織で、各省庁に勧告する権限を持つ防災相が統括し、職員の定員は352人。細野防災相は、発足初日に国民や自治体に防災対策の強化を求める「緊急要請」を出す方針を示している。",
+   "visual": {
+    "kicker": "防災庁の発足",
+    "figure": "11月2日",
+    "caption": "職員定員352人でスタート"
+   },
+   "sources": [
+    {
+     "name": "熊本日日新聞（共同通信）",
+     "url": "https://kumanichi.com/articles/2039407"
+    },
+    {
+     "name": "KAB熊本朝日放送（ANN）",
+     "url": "https://www.kab.co.jp/news/article/17001383"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "ハロウィーン当日は土曜日、渋谷など繁華街で警戒強化",
+   "body": "31日のハロウィーン当日は土曜日で、例年より人出が増えることが予想され、繁華街を抱える各地の自治体が警戒を強めている。東京・渋谷区は駅周辺での路上飲酒を条例で禁じており、今年6月からはごみのポイ捨てに2000円の過料を科している。",
+   "sources": [
+    {
+     "name": "神奈川新聞（共同通信、10/28）",
+     "url": "https://www.kanaloco.jp/news/social/article-1315917.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "非常に強い台風31号、小笠原近海を北上",
+   "body": "非常に強い台風31号（インファ）が小笠原近海を北に進んでいる。進路が北寄りに変わるタイミングによって小笠原諸島への影響が大きく変わるとされ、本州の太平洋沿岸でも来週以降、うねりを伴った高波に注意が必要。",
+   "sources": [
+    {
+     "name": "東京新聞（共同通信、10/31）",
+     "url": "https://www.tokyo-np.co.jp/article/525293"
+    },
+    {
+     "name": "ウェザーニュース（10/29）",
+     "url": "https://weathernews.jp/news/202610/290061/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ジャングリア沖縄、新たなスポンサー探しに半年程度",
+   "body": "沖縄県のテーマパーク「ジャングリア沖縄」を運営する会社の親会社は30日、2回目の株主総会を開いた。前回の総会では173億円の最終赤字を計上した決算が承認されていなかった。会社は、新たなスポンサー探しを半年程度かけて進めたいとしている。",
+   "sources": [
+    {
+     "name": "NHK（10/30）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68752"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "高市首相、殉職警察官の慰霊祭に参列",
+   "body": "高市首相は31日、東京都内で開かれた全国殉職警察職員・警察協力殉難者慰霊祭に参列し、安全で安心な日本の実現に力を尽くす考えを示した。",
+   "sources": [
+    {
+     "name": "日本経済新聞（10/31）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA310WZ0R31C26A0000000/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "米国株が大幅安、S&P500は6月以来の下落幅",
+   "body": "30日の米国株式市場は、ハイテク企業の決算やAI投資への懸念から売りが広がった。S&P500種株価指数は前日比140.32ポイント（1.8%）安の7580.07、ナスダック総合指数は747.73ポイント安の2万5437.00、ダウ工業株30種平均は572.25ドル安の5万1770.31ドルで取引を終えた。10月の1か月では、ナスダックが5.2%下落した。",
+   "visual": {
+    "kicker": "S&P500 終値",
+    "figure": "7,580.07",
+    "caption": "前日比 -1.8%、6月以来の大幅安"
+   },
+   "sources": [
+    {
+     "name": "The Washington Times（AP、10/30）",
+     "url": "https://www.washingtontimes.com/news/2026/oct/30/wall-street-falls-worst-day-since-june-sell-tech-stocks-deepens/"
+    },
+    {
+     "name": "Yahoo Finance（10/30）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "インテル株、弱い業績見通しで記録的な下落",
+   "body": "米半導体大手インテルの株価は30日、前日に示した業績見通しが弱かったことを受けて大きく下がり、数十年で最悪の下落となった。AI半導体のエヌビディアも4.2%下落し、S&P500を押し下げた。",
+   "sources": [
+    {
+     "name": "The Washington Times（AP、10/30）",
+     "url": "https://www.washingtontimes.com/news/2026/oct/30/wall-street-falls-worst-day-since-june-sell-tech-stocks-deepens/"
+    },
+    {
+     "name": "StockTitan（10/30）",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "中国の10月製造業PMIは49.3、節目の50を下回る",
+   "body": "中国国家統計局が31日発表した10月の製造業購買担当者景気指数（PMI）は49.3で、景気拡大と縮小の分かれ目となる50を下回った。前月から0.8ポイント低下した。非製造業のPMIは49.7だった。ハイテク製造業は拡大を続けた。",
+   "visual": {
+    "kicker": "中国 製造業PMI（10月）",
+    "figure": "49.3",
+    "caption": "節目の50を下回る"
+   },
+   "sources": [
+    {
+     "name": "人民網（10/31）",
+     "url": "http://en.people.cn/n3/2026/1031/c90000-20514322.html"
+    },
+    {
+     "name": "China-Global South Project（10/31）",
+     "url": "https://chinaglobalsouth.com/2026/10/31/china-manufacturing-pmi-october-2026-factory-contraction/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "G20外相会合、共同声明出さず　ラブロフ氏めぐり集合写真も中止",
+   "body": "米南部アトランタで30日に始まった20か国・地域（G20）外相会合は、主要な安全保障の課題で合意できず、共同声明ではなく議長国の米国が議長声明を出す見通しとなった。ロシアのラブロフ外相の出席に欧州側が反発し、集合写真の撮影は取りやめになった。",
+   "sources": [
+    {
+     "name": "CNN（10/30）",
+     "url": "https://www.cnn.com/2026/10/30/politics/g20-tensions-photo-canceled-lavrov-rubio"
+    },
+    {
+     "name": "The Korea Times（10/31）",
+     "url": "https://www.koreatimes.co.kr/world/20261031/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米国の修正案、イランの回答は週末にも　イラン側は否定的な発言",
+   "body": "カタールの仲介者が米国の修正案をイランに示し、イラン側の回答は週末にも出るとみられている。イラン政府高官は、核問題では柔軟な姿勢をとらないと述べたと報じられている。トランプ大統領は、戦闘は近く終わるとの見方を示した。",
+   "sources": [
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+    },
+    {
+     "name": "Ynetnews",
+     "url": "https://www.ynetnews.com/article/h1fpb6g6ze"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米政府、ウクライナへの迎撃ミサイルなどの売却を承認",
+   "body": "トランプ政権は、迎撃ミサイルなどウクライナへの武器の売却を承認したと発表した。総額は約21億ドル（約3300億円）。",
+   "sources": [
+    {
+     "name": "NHK（10/31）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261031de68846"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "スペイン列車事故の死者69人に、自動列車制御装置が事前に故障",
+   "body": "スペイン中部トレド県で28日に起きた高速列車同士の衝突事故で、運輸省は死者が69人になったと発表した。鉄道事故調査機関の暫定報告によると、追突した列車の自動列車制御装置が、衝突の約22分前に故障していた。",
+   "sources": [
+    {
+     "name": "Bastille Post（10/30）",
+     "url": "https://www.bastillepost.com/global/article/6310894-spain-train-crash-puts-rail-safety-under-scrutiny-as-death-toll-hits-69"
+    },
+    {
+     "name": "Al Jazeera（10/30）",
+     "url": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/2",
+   "what": "Apple 7〜9月期決算（米国時間）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "韓国・尹前大統領の控訴審判決"
+  },
+  {
+   "when": "11/4",
+   "what": "ユーロ圏10月消費者物価の速報値"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
