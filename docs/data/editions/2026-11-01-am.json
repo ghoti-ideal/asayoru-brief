@@ -1,0 +1,251 @@
+{
+ "date": "2026-11-01",
+ "slot": "am",
+ "key": 2026110101,
+ "generatedAt": "2026-11-01T06:56:40+09:00",
+ "brief": [
+  "11月の食品値上げは1477品目で前年の約10倍。訪日客の免税制度は1日から返金方式に変わる。",
+  "米中間選挙は3日に投票。下院は民主党が優勢との見方、上院は接戦とされる。",
+  "G20外相会合は共同声明を出さず議長声明で閉幕。米ロ・ウクライナ協議は4日以降と露側。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "society",
+   "lead": true,
+   "title": "11月の食品値上げ1477品目、前年の約10倍",
+   "body": "帝国データバンクによると、主要な食品メーカー195社による11月の飲食料品の値上げは1477品目で、前年同月の約10倍となった。最も多いのは調味料の644品目で、マヨネーズやソース類が中心。2026年の値上げは判明分で2万327品目となり、2年連続で年間2万品目を超えた。",
+   "visual": {
+    "kicker": "11月の食品値上げ",
+    "figure": "1,477",
+    "unit": "品目",
+    "caption": "前年同月の約10倍"
+   },
+   "sources": [
+    {
+     "name": "帝国データバンク（10/30）",
+     "url": "https://www.tdb.co.jp/report/economic/20261030-neage26y11/"
+    },
+    {
+     "name": "共同通信（10/30）",
+     "url": "https://news.yahoo.co.jp/articles/1a30cf7d1e4bfd5ef533a30f1ab6e1caa9781120"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "訪日客の消費税免税、1日から「リファンド方式」に",
+   "body": "訪日外国人向けの消費税の免税制度が1日の購入分から変わる。買い物の際はいったん税込み価格を支払い、出国時に税関で商品の持ち出しが確認された後に消費税相当額が返金される。免税品の国内での不正転売を防ぐのが目的で、現行制度と併用する移行期間は設けられていない。",
+   "sources": [
+    {
+     "name": "観光庁 資料",
+     "url": "https://www.mlit.go.jp/kankocho/tax-free/content/001978459.pdf"
+    },
+    {
+     "name": "トラベル Watch",
+     "url": "https://travel.watch.impress.co.jp/docs/news/2150250.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "非常に強い台風31号、小笠原近海に　暴風域に入るおそれ",
+   "body": "気象庁によると、非常に強い台風31号（インファ）は31日、小笠原近海を北北西に進んだ。中心気圧は940ヘクトパスカル、最大瞬間風速は65メートル。小笠原諸島では1日から暴風域に入る可能性があり、高波やうねりが長引くおそれがある。",
+   "visual": {
+    "kicker": "台風31号 最大瞬間風速",
+    "figure": "65",
+    "unit": "m/s",
+    "caption": "中心気圧940hPa（31日）"
+   },
+   "sources": [
+    {
+     "name": "RKK熊本放送（10/31）",
+     "url": "https://news.yahoo.co.jp/articles/6fe0b455c17aad1d1d99da96a8d4cff66275a3bf"
+    },
+    {
+     "name": "福井新聞",
+     "url": "https://www.fukuishimbun.co.jp/articles/-/2729332"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日米韓外相が会合、米国は黄海での中国の行動に言及",
+   "body": "日米韓の外相は30日、G20外相会合が開かれた米アトランタで会合を開いた。米国は、南シナ海に加えて東シナ海や黄海での中国の威圧的な行動に懸念を示した。日韓はそれぞれの発表で中国に名指しで言及しなかった。3か国は北朝鮮の完全な非核化の目標を再確認した。",
+   "sources": [
+    {
+     "name": "SBS（10/31）",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008824397"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://koreaherald.com/article/10920970"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "防災庁が2日発足、細野防災相は初日に備蓄などの緊急要請へ",
+   "body": "省庁を横断する災害対策の司令塔となる防災庁が2日に発足する。細野防災相は発足初日に、国民や自治体に防災対策の強化を求める「緊急要請」を出す方針を示している。",
+   "sources": [
+    {
+     "name": "KAB熊本朝日放送（ANN）",
+     "url": "https://www.kab.co.jp/news/article/17001383"
+    },
+    {
+     "name": "朝鮮日報日本語版",
+     "url": "https://news.yahoo.co.jp/articles/7d026c22b53ff880f6891967de98709f54d9591d"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "外務省に不正アクセス、約3600件の個人情報漏えいのおそれ",
+   "body": "外務省は30日、同省のネットワークへの不正アクセスにより、約3600件の個人情報が漏えいした可能性があると発表した。",
+   "sources": [
+    {
+     "name": "時事通信（10/30）",
+     "url": "https://www.jiji.com/jc/list?g=flash"
+    },
+    {
+     "name": "The Japan Times（10/31）",
+     "url": "https://www.japantimes.co.jp/latest-news/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米中間選挙まで3日、上院の多数派争いは接戦",
+   "body": "11月3日の米中間選挙を前に、下院は民主党が多数派を奪うとの見方が強い一方、上院は接戦とされる。上院（定数100）は現在、共和党が53議席を持ち、民主党が多数派になるには差し引き4議席を増やす必要がある。期日前投票は2022年の中間選挙の同じ時期より約1000万票多い。",
+   "visual": {
+    "kicker": "米上院の共和党現有議席",
+    "figure": "53",
+    "unit": "議席",
+    "caption": "定数100。選挙は11月3日"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（10/31）",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges"
+    },
+    {
+     "name": "Newsweek（10/31）",
+     "url": "https://www.newsweek.com/who-win-midterms-polls-3-days-12641376"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "G20外相会合が閉幕、共同声明なく議長声明",
+   "body": "米アトランタで開かれたG20外相会合は31日に閉幕し、参加国の合意による共同声明は出さず、議長国の米国が議長声明を発表した。声明はホルムズ海峡やバブ・エル・マンデブ海峡を戦略的に重要な航路と位置づけ、サプライチェーンの情報共有の強化を求めた。ルビオ国務長官は、広く受け入れられる解決策に近づいているとは言えないと述べた。",
+   "sources": [
+    {
+     "name": "米国務省（10/31）",
+     "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting"
+    },
+    {
+     "name": "The Korea Times（10/31）",
+     "url": "https://www.koreatimes.co.kr/world/20261031/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米ロ・ウクライナ協議、アブダビで4日以降に　ロシア大統領府",
+   "body": "ロシア大統領府のウシャコフ補佐官は、米国、ロシア、ウクライナの3者による和平協議を、11月4日以降にアラブ首長国連邦のアブダビで開くと述べた。具体的な日程は戦況次第としている。ゼレンスキー大統領は、協議が10日に開かれる可能性があると述べていた。",
+   "sources": [
+    {
+     "name": "Meduza（10/29）",
+     "url": "https://meduza.io/en/news/2026/10/29/kremlin-says-u-s-russia-ukraine-peace-talks-will-take-place-in-abu-dhabi-after-november-4-depending-on-battlefield-conditions"
+    },
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/88394"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "インドネシアの森林火災の煙、9月に約3500人が死亡と推計",
+   "body": "フィンランドの研究機関CREAの分析によると、インドネシアでは9月、森林火災の煙による大気汚染で約3500人が死亡したと推計される。同月は約5780万人が健康に有害な水準の空気にさらされた。インドネシア政府は、火災に関与した企業の捜査を進めている。",
+   "sources": [
+    {
+     "name": "Dhaka Tribune（AFP、10/30）",
+     "url": "https://dhakatribune.com/world/asia/423291/fire-pollution-killed-3-560-people-in-indonesia-in"
+    },
+    {
+     "name": "Malay Mail（10/20）",
+     "url": "https://www.malaymail.com/news/world/2026/10/20/indonesia-hunts-foreign-links-in-98-corporate-fire-cases-as-haze-chokes-region/239792"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "アルゼンチン、EUの森林規制でブラジル産大豆かすの代替狙う",
+   "body": "欧州連合（EU）の森林破壊防止規則で、ブラジル産の大豆かすの輸出が制約を受ける可能性があり、アルゼンチンが欧州向けの輸出拡大の機会とみている。欧州の飼料業界団体は、追跡の要件によってブラジル産の大豆かす最大400万トンが締め出されるおそれがあると警告している。",
+   "sources": [
+    {
+     "name": "Business Recorder（ロイター、10/31）",
+     "url": "https://brecorder.com/news/40446820/argentina-sees-eu-soymeal-opportunity-as-deforestation-rules-threaten-brazil-trade"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "リオ・ティント、アルゼンチンでリチウム工場2か所を稼働",
+   "body": "英豪資源大手リオ・ティントは28日、アルゼンチン北西部カタマルカ州でリチウムの新工場と拡張設備の2か所の稼働を始めた。投資額は計14億ドルで、炭酸リチウム換算で年2万5000トンの生産能力が加わる。同社は年間生産能力を20万トンに高める目標を掲げている。",
+   "sources": [
+    {
+     "name": "KFGO（ロイター、10/28）",
+     "url": "https://kfgo.com/2026/10/28/rio-tinto-doubles-down-in-argentina-with-new-lithium-plants/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/2",
+   "what": "Apple 7〜9月期決算（米国時間）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "韓国・尹前大統領の控訴審判決"
+  },
+  {
+   "when": "11/4以降",
+   "what": "米ロ・ウクライナの3者協議（アブダビ）"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
