@@ -1,0 +1,259 @@
+{
+ "date": "2026-11-02",
+ "slot": "am",
+ "key": 2026110201,
+ "generatedAt": "2026-11-02T06:58:25+09:00",
+ "brief": [
+  "防災庁が2日に発足し、細野防災相は備蓄などを呼びかける方針。台風31号は5日ごろ小笠原諸島付近を北上する予想。",
+  "韓国の10月の輸出は前年同月比93.7%増、半導体は259.4%増。Appleは2日（米国時間）に決算を発表する。",
+  "イラン外相が米国の対話の働きかけを「前進」と評価。ブルガリア大統領選の決選投票は出口調査でヨトバ氏が優勢。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "防災庁が発足、災害対応の司令塔に　細野防災相は備蓄を呼びかけへ",
+   "body": "災害対応の司令塔となる防災庁が2日に発足した。首相をトップとし、防災相が業務を統括する352人の体制。細野防災相は発足日に合わせ、国民や自治体、各府省に向けて災害への備えを呼びかける考えを示している。細野氏は、この呼びかけは災害の予知情報をきっかけとするものではないと説明している。",
+   "visual": {
+    "kicker": "防災庁の職員定員",
+    "figure": "352",
+    "unit": "人",
+    "caption": "首相がトップ、防災相が業務を統括"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/1）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261101de69293"
+    },
+    {
+     "name": "熊本日日新聞（共同、9/25）",
+     "url": "https://kumanichi.com/articles/2039407"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "衆院比例31削減の法案、11月前半をめどに取りまとめへ",
+   "body": "自民、日本維新の会、国民民主の3党は10月29日、衆院の定数465を比例代表で31削減することを柱とする合意書に署名した。実務者協議では法案を11月前半をめどにまとめることを確認した。提出の時期は決まっておらず、与党は12月12日の会期末までの成立を目指している。",
+   "sources": [
+    {
+     "name": "時事通信（10/29）",
+     "url": "https://www.jiji.com/jc/article?k=2026102900201&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "非常に強い台風31号、小笠原近海をゆっくり進む　5日ごろ北上の予想",
+   "body": "非常に強い台風31号は1日15時時点で小笠原近海をゆっくり進み、中心気圧は950hPa、最大風速は45m/s。日本気象協会によると、3日ごろから再び北上を始め、5日ごろには父島や母島の西の海上を強い勢力で北東に進む予想。小笠原諸島では6日ごろまで高波などの影響が続くおそれがある。",
+   "visual": {
+    "kicker": "台風31号の中心気圧",
+    "figure": "950",
+    "unit": "hPa",
+    "caption": "1日15時時点、最大風速45m/s"
+   },
+   "sources": [
+    {
+     "name": "tenki.jp（日本気象協会、11/1）",
+     "url": "https://tenki.jp/forecaster/t_yoshida/2026/11/01/41167.html"
+    },
+    {
+     "name": "ウェザーニュース（11/1）",
+     "url": "https://weathernews.jp/news/202611/010181/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMO子会社で約4万5千人分の情報漏えい　2日に社長が会見",
+   "body": "GMOインターネットグループの子会社は1日までに、提供する社員情報管理サービスで顧客企業の個人情報が少なくとも約4万5千人分漏えいしたと発表した。共同通信は、同グループがFX向けサーバーへの攻撃に北朝鮮のハッカーが関与した可能性を示す痕跡を確認し、政府に報告したもようだと報じた。同グループは2日に熊谷正寿社長らが出席して記者会見を開く。",
+   "sources": [
+    {
+     "name": "共同通信（11/1）",
+     "url": "https://news.yahoo.co.jp/articles/ec71f999bb0a19694185a05ab64dfcb8c74f097a"
+    },
+    {
+     "name": "共同通信（11/1）",
+     "url": "https://news.yahoo.co.jp/articles/e93001b1bba67a2c7cbf0f45223c362ef61a4680"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "中国産オクラに初の検査命令、基準値超える農薬の検出相次ぐ",
+   "body": "厚生労働省は、中国産オクラから基準値を超える残留農薬の検出が相次いだとして、輸入時の検査を義務付ける検査命令を初めて出した。8月から10月に3件が見つかり、最も高いもので基準値の24倍だった。いずれも国内には流通していないという。",
+   "visual": {
+    "kicker": "検出された農薬",
+    "figure": "24",
+    "unit": "倍",
+    "caption": "基準値に対する最大値"
+   },
+   "sources": [
+    {
+     "name": "テレビ朝日（ANN、11/1）",
+     "url": "https://news.yahoo.co.jp/articles/b00a6fb31d71ff6032fa1bdd02aef37cc0b55efa"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "米国産ジャガイモの輸入解禁、国会の論点に　野党は慎重姿勢",
+   "body": "政府が米国と協議している生食用ジャガイモの輸入解禁が、国会の論点に浮上している。国民民主党や立憲民主党の議員らは10月22日に農相と面会し、病害虫の侵入防止策を徹底し、安全性が確保できるまで解禁しないよう求めた。政府は9月に手続きを最終段階に進める方針を示している。",
+   "sources": [
+    {
+     "name": "共同通信（11/1）",
+     "url": "https://news.yahoo.co.jp/articles/e8d967d2ace2d7e646299b09bd4f4744bfdc55f6"
+    },
+    {
+     "name": "熊本日日新聞（共同、10/22）",
+     "url": "https://kumanichi.com/articles/2049494"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "韓国の10月輸出、前年比93.7%増　半導体は259.4%増",
+   "body": "韓国産業通商資源省が1日に発表した10月の輸出額は、前年同月比93.7%増の1152億8000万ドルだった。半導体の輸出は259.4%増の564億4000万ドルで、輸出全体の48.9%を占めた。貿易収支は425億ドルの黒字。1〜10月の累計は9300億ドルで、同省は年間1兆ドルを早ければ11月にも超えるとみている。",
+   "visual": {
+    "kicker": "韓国の10月輸出",
+    "figure": "93.7",
+    "unit": "%増",
+    "caption": "前年同月比。半導体は259.4%増"
+   },
+   "sources": [
+    {
+     "name": "The Korea Times（11/1）",
+     "url": "https://www.koreatimes.co.kr/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
+    },
+    {
+     "name": "Seoul Economic Daily（11/1）",
+     "url": "https://en.sedaily.com/finance/2026/11/01/koreas-october-exports-surge-937-percent-as-1-trillion-year"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン外相、米国の対話の働きかけを「前進」と評価　代表団はドーハに",
+   "body": "イランのアラグチ外相は1日、米国による対話の働きかけを「前進」と評価した。カタールの仲介で、ホルムズ海峡を2日間で再開する案について協議が続いていると述べ、米国との直接会談は予定していないとした。イランの代表団はカタールの首都ドーハを訪れている。トランプ米大統領は交渉は順調だとしつつ、合意を急いではいないと述べた。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/1）",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+    },
+    {
+     "name": "ANI（11/1）",
+     "url": "https://aninews.in/news/world/middle-east/iran-araghchi-says-doha-consultations-outcome-depends-on-us-response-no-breakthrough-in-2-day-hormuz-reopening-plan20261101211323/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ブルガリア大統領選の決選投票、出口調査でヨトバ氏が優勢",
+   "body": "ブルガリアで1日に大統領選の決選投票が行われ、出口調査では大統領代行のヨトバ氏が親欧米派のギュロフ氏をリードした。調査会社アルファ・リサーチの出口調査ではヨトバ氏が52.5%、ギュロフ氏が43.4%。正式な結果は2日に判明する見通しで、当選すれば選挙で選ばれた初の女性大統領となる。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/1）",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+    },
+    {
+     "name": "Euronews（11/1）",
+     "url": "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ロシア軍がウクライナ4州のエネルギー施設を攻撃、数十万世帯が停電",
+   "body": "ウクライナのゼレンスキー大統領は1日、ロシア軍が夜間にドニプロ、ビンニツャ、ジトーミル、フメリニツキーの4州で変電所や送電線などのエネルギー施設を攻撃したと明らかにした。数十万世帯が停電しているとして、防空に関する決定の迅速化とパトリオットの早期供与を求めた。",
+   "sources": [
+    {
+     "name": "Ukrainska Pravda（11/1）",
+     "url": "https://www.pravda.com.ua/eng/news/2026/11/01/8060713/"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "Apple、2日に7〜9月期決算を発表",
+   "body": "Appleは米国時間2日、2026年度第4四半期（6月28日〜9月26日）の決算を発表する。説明会は米太平洋時間2日午後2時（日本時間3日午前7時）に始まる。同社は7月、この四半期の売上高が前年同期比9〜11%増になるとの見通しを示していた。",
+   "sources": [
+    {
+     "name": "MacRumors（10/6）",
+     "url": "https://macrumors.com/2026/10/06/apple-q4-2026-earnings-nov-2"
+    },
+    {
+     "name": "9to5Mac（10/6）",
+     "url": "https://9to5mac.com/2026/10/06/apple-sets-q4-2026-earnings-release-for-november-2/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "science",
+   "title": "SpaceXのファルコン9、通算700回目の打ち上げ",
+   "body": "SpaceXは米国時間10月30日夜、カリフォルニア州のバンデンバーグ宇宙軍基地からファルコン9ロケットでスターリンク衛星を打ち上げた。ファルコン9の打ち上げは通算700回目で、同社の10月の軌道打ち上げは11回となった。1段目は洋上の無人船に着地した。",
+   "visual": {
+    "kicker": "ファルコン9の打ち上げ",
+    "figure": "700",
+    "unit": "回目",
+    "caption": "10月30日（米国時間）"
+   },
+   "sources": [
+    {
+     "name": "Spaceflight Now（10/30）",
+     "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足、GMOが不正アクセス問題で記者会見"
+  },
+  {
+   "when": "11/3 7:00",
+   "what": "Apple決算説明会（米太平洋時間2日14時）"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院通過を政府・与党が目指す"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  }
+ ]
+}
