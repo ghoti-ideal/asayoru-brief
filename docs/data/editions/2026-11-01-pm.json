@@ -1,0 +1,281 @@
+{
+ "date": "2026-11-01",
+ "slot": "pm",
+ "key": 2026110102,
+ "generatedAt": "2026-11-01T18:59:10+09:00",
+ "brief": [
+  "茂木外相がロシア外相と会談し、拘束中の北海道新聞記者の解放を要求。サウジ外相とはホルムズで連携を確認。",
+  "フランスで31日に約32万人が抗議デモ、逮捕者は565人。ドイツでも34都市で若者らが集会を開いた。",
+  "イスラエル大統領は4日に組閣協議を開始。米連邦地裁は選挙管理者への訴追の脅しを禁じた。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "茂木外相がラブロフ外相と会談、拘束中の道新記者の即時解放を要求",
+   "body": "茂木外相はロシアのラブロフ外相と約30分間会談し、ロシアで拘束されている北海道新聞の記者の即時解放を求めた。茂木氏は記者団に「率直な意見交換ができた」と述べた。やり取りの詳細は邦人の安全に関わるとして明らかにしなかった。",
+   "visual": {
+    "kicker": "日ロ外相会談",
+    "figure": "30",
+    "unit": "分",
+    "caption": "道新記者の即時解放を要求"
+   },
+   "sources": [
+    {
+     "name": "時事通信（11/1）",
+     "url": "https://www.jiji.com/jc/article?k=2026110100178&g=pol&m=rss"
+    },
+    {
+     "name": "日本経済新聞（10/31）",
+     "url": "https://www.nikkei.com/article/DGXZQOGN30D6G0Q6A031C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日サウジ外相が会談、ホルムズ海峡の航行回復へ連携",
+   "body": "茂木外相は31日（現地時間）、米アトランタでサウジアラビアのファイサル外相と会談した。茂木氏はホルムズ海峡の自由で安全な航行の回復に向けて緊密に連携する考えを伝えた。",
+   "sources": [
+    {
+     "name": "時事通信（11/1）",
+     "url": "https://news.yahoo.co.jp/articles/fb781174dd76885914baa18d54570f9d5543ebfb"
+    },
+    {
+     "name": "新潟日報（共同）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/890574"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "熊本市長選が告示、現新5人が届け出　15日に投開票",
+   "body": "任期満了に伴う熊本市長選が1日告示され、現職と新人の計5人が立候補を届け出た。投開票は15日。熊本日日新聞は告示前、4期目を目指す現職に新人4人が挑む構図と伝えていた。",
+   "sources": [
+    {
+     "name": "時事ドットコム（11/1）",
+     "url": "https://www.jiji.com/jc/archives?g=pol_archive_0"
+    },
+    {
+     "name": "熊本日日新聞（10/18 社説）",
+     "url": "https://kumanichi.com/articles/2047768"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "消費減税法案、政府・与党は6日にも衆院通過の方針",
+   "body": "政府・与党は飲食料品の消費税率を1%に下げる法案について、6日にも衆院を通過させる方針と報じられた。野党が求める首相の質疑出席が焦点となっている。法案は2027年4月から2年間の時限措置で、与党は参院で過半数を持たない。",
+   "sources": [
+    {
+     "name": "Yahoo!ニュース（11/1）",
+     "url": "https://news.yahoo.co.jp/pickup/6600914"
+    },
+    {
+     "name": "熊本日日新聞（共同、10/20）",
+     "url": "https://kumanichi.com/articles/2048549"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMO、不正アクセス問題で2日に記者会見　熊谷社長が出席",
+   "body": "GMOインターネットグループは31日、FX自動売買用サーバー「お名前.comデスクトップクラウド」への不正アクセス問題で、2日に東京都内で記者会見を開くと発表した。熊谷正寿社長らが出席し、経緯や顧客への対応を説明する見通し。問題の発生後、同社が会見を開くのは初めて。",
+   "sources": [
+    {
+     "name": "時事通信（10/31）",
+     "url": "https://news.yahoo.co.jp/articles/1f40a78ad23ca85fcf5c34dd805c5489e4b0b77a"
+    },
+    {
+     "name": "ライブドアニュース（共同、10/31）",
+     "url": "https://news.livedoor.com/article/detail/32702256/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "日米韓、北極での協力に関する覚書に署名",
+   "body": "日本、米国、韓国の3か国は30日、北極に関する協力の覚書に署名した。報道によると、北極での海上協力やエネルギー供給の拡大などを視野に入れた枠組みとされる。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、10/31）",
+     "url": "https://nippon.com/en/articles/-/56704"
+    },
+    {
+     "name": "Asia News Network",
+     "url": "https://asianews.network/?p=302535"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "北方領土の元島民、チャーター機で上空から慰霊",
+   "body": "北方領土の元島民らが31日、チャーター機で島々の近くを飛び、上空から先祖を慰霊した。元島民の平均年齢は90歳を超えており、身体の負担を軽くするための取り組み。ロシアによるウクライナ侵攻後、四島との交流事業は中断が続いている。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、10/31）",
+     "url": "https://nippon.com/en/articles/-/56717"
+    },
+    {
+     "name": "Adnkronos（時事、6/5）",
+     "url": "https://english.adnkronos.com/2026/06/05/ex-residents-to-hold-memorial-services-near-japan-claimed-isles/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "lead": true,
+   "title": "フランスで再び大規模抗議デモ、約32万人参加　逮捕565人",
+   "body": "フランス各地で31日、生活費や教育予算をめぐる反政府デモがあり、内務省によると参加者は全国で約32万人だった。前週の約41万人から減った。夜にかけて一部で警官隊と衝突し、内務省は逮捕者が565人に上ったと発表した。労働組合は5日のゼネストを呼びかけている。",
+   "visual": {
+    "kicker": "仏デモ参加者",
+    "figure": "32万",
+    "unit": "人",
+    "caption": "内務省発表。前週は約41万人"
+   },
+   "sources": [
+    {
+     "name": "France 24（10/31）",
+     "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response"
+    },
+    {
+     "name": "Malay Mail（11/1）",
+     "url": "https://www.malaymail.com/news/world/2026/11/01/halloween-costumes-tear-gas-and-565-arrests-frances-protests-take-a-violent-turn/241492"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ドイツでも若者主導の抗議集会、34都市で開催",
+   "body": "ドイツでは31日、ベルリンやフランクフルトなど34都市で若者主導の抗議集会が開かれた。主催者によると参加者は約12万人で、見込みの約18万2000人を下回った。教育予算の削減や生活費、徴兵制の復活の可能性に反対する内容で、夜にはフランクフルトで店舗が略奪されるなど一部が暴徒化した。",
+   "sources": [
+    {
+     "name": "CNN（10/31）",
+     "url": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl"
+    },
+    {
+     "name": "The Express Tribune",
+     "url": "https://tribune.com.pk/story/2637954/gen-z-protests-reach-germany-as-thousands-join-halloween-rallies"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ポーランド憲法法廷で長官の職務停止めぐり対立",
+   "body": "ポーランド憲法法廷で30日、最古参の判事が長官の職務停止を宣言して長官代行に就き、警察が長官の法廷への立ち入りを阻止した。長官と野党はこれを「クーデター」と非難し、ナブロツキ大統領は政府が法廷を力ずくで掌握したと批判した。トゥスク首相は31日、法廷が法に従って機能するよう保証すると述べた。",
+   "sources": [
+    {
+     "name": "Notes from Poland（10/30）",
+     "url": "https://notesfrompoland.com/2026/10/30/chaos-at-polands-constitutional-court-as-government-backed-judges-seek-to-oust-chief-justice/"
+    },
+    {
+     "name": "CGTN（11/1）",
+     "url": "https://news.cgtn.com/news/2026-11-01/Poland-s-PM-president-clash-over-control-of-top-court-1RHWZCQl6IE/p.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル大統領、4日から組閣に向けた協議を開始",
+   "body": "イスラエルのヘルツォグ大統領は4日から各党との協議を始め、組閣の担当者を指名する。指名された議員の組閣期限は28日間で、14日間の延長ができる。ネタニヤフ首相の与党リクードは選挙が「盗まれた」と主張している。",
+   "sources": [
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/israel/politics/artc-israeli-president-herzog-to-begin-coalition-consultations-on-wednesday"
+    },
+    {
+     "name": "CNBC（10/30）",
+     "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米連邦地裁、選挙管理者への訴追の脅しを禁じる命令",
+   "body": "カリフォルニア州の連邦地裁は30日（米国時間）、司法省と国土安全保障省に対し、選挙管理者を訴追すると警告することや、投票用紙の隔離、有権者名簿の削除を求めることを禁じる一時差し止め命令を出した。外国籍の投票をめぐる対応で、政権側は上訴した。中間選挙は3日に投票が行われる。",
+   "sources": [
+    {
+     "name": "The Washington Post（10/31）",
+     "url": "https://www.washingtonpost.com/politics/2026/10/31/judge-orders-trump-officials-not-threaten-or-intimidate-election-workers/"
+    },
+    {
+     "name": "The Hill",
+     "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "韓国・李大統領、多文化家庭への優遇策の見直しを5日連続で主張",
+   "body": "韓国の李在明大統領は10月28日、自治体による多文化家庭への優遇策が問題になっているとX（旧ツイッター）に投稿し、見直しを表明した。11月1日まで5日連続で見直しを主張し、不公正な制度は極右の憎悪をあおると述べた。必要に応じて施行令の改正も検討するとしている。",
+   "sources": [
+    {
+     "name": "The Korea Herald（10/28）",
+     "url": "https://www.koreaherald.com/article/10918135"
+    },
+    {
+     "name": "Seoul Economic Daily（11/1）",
+     "url": "https://en.sedaily.com/politics/2026/11/01/lee-presses-review-of-multicultural-benefits-for-fifth-day"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "日米豪印、インド太平洋のAI利用支援に8500万ドル超",
+   "body": "日本、米国、オーストラリア、インドの4か国（クアッド）は31日、インド太平洋地域で信頼できるAIサービスを利用できるよう、8500万ドル超を拠出する計画を発表した。報道によると、首脳会議は11月中旬にマニラで開かれる見通しで、実現すれば2024年以来となる。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、10/31）",
+     "url": "https://www.nippon.com/en/articles/-/56724"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/2",
+   "what": "防災庁が発足"
+  },
+  {
+   "when": "11/2",
+   "what": "GMOが不正アクセス問題で記者会見"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院通過を政府・与党が目指す"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  }
+ ]
+}
