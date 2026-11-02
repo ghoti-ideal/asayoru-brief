@@ -131,6 +131,14 @@ main{display:flex;flex-direction:column;gap:24px;padding-block:20px 40px}
 .minifig .u{font-size:11px;font-weight:700;color:var(--cc)}
 .minifig .k{display:block;font-size:10.5px;color:var(--muted);margin-top:3px}
 .item p,.hero p{margin:0}
+.sum{margin:0;font-size:15.5px;line-height:1.8}
+.more{border-top:1px dashed var(--line);padding-top:6px}
+.more > summary{cursor:pointer;font-size:13px;color:var(--accent);font-weight:700;list-style:none;padding:2px 0;width:max-content}
+.more > summary::-webkit-details-marker{display:none}
+.more > summary::before{content:"＋ ";}
+.more[open] > summary::before{content:"－ ";}
+.more[open] > summary{margin-bottom:6px}
+.more .body{display:flex;flex-direction:column;gap:6px;font-size:14px;color:var(--muted)}
 .note{font-size:13.5px;color:var(--muted)}
 .note b{font-weight:700;color:var(--fg);margin-right:.4em}
 .src{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px}
@@ -308,7 +316,7 @@ function heroVisual(it){
   return box;
 }
 
-function bodyParts(it){
+function detailParts(it){
   const out = [];
   if (it.body) out.push(el("p",{text:it.body}));
   if (it.note) out.push(el("p",{class:"note"}, el("b",{text:"補足"}), it.note));
@@ -319,6 +327,14 @@ function bodyParts(it){
     out.push(d);
   }
   return out;
+}
+
+// 要約（summary）がある記事は要約だけを見せ、本文と出典は「詳しく」を開いたときに表示する。
+// 要約のない旧形式の版は、これまでどおり本文をそのまま表示する。
+function bodyParts(it){
+  if (!it.summary) return detailParts(it);
+  const more = el("details",{class:"more"}, el("summary",{text:"詳しく"}), el("div",{class:"body"}, ...detailParts(it)));
+  return [el("p",{class:"sum",text:it.summary}), more];
 }
 
 function heroCard(it){

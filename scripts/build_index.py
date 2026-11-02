@@ -22,6 +22,8 @@ MAX_REGION_GAP = 2       # 国内と海外の件数の差
 MIN_CATS = 5             # 版全体で使う分野の数
 MIN_HOSTS = 8            # 出典の媒体（ドメイン）の数
 MAX_ITEMS_PER_HOST = 3   # 1つの媒体を出典にできる記事数
+MAX_TITLE = 28           # 見出しの最大文字数
+MAX_SUMMARY = 60         # 要約（summary）の最大文字数
 
 
 
@@ -74,6 +76,14 @@ def check_balance(d):
     for h, c in per_host.items():
         if c > MAX_ITEMS_PER_HOST:
             errs.append(f"{h} を出典にした記事が{c}件（{MAX_ITEMS_PER_HOST}件以内にする）")
+    for i, it in enumerate(items):
+        t, sm = it.get("title", ""), it.get("summary", "")
+        if len(t) > MAX_TITLE:
+            errs.append(f"items[{i}].title が{len(t)}字（{MAX_TITLE}字以内にする）")
+        if not sm:
+            errs.append(f"items[{i}].summary がありません")
+        elif len(sm) > MAX_SUMMARY:
+            errs.append(f"items[{i}].summary が{len(sm)}字（{MAX_SUMMARY}字以内にする）")
     for r in ("domestic", "international"):
         leads = [it for it in items if it.get("region") == r and it.get("lead")]
         if not 1 <= len(leads) <= 2:
