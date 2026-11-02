@@ -1,0 +1,17 @@
+{
+  "name": "きざみ — マイクロスケジュール",
+  "short_name": "きざみ",
+  "description": "5分単位で一日を組み立てるスケジュール帳。",
+  "lang": "ja",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4f1",
+  "theme_color": "#c4532f",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
