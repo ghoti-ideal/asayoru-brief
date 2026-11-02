@@ -1,4 +1,3 @@
-// 同じサイトの schedule/（きざみ）とキャッシュを共有するため、消すのは自分の shell-/data- だけ
 // アプリの画面はキャッシュ優先、ニュースのデータはネットワーク優先（圏外のときは前回の内容を表示）
 const SHELL = "shell-v4";
 const DATA = "data-v2";
@@ -11,7 +10,7 @@ self.addEventListener("install", (e) => {
 self.addEventListener("activate", (e) => {
   e.waitUntil(
     caches.keys()
-      .then((keys) => Promise.all(keys.filter((k) => (k.startsWith("shell-") || k.startsWith("data-")) && k !== SHELL && k !== DATA).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k !== SHELL && k !== DATA).map((k) => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
