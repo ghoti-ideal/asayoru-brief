@@ -1,0 +1,268 @@
+{
+ "date": "2026-11-03",
+ "slot": "am",
+ "key": 2026110301,
+ "generatedAt": "2026-11-03T06:56:33+09:00",
+ "brief": [
+  "Appleの7〜9月期の売上高が過去最高に。米中間選挙は3日に投票。",
+  "ノジマで約700万件の個人情報が漏えい。文化勲章の親授式は3日。",
+  "エボラ出血熱の死者が5300人を超えた。北朝鮮は核の強化を表明。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "lead": true,
+   "title": "ノジマで約700万件の個人情報が漏えい",
+   "summary": "ネット通販の会員管理システムが不正アクセスを受けた。会社が2日に発表した。",
+   "body": "家電量販店のノジマは2日、ネット通販サイトの会員管理システムが不正アクセスを受け、会員の個人情報およそ700万件が漏えいしたと発表した。",
+   "visual": {
+    "kicker": "漏えいした個人情報",
+    "figure": "700万",
+    "unit": "件",
+    "caption": "ネット通販の会員情報"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/2）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261102de69780"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMO社長、2年前の脆弱性指摘を「生かせず」",
+   "summary": "子会社から受けていた指摘を対策に生かせなかったと認めた。攻撃者の情報は捜査中として明かさなかった。",
+   "body": "GMOインターネットグループの熊谷正寿代表は2日の会見で、2年前に子会社からシステムの脆弱性を指摘されていたにもかかわらず、サービスの運営に生かせなかったと述べた。攻撃への北朝鮮の関与の可能性については、捜査中だとして情報を明かさなかった。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/2）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC0235C0S6A101C2000000/"
+    },
+    {
+     "name": "TBS NEWS DIG（11/2）",
+     "url": "https://news.yahoo.co.jp/articles/3ba88f89dc59f512b27713a27dd8f45b5fb32bf7"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "住友化学、今期の利益予想を29%上方修正",
+   "summary": "最終利益の見通しを引き上げ、配当も1円増やす。",
+   "body": "住友化学は2日、今期の最終利益の予想を29%上方修正し、配当も1円増やすと発表した。上期の営業利益は1381億円だった。",
+   "sources": [
+    {
+     "name": "株探（11/2）",
+     "url": "https://kabutan.jp/news/?b=k202611020010"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "吉村知事、住民投票は選挙と同じ日にと改めて表明",
+   "summary": "総務省は、住民投票と選挙の期間が重ならないよう調整を求めている。知事は同日実施の考えを変えていない。",
+   "body": "大阪府の吉村知事は、特別区の設置を問う住民投票を選挙と同じ日に行う考えを改めて示した。「副首都」構想の関連法の施行に合わせ、総務省は国会の付帯決議を踏まえ、住民投票と選挙の期間が重ならないよう最大限調整するよう自治体に求めている。",
+   "sources": [
+    {
+     "name": "NHK（11/2）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261102de69822"
+    },
+    {
+     "name": "熊本日日新聞（共同、7/24）",
+     "url": "https://kumanichi.com/articles/2017549"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "文化勲章の親授式、きょう皇居で",
+   "summary": "受章者は8人。任天堂の宮本茂さんはゲームの分野から初めて選ばれた。",
+   "body": "今年の文化勲章の親授式が3日、皇居で行われる。受章者は宮本茂さん、建築家の伊東豊雄さん、照明デザイナーの石井幹子さん、作曲家の都倉俊一さんら8人。宮本さんはゲームの分野から初めての受章となる。",
+   "sources": [
+    {
+     "name": "GameBusiness.jp（10/25）",
+     "url": "https://www.gamebusiness.jp/article/2026/10/25/28438.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "秋の褒章、736人と25団体に",
+   "summary": "長年ひとつの道に打ち込んだ人や、芸術などで功績のあった人に贈られる。現代美術家の奈良美智さんも選ばれた。",
+   "body": "政府は秋の褒章の受章者を発表した。受章するのは736人と25団体で、現代美術家の奈良美智さんらが含まれる。",
+   "sources": [
+    {
+     "name": "NHK（11/1）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261101de69275"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "lead": true,
+   "title": "Appleの7〜9月期、売上高が過去最高",
+   "summary": "iPhoneが好調で予想を上回った。一方、中国での売上高は市場予想に届かなかった。",
+   "body": "Appleが米国時間2日に発表した2026年7〜9月期の売上高は、前年同期比12%増の1145億ドルで過去最高だった。iPhoneの売上高は575億8000万ドル、サービス部門は315億7000万ドルで過去最高。中国の売上高は175億4000万ドルで、市場予想を下回った。ターナス最高経営責任者（CEO）の就任後、初めての決算。",
+   "visual": {
+    "kicker": "Appleの売上高",
+    "figure": "1145億",
+    "unit": "ドル",
+    "caption": "前年同期比12%増、過去最高"
+   },
+   "sources": [
+    {
+     "name": "9to5Mac（11/2）",
+     "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/"
+    },
+    {
+     "name": "Yahoo Finance（11/2）",
+     "url": "https://finance.yahoo.com/markets/stocks/live/apple-q4-earnings-live-iphone-18-sales-in-the-spotlight-183000820.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米国株、ハイテク株の売りが続く",
+   "summary": "ナスダックは1%下げた。中間選挙を前に、資金がハイテク株からほかの業種に移った。",
+   "body": "2日のニューヨーク株式市場で、S&P500は0.51%安の7541.40、ナスダック総合指数は1.07%安の25164.32で取引を終えた。ダウ平均は0.41%高の5万1983.98。中間選挙を前に、ハイテク株から他の業種への資金の移動が続いた。",
+   "sources": [
+    {
+     "name": "CNBC（11/2）",
+     "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Yahoo Finance（11/2）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米中間選挙、3日に投票",
+   "summary": "上下両院の議席などを争う。日本時間では3日夜から4日にかけて投票が行われる。",
+   "body": "米国の中間選挙は米国時間3日に投票が行われ、上院と下院の議席などが争われる。投票時間は州ごとに異なり、ニューヨーク州は米東部時間3日午前6時〜午後9時（日本時間3日午後8時〜4日午前11時）。",
+   "sources": [
+    {
+     "name": "FOX 5 New York",
+     "url": "https://www.fox5ny.com/news/election-day-2026-what-know-new-york-new-jersey"
+    },
+    {
+     "name": "カリフォルニア州務長官",
+     "url": "https://www.sos.ca.gov/elections/upcoming-elections/general-election-november-3-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "北朝鮮、核抑止力の強化を加速と表明",
+   "summary": "米韓の合同演習を「核戦争の予行演習」と非難した。韓国政府は従来の立場の繰り返しだとしている。",
+   "body": "北朝鮮は2日、国営メディアを通じ、米韓の合同演習は北朝鮮を狙った核戦争の予行演習だとして、核抑止力の強化を加速すると表明した。日米の共同演習も批判した。韓国の統一省は、従来の立場を繰り返したものだとの見方を示した。",
+   "sources": [
+    {
+     "name": "The Korea Times（11/2）",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261102/n-korea-denounces-s-korea-us-joint-military-drills-vows-to-bolster-nuclear-deterrent"
+    },
+    {
+     "name": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10922910"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "エボラ出血熱の死者、5300人超える",
+   "summary": "コンゴ民主共和国から周辺国にも広がっている。今回のウイルスの型には承認されたワクチンがない。",
+   "body": "コンゴ民主共和国を中心とするエボラ出血熱の流行で、死者が5300人を超えた。5月以降の感染者は1万人を超え、ケニア、ウガンダ、ナイジェリアにも広がっている。原因のブンディブギョ型ウイルスには承認されたワクチンがない。",
+   "visual": {
+    "kicker": "エボラの死者",
+    "figure": "5300",
+    "unit": "人超",
+    "caption": "5月以降、感染者は1万人超"
+   },
+   "sources": [
+    {
+     "name": "Euronews（11/2）",
+     "url": "https://euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+    },
+    {
+     "name": "WHO",
+     "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "欧州のスーパーで冷凍庫にサイバー攻撃",
+   "summary": "スウェーデンからベルギーまで被害が広がり、食品が廃棄された。EUは食品供給網を狙った攻撃だと非難した。",
+   "body": "欧州各地の食料品店で2日、冷凍庫や冷蔵庫を狙ったサイバー攻撃が相次ぎ、店舗は食品の廃棄を迫られた。10月にもフランスで同様の被害があった。攻撃者は分かっていない。EUのハンセン欧州委員（農業担当）は、食品供給網を混乱させる意図的な試みだと述べた。",
+   "sources": [
+    {
+     "name": "U.S. News（ロイター、11/2）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-02/temperature-soars-at-swedish-grocery-store-freezers-one-store-blames-hackers"
+    },
+    {
+     "name": "Help Net Security（10/12）",
+     "url": "https://helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "バングラデシュではしかが大流行",
+   "summary": "半年で確定患者は2万人を超えた。米疾病対策センターの学術誌が報告した。",
+   "body": "米疾病対策センター（CDC）の学術誌によると、バングラデシュでは2026年3月15日から9月13日までに、はしかの疑い例が17万638件、確定例が2万6件報告された。疑い例のうち919人が死亡した。",
+   "sources": [
+    {
+     "name": "Emerging Infectious Diseases（CDC、2026年11月号）",
+     "url": "https://wwwnc.cdc.gov/eid/article/32/11/26-0996_article"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/3",
+   "what": "文化勲章の親授式"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙の投票（米国時間）"
+  },
+  {
+   "when": "11/4",
+   "what": "衆院財務金融委で消費減税法案を質疑"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/4〜5",
+   "what": "イベロアメリカ首脳会議（マドリード）"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  }
+ ]
+}
