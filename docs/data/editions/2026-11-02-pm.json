@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-02",
+ "slot": "pm",
+ "key": 2026110202,
+ "generatedAt": "2026-11-02T18:57:35+09:00",
+ "brief": [
+  "防災庁が発足初日に備蓄などの「緊急要請」。GMOは社長が会見して謝罪。",
+  "日経平均は208円安。韓国株は半導体輸出の好調を受けて2.24%高。",
+  "ブルガリア大統領選はヨトバ氏が当選。米中間選挙は3日に投票。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "防災庁が発足、国民に1週間分の備蓄を要請",
+   "summary": "自治体や各省庁にも対策の強化を求めた。取り組みが不十分なら勧告することもあり得るとしている。",
+   "body": "防災庁が2日に発足し、細野防災相は国民・自治体・各省庁に向けた「緊急要請」を出した。国民には食料や水などを最低3日分、できれば1週間分備えるよう求め、都道府県には市町村への支援の強化、各省庁には防災対策の点検を要請した。細野氏は会見で、首都直下地震や南海トラフ巨大地震などに備え「世界一の防災大国」を目指すと述べた。",
+   "visual": {
+    "kicker": "備蓄の目安",
+    "figure": "1週間",
+    "caption": "最低でも3日分"
+   },
+   "sources": [
+    {
+     "name": "朝日新聞（11/2）",
+     "url": "https://news.yahoo.co.jp/articles/96facde99ee27786b4d543398b5618c16c55970b"
+    },
+    {
+     "name": "日本経済新聞（10/28）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA282RX0Y6A021C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "GMO社長が初の会見、不正アクセスで謝罪",
+   "summary": "FX取引用サーバーへの攻撃で、顧客を守れなかったと謝罪した。サービスのシステムに問題があったことも認めた。",
+   "body": "GMOインターネットグループの熊谷正寿代表は2日、FX自動売買用サーバー「お名前.comデスクトップクラウド」への不正アクセス問題で記者会見を開いた。10月21日の公表以来、初めての会見。熊谷氏は「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪し、自身のSNSでの発信についても配慮が欠けていたと述べた。影響を受けた可能性のあるサーバーは2万6739件とされる。",
+   "visual": {
+    "kicker": "影響の可能性",
+    "figure": "26,739",
+    "unit": "件",
+    "caption": "対象となり得るサーバー数"
+   },
+   "sources": [
+    {
+     "name": "ITmedia NEWS（11/2）",
+     "url": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/"
+    },
+    {
+     "name": "AdverTimes（11/2）",
+     "url": "https://www.advertimes.com/20261102/article562990/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日経平均が反落、208円安の6万3081円",
+   "summary": "3日の祝日と米中間選挙を前に慎重な取引となった。決算を発表したキオクシアが値下がりした。",
+   "body": "2日の東京株式市場で日経平均株価は前週末比208円25銭安の6万3081円86銭で取引を終えた。東京エレクトロンとアドバンテストの2銘柄で指数を約445円押し上げたが、決算を発表したキオクシアホールディングスの株価が下落し、東証プライムの65.1%の銘柄が値下がりした。",
+   "sources": [
+    {
+     "name": "中日新聞（共同、11/2）",
+     "url": "https://www.chunichi.co.jp/article/1333898"
+    },
+    {
+     "name": "株探（11/2）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611020962"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "消費減税の財源「メドつきつつある」と財務相",
+   "summary": "法案の採決をめぐっては、与党が協議入りを求め、野党は首相の委員会出席を求めて対立している。",
+   "body": "片山財務相は2日、首相官邸で記者団に対し、飲食料品の消費税率を下げる法案の財源について「メドはもうつきつつある」と述べた。法案をめぐっては、与党が採決に向けた協議を求める一方、野党は高市首相の委員会への出席を求めている。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/2）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA023E00S6A101C2000000/"
+    },
+    {
+     "name": "NHK（11/1）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261101de69291"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "2027年用の年賀はがき、販売始まる",
+   "summary": "発行枚数は前年より25.7%少なく、16年連続で減った。販売期間は1月15日まで延びる。",
+   "body": "日本郵便は2日、2027年用の年賀はがきの販売を始めた。当初の発行枚数は約5億5600万枚で前年から25.7%減り、16年連続の減少となった。元日に届けるための差し出しの目安は12月27日までに変わる。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、11/2）",
+     "url": "https://www.nippon.com/en/articles/-/56752"
+    },
+    {
+     "name": "熊本日日新聞（共同、8/31）",
+     "url": "https://kumanichi.com/articles/2030915"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "高市首相、中東の海峡の安定を訴え",
+   "summary": "バーレーンの国際会議にビデオで参加し、ホルムズ海峡などの早期の安定を求めた。",
+   "body": "高市首相は、バーレーンで開かれている安全保障会議「マナーマ対話」にビデオメッセージを寄せ、ホルムズ海峡とバブ・エル・マンデブ海峡の早期の安定を求めた。外務省によると、日本の首相がマナーマ対話にビデオメッセージを寄せるのは初めて。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、11/1）",
+     "url": "https://www.nippon.com/en/articles/-/56733"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ブルガリア大統領選、ヨトバ氏が当選",
+   "summary": "決選投票で親欧米派の対立候補に大差をつけた。選挙で選ばれた初の女性大統領になる。",
+   "body": "ブルガリアで1日に行われた大統領選の決選投票は、大統領代行のヨトバ氏が勝利した。国営BTA通信によると、全集計でヨトバ氏が57.6%、ギュロフ氏が39.5%を得票した。ヨトバ氏はラデフ首相の支援を受けていた。",
+   "visual": {
+    "kicker": "ヨトバ氏の得票率",
+    "figure": "57.6",
+    "unit": "%",
+    "caption": "対立候補は39.5%"
+   },
+   "sources": [
+    {
+     "name": "BTA（11/2）",
+     "url": "https://www.bta.bg/en/news/bulgaria/1237996-based-on-100-of-tally-sheets-iotova-wins-presidential-runoff-with-57-6-gurov"
+    },
+    {
+     "name": "U.S. News（ロイター、11/2）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-02/bulgarias-iotova-wins-presidential-runoff-near-final-results-show"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米中間選挙、3日に投票　世論調査は民主党が先行",
+   "summary": "期日前投票は4300万人を超えた。上院の多数派争いは接戦とされる。",
+   "body": "米中間選挙は米国時間3日に投票が行われる。世論調査の平均（リアルクリアポーリング）では、議会選挙での投票先は民主党が51.5%、共和党が43.1%。10月31日時点で4300万人以上が期日前投票を済ませた。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/1）",
+     "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail"
+    },
+    {
+     "name": "Al Jazeera（10/31）",
+     "url": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン、ホルムズ再開は米国の回答次第",
+   "summary": "カタールでの協議は続くが進展はない。イランは制裁解除や凍結資産の返還などを求めている。",
+   "body": "イランのアラグチ外相は、カタールの首都ドーハでの協議の結果は米国の回答次第だと述べた。ホルムズ海峡を2日間で再開する案に進展はない。報道によると、イランは制裁の解除、地域の米軍の削減、凍結資産の返還などを求めている。米軍は海峡は開いているとしている。",
+   "sources": [
+    {
+     "name": "ANI（11/1）",
+     "url": "https://www.aninews.in/news/world/middle-east/iran-araghchi-says-doha-consultations-outcome-depends-on-us-response-no-breakthrough-in-2-day-hormuz-reopening-plan20261101211323/"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/iran-proposes-2-day-plan-to-reopen-strait-of-hormuz-amid-us-talks-1.500732117"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "韓国株が2.24%高、半導体株に買い",
+   "summary": "10月の半導体輸出が大きく伸びたことを受けて、取引の途中から値上がりに転じた。",
+   "body": "2日の韓国株式市場で、総合株価指数（KOSPI）は前営業日比2.24%高の5859.08で取引を終えた。安く始まったが、機関投資家による半導体株の買いで上昇に転じた。香港のハンセン指数は0.5%上昇した。",
+   "visual": {
+    "kicker": "KOSPI 終値",
+    "figure": "5,859.08",
+    "caption": "前営業日比2.24%高"
+   },
+   "sources": [
+    {
+     "name": "Invezz（11/2）",
+     "url": "https://invezz.com/pk/news/2026/11/02/kospi-reverses-early-decline-to-close-224percent-higher-as-korean-chip-exports-jump-259percent/"
+    },
+    {
+     "name": "AP（WSLS、11/2）",
+     "url": "https://www.wsls.com/business/2026/11/02/asian-shares-mostly-advance-but-tech-stocks-remain-volatile-while-oil-sinks-33/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "インドネシア、森林火災で20社を容疑者に",
+   "summary": "周辺国にも広がる煙害を受けた捜査。外国資本の企業も含まれている。",
+   "body": "インドネシア警察は森林や土地の火災をめぐり97社を捜査し、うち20社を容疑者とした。20社のうち16社は国内資本、4社は外国資本の企業。別の報道では、個人245人も容疑者とされている。",
+   "sources": [
+    {
+     "name": "The Star（10/29）",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/29/indonesian-police-probe-97-corporations-over-forest-fires-20-named-suspects"
+    },
+    {
+     "name": "The Vibes（10/30）",
+     "url": "https://www.thevibes.com/articles/world/128964/indonesia-names-245-individuals-20-companies-as-suspects-in-forest-fires"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "AI大手4社、学習拒否の共通ルールに対応へ",
+   "summary": "サイト運営者が、サイトの内容をAIの学習に使わせない意思を示せるようになる。",
+   "body": "グーグル、オープンAI、マイクロソフト、アンソロピックの4社は10月30日、ウェブサイトが「robots.txt」で示す共通の信号に従い、AIの学習への利用を拒否したサイトの内容を使わない方針を示した。現時点で完全に運用を始めた企業はない。",
+   "sources": [
+    {
+     "name": "Search Engine Journal",
+     "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/"
+    },
+    {
+     "name": "H2S Media",
+     "url": "https://how2shout.com/ai/shared-robots-txt-ai-training-opt-out-google-openai-microsoft-anthropic.html"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/3 7:00",
+   "what": "Apple決算説明会"
+  },
+  {
+   "when": "11/3",
+   "what": "米国中間選挙（米国時間）"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/4〜5",
+   "what": "イベロアメリカ首脳会議（マドリード）"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院通過を与党が目指す"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  }
+ ]
+}
