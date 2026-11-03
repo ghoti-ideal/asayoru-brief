@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-03",
+ "slot": "pm",
+ "key": 2026110302,
+ "generatedAt": "2026-11-03T18:58:22+09:00",
+ "brief": [
+  "秋の叙勲は3861人が受章。皇居では文化勲章の親授式が行われた。",
+  "米軍がホルムズ海峡でイランを攻撃。米中間選挙は日本時間の今夜から投票。",
+  "憲法の公布から80年。消費減税法案は4日に衆院の委員会で質疑。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "society",
+   "lead": true,
+   "title": "秋の叙勲、3861人が受章",
+   "summary": "各界で功績のあった人が対象。トヨタ自動車の豊田章男会長らが含まれる。",
+   "body": "政府は3日付で秋の叙勲の受章者を発表した。旭日章が895人、瑞宝章が2966人の計3861人。トヨタ自動車の豊田章男会長や元厚生労働次官の村木厚子さんらが受章する。外国人ではベトナムのファム・ミン・チン元首相らが選ばれた。",
+   "visual": {
+    "kicker": "秋の叙勲の受章者",
+    "figure": "3861",
+    "unit": "人",
+    "caption": "旭日章895人、瑞宝章2966人"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/3）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261103de69860"
+    },
+    {
+     "name": "nippon.com（時事、11/3）",
+     "url": "https://www.nippon.com/en/articles/-/56808"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "皇居で文化勲章の親授式",
+   "summary": "ノーベル化学賞に決まった硤合憲三さんら7人が出席した。任天堂の宮本茂さんは欠席した。",
+   "body": "文化の日の3日、皇居・宮殿で文化勲章の親授式が行われ、天皇陛下から受章者に勲章が手渡された。今年のノーベル化学賞に決まった硤合憲三さんや建築家の伊東豊雄さんら7人が出席し、ゲーム分野から初めて選ばれた宮本茂さんは欠席した。照明デザイナーの石井幹子さんが受章者を代表してあいさつした。",
+   "sources": [
+    {
+     "name": "中日新聞（共同、11/3）",
+     "url": "https://www.chunichi.co.jp/article/1334164"
+    },
+    {
+     "name": "NHK（11/3）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261103de69927"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "スペイン列車事故、日本人の犠牲者2人に",
+   "summary": "スペイン当局が新たに日本人1人の死亡を確認した。死者69人全員の身元が特定された。",
+   "body": "スペイン中部で10月28日に起きた高速列車の衝突事故で、スペイン当局は新たに日本人1人の死亡を確認したと発表した。日本人の犠牲者は2人となった。死者69人全員の身元が2日までに特定された。2人の名前は公表されていない。",
+   "sources": [
+    {
+     "name": "テレビ朝日（ANN、11/3）",
+     "url": "https://news.yahoo.co.jp/articles/6cdcc5fb1166d1cd07a05440c75305dbc25a8ee6"
+    },
+    {
+     "name": "日本経済新聞（11/2）",
+     "url": "https://www.nikkei.com/article/DGXZQOCB020ZY0S6A101C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "憲法の公布から80年",
+   "summary": "首相は来春までに改憲の発議にめどを付けたい考え。参院では発議に必要な議席に届いていない。",
+   "body": "日本国憲法は3日、公布から80年を迎えた。高市首相は来春の党大会までに改憲の発議にめどを付けたいと表明している。自民党は衆院で単独で3分の2を超える議席を持つが、参院では発議に必要な数に届いていない。",
+   "sources": [
+    {
+     "name": "熊本日日新聞（共同、9/26）",
+     "url": "https://kumanichi.com/articles/2039843"
+    },
+    {
+     "name": "中央通訊社（11/3）",
+     "url": "https://cna.com.tw/news/aopl/202611030208.aspx"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "防災庁「地震予知の情報はない」",
+   "summary": "発足に合わせた備蓄などの緊急要請について、特別な予知情報は受けていないと防災相が説明した。",
+   "body": "2日に発足した防災庁は、食料の備蓄や住宅の耐震化などを求める「緊急要請」を出した。細野防災相は、地震の予知に関する特別な情報は受けていないと述べた。インターネット上では要請の理由をめぐる臆測が広がっていた。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、11/3）",
+     "url": "https://www.nippon.com/en/articles/-/56824"
+    },
+    {
+     "name": "NHK（11/2）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261102de69369"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "消費減税法案、4日に衆院委で質疑",
+   "summary": "野党は首相の委員会出席を求めている。与党は6日の衆院通過を目指す。",
+   "body": "衆院財務金融委員会は4日、飲食料品の消費税率を下げる法案の質疑を行う。国民民主党の対案も審議に入る。野党は高市首相の出席を求めており、与党は6日にも衆院を通過させる方針。参院では野党が、特別委員会を設けなければ審議に応じない構えを示している。",
+   "sources": [
+    {
+     "name": "時事通信（10/31）",
+     "url": "https://www.jiji.com/jc/article?k=2026103100286&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米軍、ホルムズ海峡でイランを攻撃",
+   "summary": "米国は「防衛的」な攻撃だと説明している。イランは米国の提案への回答を送ったとしている。",
+   "body": "米当局者によると、米軍はホルムズ海峡でイランの標的に「防衛的」な攻撃を行った。イランのメディアはケシュム島などで爆発があったと伝えた。米メディアは、イラン革命防衛隊が2日に米軍機に発砲したことへの対応だと報じている。イランのガリバフ国会議長は、米国の提案に回答を送り「ボールは米国側にある」と述べた。",
+   "visual": {
+    "kicker": "米軍の攻撃",
+    "figure": "ケシュム島",
+    "caption": "ホルムズ海峡にあるイランの島"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（11/3）",
+     "url": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+    },
+    {
+     "name": "Al Jazeera ライブ（11/3）",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米中間選挙、今夜から投票",
+   "summary": "下院の全議席と上院の3分の1が改選される。日本時間4日朝から各州で投票が締め切られる。",
+   "body": "米中間選挙は米国時間3日に投票が行われ、下院の全435議席と上院の35議席が改選される。投票の締め切りは州によって異なり、日本時間4日午前8時ごろから順次締め切られて開票が進む。",
+   "sources": [
+    {
+     "name": "JETRO",
+     "url": "https://www.jetro.go.jp/biznews/feature/usmidterm2026.html"
+    },
+    {
+     "name": "OANDA（10/30）",
+     "url": "https://www.oanda.jp/lab-education/?p=131997"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "スーダン、発電所への無人機攻撃が続く",
+   "summary": "10月だけで十数か所の発電所が狙われた。首都の広い範囲で停電が起きている。",
+   "body": "スーダンでは、準軍事組織の即応支援部隊（RSF）による発電所への無人機攻撃が続いている。現地の人権団体によると、10月に約13か所の発電所が攻撃された。AP通信によると、首都ハルツームの広い範囲で12時間以上電気が止まった。",
+   "sources": [
+    {
+     "name": "Sudan Tribune（10/29）",
+     "url": "https://sudantribune.com/?p=320602"
+    },
+    {
+     "name": "Africanews（10/26）",
+     "url": "https://www.africanews.com/2026/10/26/sudan-experiences-massive-power-outages-after-rsf-drone-strikes/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "タイ、SNS広告主の本人確認を義務化",
+   "summary": "うその広告から消費者を守るため、11月1日から始まった。",
+   "body": "タイは11月1日から、SNSの運営会社に対し、広告を出す事業者の本人確認を義務付けた。詐欺的な広告への対策として、消費者保護を強める。",
+   "sources": [
+    {
+     "name": "VietnamPlus（11/1）",
+     "url": "https://en.vietnamplus.vn/thailand-requires-identity-verification-for-social-media-advertisers-from-nov1-post354706.vnp"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "コロンビア大統領、軍に作戦の強化を指示",
+   "summary": "国内3地域で襲撃が相次いだことを受けた。トラック爆弾で4人が死亡している。",
+   "body": "コロンビアのデラエスプリエジャ大統領は2日、国内3地域での襲撃を受け、軍に作戦の強化を命じた。トリマ県プラナダスでは1日夜にトラック爆弾が爆発し、4人が死亡した。",
+   "sources": [
+    {
+     "name": "The Rio Times（11/2）",
+     "url": "https://riotimesonline.com/colombia-vows-more-bombings-after-truck-bomb-2026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "タイ首相、農業を経済の柱とする政策づくりへ",
+   "summary": "具体的な目標を定めた農業政策を作り、省庁が連携して進める。",
+   "body": "タイのアヌティン首相は3日、東北部ウドンタニ県で開いた閣議で、具体的な目標を持つ農業政策を作り、各省庁の連携で実行する考えを示した。",
+   "sources": [
+    {
+     "name": "VietnamPlus（11/3）",
+     "url": "https://en.vietnamplus.vn/thailand-identifies-agriculture-as-economic-pillar-post354753.vnp"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/4 8:00ごろ",
+   "what": "米中間選挙の投票が順次締め切り"
+  },
+  {
+   "when": "11/4",
+   "what": "衆院財務金融委で消費減税法案を質疑"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/4〜5",
+   "what": "イベロアメリカ首脳会議（マドリード）"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院通過を与党が目指す"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  }
+ ]
+}
