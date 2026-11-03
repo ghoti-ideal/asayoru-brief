@@ -1,0 +1,230 @@
+{
+ "date": "2026-11-04",
+ "slot": "am",
+ "key": 2026110401,
+ "generatedAt": "2026-11-04T06:57:03+09:00",
+ "brief": [
+  "米中間選挙は開票へ。下院は民主党の奪還が有力との見方。",
+  "ウクライナ南部で支援物資の配布所が攻撃され、31人が死亡。",
+  "大阪府市が「ナンバーワン副首都」を目指す中間報告をまとめた。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "大阪府市、「ナンバーワン副首都」目指す",
+   "summary": "災害時に首都機能を代わりに担えるよう、平時から国の機能や人員を大阪に置くよう国に求める。",
+   "body": "大阪府と大阪市が副首都の指定に向けて国に提言する中間報告の内容が3日、関係者への取材で分かった。名実ともに「ナンバーワン副首都」を目指すと明記し、防災庁の地方拠点など国の機関を大阪に分散して置く案や、財政支援制度の創設を盛り込んだ。4日の副首都推進本部会議で示す。副首都の指定は北海道、愛知県、福岡県も目指している。",
+   "visual": {
+    "kicker": "大阪府市の目標",
+    "figure": "副首都",
+    "caption": "4日の会議で中間報告を示す"
+   },
+   "sources": [
+    {
+     "name": "東京新聞（共同、11/3）",
+     "url": "https://www.tokyo-np.co.jp/article/525805"
+    },
+    {
+     "name": "新潟日報（共同、11/3）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/936037"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日越、逮捕情報を通報し合う新協定を検討",
+   "summary": "相手国の国民を逮捕・拘束したときに知らせ合う。9日の首脳会談で方針を確認する見通し。",
+   "body": "日本とベトナムの両政府は、自国内で逮捕・拘束した相手国の国民の情報を相互に通報する新協定を結ぶ方向で検討に入った。高市首相とベトナムのトー・ラム国家主席が9日の首脳会談で方針を確認する見通し。",
+   "sources": [
+    {
+     "name": "時事通信（11/3）",
+     "url": "https://sp.m.jiji.com/amp/article/show/3903482"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "16府県議会、海外視察の旅費に上限なし",
+   "summary": "共同通信の調査で分かった。議会の海外視察をめぐっては、公費の支出額が増えている。",
+   "body": "16府県議会が2016年度以降の10年間、議員1人当たりの旅費総額に上限を設けずに海外視察を行っていたことが共同通信の調査で分かった。別の調査では、2024〜25年度に29道府県議会が海外視察に計約6億7900万円の公費を支出していた。",
+   "sources": [
+    {
+     "name": "共同通信（Infoseek、11/3）",
+     "url": "https://news.infoseek.co.jp/article/kyodo_1490320234560323866/"
+    },
+    {
+     "name": "熊本日日新聞（共同、10/25）",
+     "url": "https://kumanichi.com/articles/2050385"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "政府、デフレ脱却の宣言には慎重",
+   "summary": "日銀は物価上昇の目標に届いたとしたが、政府はデフレに戻らないことも確かめる必要があるとしている。",
+   "body": "日銀が基調的な物価上昇率が目標の2%に達したとの認識を示したあとも、政府はデフレ脱却を宣言するかどうか慎重に判断する構えを続けている。木原官房長官は、デフレに後戻りする見込みがないことも確認する必要があると述べた。",
+   "sources": [
+    {
+     "name": "nippon.com（時事、10/31）",
+     "url": "https://www.nippon.com/en/articles/-/56706"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米中間選挙、開票始まる",
+   "summary": "下院は民主党の多数派奪還が有力とみられ、上院は接戦。大勢は日本時間4日中に判明する可能性がある。",
+   "body": "米中間選挙は米国時間3日に投票が行われ、日本時間4日午前から各州で投票が締め切られて開票が進む。下院（定数435）の過半数は218議席。米メディアの情勢分析では下院で民主党が優勢で、上院は接戦となっている。郵便投票の集計に時間がかかり、結果判明に数日を要する可能性もある。期日前投票は過去最高となった。",
+   "visual": {
+    "kicker": "下院の過半数",
+    "figure": "218",
+    "unit": "議席",
+    "caption": "定数435"
+   },
+   "sources": [
+    {
+     "name": "東京新聞（共同）",
+     "url": "https://www.tokyo-np.co.jp/article/525859"
+    },
+    {
+     "name": "日本経済新聞（11/3）",
+     "url": "https://www.nikkei.com/article/DGXZQOGN033NR0T01C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナ南部の支援物資配布所に攻撃、31人死亡",
+   "summary": "ロシア軍の誘導爆弾が学校と避難所を襲った。ゼレンスキー氏はドイツ首相と会談し、欧州の関与を求めた。",
+   "body": "ウクライナ南部ザポリージャ州の村で3日、支援物資の配布に使われていた学校の建物と近くの避難所がロシア軍の誘導爆弾で攻撃され、31人が死亡、数十人が行方不明となった。州は3日間の服喪を宣言した。ゼレンスキー大統領は同日ベルリンでメルツ独首相と会談し、和平プロセスへの欧州の関与を強めることで一致した。",
+   "visual": {
+    "kicker": "攻撃による死者",
+    "figure": "31",
+    "unit": "人",
+    "caption": "数十人が行方不明"
+   },
+   "sources": [
+    {
+     "name": "The Washington Post（AP、11/3）",
+     "url": "https://www.washingtonpost.com/world/2026/11/03/russia-ukraine-humanitarian-attack-drones-power/10015622-d76a-11f1-930a-e08f8086f5ac_story.html"
+    },
+    {
+     "name": "時事通信（11/3）",
+     "url": "https://news.yahoo.co.jp/articles/e1c0bc6b84cd2609c1dacf9c3a10e52488702be2"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "南アフリカ、きょう統一地方選",
+   "summary": "与党ANCにとって厳しい選挙になるとみられている。各地で連立協議が必要になる見通し。",
+   "body": "南アフリカで4日、統一地方選挙が行われ、8つの大都市と249の自治体で計1万526の議席が争われる。9月の世論調査では、アフリカ民族会議（ANC）が31%、民主同盟（DA）が25%、MK党が14%だった。",
+   "sources": [
+    {
+     "name": "ABC News（AP）",
+     "url": "https://abcnews.com/International/wireStory/south-africans-vote-key-local-elections-tough-test-137760153"
+    },
+    {
+     "name": "Daily Maverick（9/3）",
+     "url": "https://www.dailymaverick.co.za/article/2026-09-03-anc-and-da-in-dead-heat-across-key-metros-as-mk-dominates-ethekwini/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "タイ、輸入EVの税率を35%に引き上げ",
+   "summary": "2027年1月から。国内で生産するEVは低い税率のままで、国内生産を後押しする。",
+   "body": "タイ政府は3日の閣議で、輸入する電気自動車（EV）にかける物品税を2027年1月1日から35%に引き上げることを決めた。現在は10%（航続距離延長型は15%）。国内で生産するEVの税率は2%のまま据え置く。中国メーカーの幹部は、一部の輸入EVの価格が最大10%上がる可能性があるとしている。",
+   "visual": {
+    "kicker": "輸入EVの物品税",
+    "figure": "35",
+    "unit": "%",
+    "caption": "現在は10%。2027年1月から"
+   },
+   "sources": [
+    {
+     "name": "paultan.org（11/3）",
+     "url": "https://paultan.org/2026/11/03/thailand-to-raise-excise-tax-on-cbu-evs-to-35-from-jan-1-2027/"
+    },
+    {
+     "name": "The Nation（11/3）",
+     "url": "https://www.nationthailand.com/business/automobile/40073054"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米国株、半導体株が上昇し3日ぶり反発",
+   "summary": "中間選挙の結果を見極めようとする中、ナスダックは0.83%上がった。ダウ平均は下落した。",
+   "body": "3日のニューヨーク株式市場で、S&P500は0.36%高の7568.92となり、3日続いた下落が止まった。ナスダック総合指数は半導体株の上昇で0.83%高の25372.01。ダウ平均は0.38%安の5万1786.72だった。",
+   "sources": [
+    {
+     "name": "CNBC（11/3）",
+     "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Yahoo Finance（11/3）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "アルバニアで学生の反政府デモ続く",
+   "summary": "10月中旬から続いており、警官を含む300人以上がけがをした。",
+   "body": "アルバニアでは10月13日から、学生が中心となってラマ政権に抗議するデモが続いている。内務相は10月30日、これまでに347人がけがをし、うち200人が警察官だったと明らかにした。",
+   "sources": [
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/albania-politics-explained-who-holds-power-2026/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/4",
+   "what": "衆院財務金融委で消費減税法案を質疑"
+  },
+  {
+   "when": "11/4",
+   "what": "南アフリカ統一地方選"
+  },
+  {
+   "when": "11/4",
+   "what": "イスラエル大統領が組閣協議を開始"
+  },
+  {
+   "when": "11/4〜5",
+   "what": "イベロアメリカ首脳会議（マドリード）"
+  },
+  {
+   "when": "11/5",
+   "what": "フランスの労働組合がゼネストを予定"
+  },
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院通過を与党が目指す"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  }
+ ]
+}
