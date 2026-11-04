@@ -1,0 +1,241 @@
+{
+ "date": "2026-11-04",
+ "slot": "pm",
+ "key": 2026110402,
+ "generatedAt": "2026-11-04T18:57:00+09:00",
+ "brief": [
+  "米中間選挙は民主党が上下両院で過半数。トランプ氏は結果を受け入れ。",
+  "日経平均は893円安。AI規制が強まるとの見方で半導体株に売り。",
+  "与党は消費減税法案の6日採決を提案。台風31号で関東は大雨のおそれ。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が893円安、一時6万円割れ目前に",
+   "summary": "米中間選挙で民主党が優勢と伝わり、AI・半導体関連株が売られた。午後は下げ幅を縮めた。",
+   "body": "4日の東京株式市場で日経平均株価は前日比893円23銭安の6万2188円63銭で取引を終え、3営業日続けて下がった。AI規制に前向きとされる民主党の優勢が伝わり、下げ幅は一時3000円を超えて6万30円10銭まで下がった。トランプ大統領が選挙結果を受け入れる考えを示すと買い戻しが入った。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "62,188.63",
+    "unit": "円",
+    "caption": "前日比 -893.23円"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/4）",
+     "url": "https://www.nikkei.com/article/DGXZQOFL040X7TU6A101C2000000/"
+    },
+    {
+     "name": "財経新聞（11/4）",
+     "url": "https://www.zaikei.co.jp/article/20261104/876132.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "伊藤忠、上期の純利益が過去最高",
+   "summary": "4〜9月期として最高を更新した。通期目標に対する進み具合は61%。",
+   "body": "伊藤忠商事は4日、2026年4〜9月期の連結決算を発表した。株主に帰属する純利益は前年同期比16.0%増の5805億円で、上期として過去最高だった。通期の目標に対する進捗率は61%。",
+   "sources": [
+    {
+     "name": "メディアIR（11/4）",
+     "url": "https://www.media-ir.com/news/?p=187174"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、与党が6日の採決を提案",
+   "summary": "野党は首相の委員会出席が採決の前提だとしており、協議が続いている。",
+   "body": "衆院財務金融委員会の4日朝の理事会で、与党は審議時間が積み上がったとして、飲食料品の消費税率を下げる法案を6日に採決したいと提案した。野党は高市首相の出席を求めており、与野党の協議が続いている。",
+   "sources": [
+    {
+     "name": "NHK（11/4）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261104de70162"
+    },
+    {
+     "name": "時事通信（10/31）",
+     "url": "https://www.jiji.com/jc/article?k=2026103100286&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "北朝鮮がミサイル数発を発射",
+   "summary": "韓国軍によると、日本海に向けて発射した。",
+   "body": "韓国軍は、北朝鮮が4日午前、日本海に向けてミサイル数発を発射したと発表した。",
+   "sources": [
+    {
+     "name": "NHK（11/4）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261104de70141"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "台風31号の影響、関東で今夜から大雨のおそれ",
+   "summary": "暖かく湿った空気が流れ込み、5日昼ごろにかけて激しい雨が降るおそれがある。",
+   "body": "台風31号の周辺から暖かく湿った空気が流れ込むため、関東と伊豆諸島では4日夜遅くから5日昼ごろにかけて激しい雨が降り、大雨になるおそれがある。気象庁は土砂災害や低い土地の浸水に注意するよう呼びかけている。",
+   "sources": [
+    {
+     "name": "NHK（11/4）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261104de70112"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "政府広報、夫婦漫才のキャラで安保を説明",
+   "summary": "政府の広報サイトに特集ページを開設した。インターネット上では賛否の声が出ている。",
+   "body": "政府は広報サイト「政府広報オンライン」に、夫婦漫才師のキャラクターを通じて安全保障の重要性を伝える特集ページを開設した。防衛力を含む国力の強化への理解を広げる狙いで、インターネット上では賛否の声が出ている。",
+   "sources": [
+    {
+     "name": "J-CASTニュース（11/4）",
+     "url": "https://news.yahoo.co.jp/articles/c214dd58e52c30dcba4401295faa1b81f3728980"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米中間選挙、民主党が上下両院で過半数",
+   "summary": "トランプ大統領は結果を受け入れると表明した。新しい議会は来年1月に始まる。",
+   "body": "米中間選挙で民主党が上院と下院の両方で過半数を確実にしたと米メディアが報じた。下院は日本時間4日午後の時点で民主党が過半数の223議席を獲得した。トランプ大統領は結果を受け入れると述べ、民主党の指導者と話したうえで、協力して合意を目指す考えを示した。",
+   "visual": {
+    "kicker": "民主党の下院議席",
+    "figure": "223",
+    "unit": "議席",
+    "caption": "日本時間4日午後時点。過半数は218"
+   },
+   "sources": [
+    {
+     "name": "CBS News（11/4）",
+     "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+    },
+    {
+     "name": "Forbes（11/4）",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/04/trump-congratulates-democrats-says-he-accepts-election-results/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "AI規制が強まるとの見方、半導体株に売り",
+   "summary": "民主党の勝利で、AI関連の投資に規制がかかるとの懸念が広がった。韓国株は取引の途中で持ち直した。",
+   "body": "民主党が上下両院を制する見通しとなり、4日のアジア市場では半導体などハイテク株が売られた。AIへの監視が強まり、データセンター投資が抑えられるとの懸念が背景。米ナスダック100の先物は2.2%下落した。韓国総合株価指数は一時4%下げたが、0.62%高で取引を終えた。",
+   "sources": [
+    {
+     "name": "Investing.com（11/4）",
+     "url": "https://za.investing.com/news/stock-market-news/asia-stocks-tumble-as-tech-shares-slide-on-us-election-results-4548184"
+    },
+    {
+     "name": "Fox Business（11/4）",
+     "url": "https://www.foxbusiness.com/markets/us-stock-futures-tumble-democrats-score-key-midterm-election-wins"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米長期金利が低下、ドルも下落",
+   "summary": "政府支出の拡大が抑えられるとの見方から国債が買われた。ドルは9月下旬以来の安い水準になった。",
+   "body": "民主党の勝利を受け、米10年国債の利回りは0.06ポイント低下して4.906%となった。ドル指数は0.32%下がり、9月下旬以来の低い水準となった。アナリストは、議会のねじれで財政出動の拡大が抑えられ、国債の発行圧力が弱まる可能性を指摘している。",
+   "sources": [
+    {
+     "name": "CNBC（11/4）",
+     "url": "https://www.cnbc.com/2026/11/04/dollar-dips-with-us-midterm-results-in-focus.html"
+    },
+    {
+     "name": "Fox Business（11/4）",
+     "url": "https://www.foxbusiness.com/markets/us-stock-futures-tumble-democrats-score-key-midterm-election-wins"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル、組閣に向けた協議が始まる",
+   "summary": "野党の多くはアイゼンコット氏を首相に推した。ネタニヤフ氏を推す政党もあり、宗教政党の動向が焦点。",
+   "body": "イスラエルのヘルツォグ大統領は4日、組閣の担当者を決めるため各党との協議を始めた。ベネット元首相の政党やアラブ系政党などがアイゼンコット元参謀総長を推す一方、宗教シオニズムやシャスなどはネタニヤフ首相を推した。リクードとアイゼンコット氏の政党は5日に大統領と会う。",
+   "sources": [
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-913725"
+    },
+    {
+     "name": "WFMD（11/4）",
+     "url": "https://www.wfmd.com/2026/11/04/netanyahu-faces-coalition-showdown-as-rivals-maneuver-to-form-israels-next-government/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "南アフリカで地方選、与党の退潮が焦点",
+   "summary": "結果は8日に発表される見通し。どの政党も大都市で単独過半数は難しいとみられている。",
+   "body": "南アフリカで4日、統一地方選挙の投票が行われた。世論調査では与党アフリカ民族会議（ANC）の得票率が40%を下回る可能性があるとされ、最大都市ヨハネスブルクが最大の焦点。結果は8日に発表される見通し。",
+   "sources": [
+    {
+     "name": "AP（click2houston、11/4）",
+     "url": "https://www.click2houston.com/news/world/2026/11/04/south-africans-vote-in-local-elections-that-could-continue-the-decline-of-the-once-mighty-anc/"
+    },
+    {
+     "name": "allAfrica（11/4）",
+     "url": "https://allafrica.com/stories/202611040138.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスで5日にゼネスト、鉄道も影響へ",
+   "summary": "賃金や来年度予算をめぐり、労働組合が全国でストを呼びかけている。学校や公共サービスも乱れるおそれ。",
+   "body": "フランスでは5日、労働総同盟（CGT）などの労働組合が賃金や2027年予算をめぐってゼネストを呼びかけている。国鉄の4労組もストを予定しており、高速鉄道や近郊電車に影響が出るおそれがある。全国で抗議デモも予定されている。",
+   "sources": [
+    {
+     "name": "Sortiraparis",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/354559-protest-and-strike-on-november-5-2026-transport-schools-and-routes-what-to-expect"
+    },
+    {
+     "name": "The Connexion",
+     "url": "https://www.connexionfrance.com/news/french-rail-unions-join-growing-november-5-strike/822438"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/6",
+   "what": "消費減税法案の衆院委採決を与党が提案"
+  },
+  {
+   "when": "11/8",
+   "what": "南アフリカ地方選の結果発表の見通し"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
