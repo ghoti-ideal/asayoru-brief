@@ -1,0 +1,222 @@
+{
+ "date": "2026-11-05",
+ "slot": "am",
+ "key": 2026110501,
+ "generatedAt": "2026-11-05T06:56:30+09:00",
+ "brief": [
+  "消費減税法案は6日に首相が出席して質疑へ。採決日程は折り合わず。",
+  "民主党の勝利を受けてNYダウが1569ドル高。大手商社は上方修正。",
+  "伊豆諸島で土砂災害の危険が高まる。ビックカメラで情報流出の恐れ。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "消費減税法案、6日に首相が出席して質疑",
+   "summary": "与野党が首相の委員会出席で合意した。与党は同じ日の採決を求めるが、野党は答弁を聞いて判断するとしている。",
+   "body": "自民党と野党会派の国対委員長が4日会談し、6日の衆院財務金融委員会に高市首相が出席することで一致した。質疑は1時間で、首相への質問は野党議員に限る。与党は6日に委員会で採決し、同日中に本会議に上程することを提案したが、野党は首相の答弁を聞いてから判断するとしている。",
+   "visual": {
+    "kicker": "首相出席の質疑",
+    "figure": "1",
+    "unit": "時間",
+    "caption": "6日、衆院財務金融委員会"
+   },
+   "sources": [
+    {
+     "name": "産経新聞（11/4）",
+     "url": "https://news.yahoo.co.jp/articles/06c0e2acf484bc5cdd3fbe2addc6e2adb99dca32"
+    },
+    {
+     "name": "琉球新報（共同、11/4）",
+     "url": "https://ryukyushimpo.jp/kyodo/entry-5588427.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "大手商社、利益予想の上方修正相次ぐ",
+   "summary": "資源価格の上昇などが追い風になった。三菱商事は過去最高益を見込み、最大1兆円の自社株買いも発表した。",
+   "body": "大手商社5社のうち伊藤忠商事を除く4社が4日までに、今期の純利益予想を引き上げた。三菱商事は1000億円上方修正して1兆2000億円とし、4年ぶりの最高益を見込む。上限1兆円の自社株買いも発表した。三井物産は14%上方修正した。",
+   "visual": {
+    "kicker": "三菱商事の自社株買い",
+    "figure": "1兆",
+    "unit": "円",
+    "caption": "上限額。純利益予想は1兆2000億円"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/4）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB027WN0S6A101C2000000/"
+    },
+    {
+     "name": "KSB瀬戸内海放送（ANN、11/4）",
+     "url": "https://news.ksb.co.jp/ann/article/17023649"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "維新、不要な個人情報の消去義務化を提言",
+   "summary": "企業への不正アクセスが相次いでいることを受けた。政府に緊急提言として提出した。",
+   "body": "日本維新の会は4日、サイバー対策の緊急提言をまとめ、政府に提出した。企業に対し、不要になった個人データの消去を義務付けるよう個人情報保護法の改正を求めている。",
+   "sources": [
+    {
+     "name": "琉球新報（共同、11/4）",
+     "url": "https://ryukyushimpo.jp/kyodo/entry-5589226.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "伊豆諸島・新島村に土砂災害危険警報",
+   "summary": "台風31号の影響による大雨で、警戒レベル4にあたる警報が出た。関東などでは5日昼ごろまで大雨に注意が必要。",
+   "body": "気象庁は4日午後9時4分、東京都の新島村にレベル4の土砂災害危険警報を発表した。台風31号の周辺から流れ込む暖かく湿った空気の影響で、関東と伊豆諸島では5日昼ごろにかけて大雨のおそれがある。",
+   "sources": [
+    {
+     "name": "NHK（11/4）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261104de70636"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "ビックカメラ、約1490万件の情報流出の恐れ",
+   "summary": "企業の個人情報が流出する被害が相次いでいる。",
+   "body": "家電量販店のビックカメラで、約1490万件の情報が流出した恐れがあることが4日、明らかになった。",
+   "sources": [
+    {
+     "name": "共同通信（11/4）",
+     "url": "https://news.yahoo.co.jp/articles/17c8e65ebe9d316f963fb1aecbc4e9811799c268"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "NYダウ1569ドル高、今年最大の上げ幅",
+   "summary": "民主党の勝利がはっきりし、トランプ氏も結果を受け入れたことで、先行きの不透明さが薄れたとして買いが広がった。",
+   "body": "4日のニューヨーク株式市場でダウ平均は前日比1569.40ドル（3.03%）高の5万3356.12ドルとなり、2025年4月以来の大きな上昇となった。S&P500は1.58%高、ナスダック総合指数は1.44%高。マイクロソフトは6%上がり最高値をつけた。原油安でエネルギー株は下落した。",
+   "visual": {
+    "kicker": "NYダウ 終値",
+    "figure": "53,356.12",
+    "unit": "ドル",
+    "caption": "前日比 +1569.40ドル"
+   },
+   "sources": [
+    {
+     "name": "CNBC（11/4）",
+     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html"
+    },
+    {
+     "name": "Yahoo Finance（11/4）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米議会、両院の多数派が20年ぶりに入れ替わる",
+   "summary": "民主党が上院と下院を制した。トランプ大統領はイランへの軍事作戦が共和党敗北の一因だと認めた。",
+   "body": "米中間選挙で民主党が上下両院の多数派を奪還した。1回の選挙で両院の多数派が入れ替わるのは2006年以来。時事通信によると、米東部時間4日午前5時半時点で下院は民主党231議席、共和党139議席。上院は民主党が非改選と合わせ54議席を確保する見通し。トランプ大統領はイランでの作戦が共和党の敗北の「一因」だと述べた。",
+   "sources": [
+    {
+     "name": "時事通信（11/4）",
+     "url": "https://www.jiji.com/jc/article?k=2026110400698&g=int"
+    },
+    {
+     "name": "共同通信（11/4）",
+     "url": "https://news.yahoo.co.jp/articles/7056337244179f3815dd103b855a89b679ca6fe1"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "原油価格が下落、WTIは95ドル割れ",
+   "summary": "米議会の構図が変わり、イランをめぐる先行きも不透明として売られた。",
+   "body": "4日の原油市場で、米国産のWTIは1バレル95ドルを下回り、北海ブレントは102ドル近辺となった。民主党が議会を制したことや、イラン情勢をめぐる不透明感が影響した。",
+   "sources": [
+    {
+     "name": "EnergyNow（11/4）",
+     "url": "https://energynow.com/2026/11/oil-prices-fall-as-democrats-seize-control-of-u-s-congress-and-uncertainty-grows-over-iran-conflict-wti-below-95-brent-near-102/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン「米国民は戦争にノー」、トランプ氏は警告",
+   "summary": "イランは中間選挙の結果を戦争への反対と受け止めた。トランプ氏はイランへの強い攻撃もあり得ると警告した。",
+   "body": "イラン側は米中間選挙の結果について、米国民が戦争に「ノー」を示したと主張した。トランプ大統領はイランに対し「大きな打撃」を与える可能性があると警告した。",
+   "sources": [
+    {
+     "name": "Gulf News（11/4）",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "中国人民銀行、政策金利の指標を変更",
+   "summary": "市場に出回る資金を増やしやすくし、景気を下支えする狙いとみられている。",
+   "body": "中国人民銀行は2日、主要な政策金利を翌日物の貸出金利に正式に切り替えた。アナリストは、金利の下限を実質的に0.15ポイント引き下げる効果があり、資金調達の環境を緩めるとみている。",
+   "sources": [
+    {
+     "name": "Investing.com（ロイター、11/2）",
+     "url": "https://www.investing.com/news/economy-news/chinas-shift-to-new-policy-rate-signals-easier-funding-conditions-4989818"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスできょうゼネスト、鉄道に影響",
+   "summary": "賃金や予算をめぐり労働組合が全国でストを行う。新型の高速列車の営業運転開始の前日にあたる。",
+   "body": "フランスでは5日、労働総同盟（CGT）などが呼びかけたゼネストが行われる。国鉄の4労組もストに加わり、高速鉄道TGVや地域列車に影響が出るおそれがある。6日には新型車両「TGV M」がパリ―マルセイユ間で営業運転を始める予定。",
+   "sources": [
+    {
+     "name": "Sortiraparis",
+     "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355255-sncf-strike-on-november-5-2026-the-latest-updates"
+    },
+    {
+     "name": "Business Traveller",
+     "url": "https://www.businesstraveller.com/news/generalstreik-in-frankreich/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/6",
+   "what": "首相が出席し衆院財務金融委で質疑"
+  },
+  {
+   "when": "11/8",
+   "what": "南アフリカ地方選の結果発表の見通し"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
