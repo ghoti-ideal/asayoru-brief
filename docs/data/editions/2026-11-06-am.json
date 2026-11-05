@@ -1,0 +1,279 @@
+{
+ "date": "2026-11-06",
+ "slot": "am",
+ "key": 2026110601,
+ "generatedAt": "2026-11-06T06:57:43+09:00",
+ "brief": [
+  "米国株が急落、ナスダックは5.52%安。トヨタとソニーGは利益見通しを上げた。",
+  "消費減税法案は6日に衆院通過の構え。サイバー救援隊の創設も6日に決定へ。",
+  "パラグアイ大統領が辞任を表明。イスラエルは67議員がアイゼンコット氏推薦。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "トヨタ、今期の利益見通しを上方修正",
+   "summary": "今期の営業利益見通しを3兆9000億円に引き上げた。発表後に株価は一時17%上がった。",
+   "body": "トヨタ自動車は5日、2026年4〜9月期の決算を発表した。上期の営業収益は前年同期比9.5%増の26兆9624億円だった。2027年3月期の営業利益の見通しを前期比3.6%増の3兆9000億円に上方修正した。発表後、株価は一時前日比17%高の3533円を付けた。",
+   "visual": {
+    "kicker": "今期の営業利益見通し",
+    "figure": "3兆9000億",
+    "unit": "円",
+    "caption": "前期比3.6%増に上方修正"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/5）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261105de70960"
+    },
+    {
+     "name": "Bloomberg（11/5）",
+     "url": "https://www.bloomberg.com/jp/news/articles/2026-11-05/TO05SJKK3NY900"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ソニーG、今期の最終利益予想を上方修正",
+   "summary": "今期の最終利益予想を1兆3300億円に引き上げ、過去最高益の予想を上乗せした。",
+   "body": "ソニーグループは5日、4〜9月期の連結最終利益が前年同期比38.8%増の7917億円だったと発表した。2027年3月期の最終利益予想は従来の1兆2100億円から1兆3300億円に9.9%引き上げた。",
+   "sources": [
+    {
+     "name": "株探（11/5）",
+     "url": "https://s.kabutan.jp/news/k202611050108/"
+    },
+    {
+     "name": "Yahoo!ファイナンス（株探、11/5）",
+     "url": "https://finance.yahoo.co.jp/news/detail/8d6f10dee6d1aa255119f06b75b532b2a0040035"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、与党は6日の衆院通過めざす",
+   "summary": "6日に首相が出席する委員会審議を経て、同じ日に衆院本会議で採決する日程を与党が提案した。",
+   "body": "法案は来年4月から2年間、飲食料品の消費税率を8%から1%に下げることが柱。与党は6日に衆院財務金融委員会で首相への質疑と採決を行い、同日の本会議で可決する日程を提案した。中道会派は「当日の答弁ぶりで判断する」として回答を保留している。",
+   "sources": [
+    {
+     "name": "時事通信（11/5）",
+     "url": "https://www.jiji.com/jc/article?k=2026110501043&g=pol&m=rss"
+    },
+    {
+     "name": "琉球新報（共同、11/6）",
+     "url": "https://ryukyushimpo.jp/economics/entry-5590736.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "大阪都構想、4特別区の名称が正式決定",
+   "summary": "区名は淀川・北・中央・天王寺。2020年の住民投票のときと同じ名称になった。",
+   "body": "大阪府と大阪市は5日、法定協議会を開き、新たに設ける4特別区の名称を「淀川区」「北区」「中央区」「天王寺区」に正式に決めた。区割りは一部異なるが、名称は2020年の住民投票と同じ。年内にまとめる協定書に盛り込み、来春の住民投票の実施を目指す。",
+   "sources": [
+    {
+     "name": "ABCニュース（Yahoo!、11/5）",
+     "url": "https://news.yahoo.co.jp/articles/f72cc3154e46df741d910adaabe8efc60038eecf"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "高市首相、COP31の首脳級会合を欠席へ",
+   "summary": "トルコで開かれる会合への出席を見送る。官房長官は「総合的に考慮した」と説明した。",
+   "body": "高市首相は、トルコで開かれる国連気候変動枠組み条約第31回締約国会議（COP31）の首脳級会合への出席を見送る方向となった。木原官房長官は5日、理由について「総合的に考慮した」と述べた。COP31は11月9日から20日まで開かれる。",
+   "sources": [
+    {
+     "name": "時事通信（11/5）",
+     "url": "https://www.jiji.com/jc/article?k=2026110500895&g=pol&m=rss"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "「官民サイバー救援隊」創設へ、6日決定",
+   "summary": "攻撃を受けた組織を官民の専門人材が支える。サイバー対策の緊急パッケージの柱になる。",
+   "body": "政府は6日の関係閣僚会議で「サイバーセキュリティ緊急対策パッケージ」を決定する方針。官民の専門人材でつくる「官民サイバー救援隊（仮称）」の創設が柱となる。",
+   "sources": [
+    {
+     "name": "時事通信（11/5）",
+     "url": "https://www.jiji.com/jc/article?k=2026110500942&g=pol"
+    },
+    {
+     "name": "神奈川新聞（共同、11/5）",
+     "url": "https://www.kanaloco.jp/news/social/article-1318127.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "政府、企業に脆弱性の点検継続を要請",
+   "summary": "AIも使ってシステムの弱点を点検し続けるよう求めた。個人情報の流出の発表が続いている。",
+   "body": "政府は企業などに対し、AIも活用してシステムの脆弱性の点検を続けるよう求めた。企業や自治体による個人情報流出の発表が相次いでいる。",
+   "sources": [
+    {
+     "name": "NHK（11/5）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261105de71268"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "米国株が急落、ナスダックは5.52%安",
+   "summary": "半導体株が大きく売られ、ナスダック総合指数は調整局面に入った。ダウも1800ドルを超えて下げた。",
+   "body": "5日の米国株式市場で、ダウ工業株30種平均は前日比1833.06ドル（3.44%）安の5万1523.06ドル、S&P500種は4.36%安の7353.73、ナスダック総合指数は5.52%安の2万4315.00で取引を終えた。フィラデルフィア半導体株指数（SOX）は報道によると約12%下げた。終値は日本時間6日午前6時（現地時間5日午後4時）。",
+   "visual": {
+    "kicker": "ナスダック 下落率",
+    "figure": "5.52",
+    "unit": "%",
+    "caption": "現地時間5日の終値、調整局面入り"
+   },
+   "sources": [
+    {
+     "name": "Yahoo Finance（11/5）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "name": "CNBC（11/5）",
+     "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "パラグアイのペニャ大統領が辞任を表明",
+   "summary": "デジタル銀行の破綻をめぐり批判が強まり、弾劾の手続きが始まる中で辞任を表明した。",
+   "body": "パラグアイのペニャ大統領は現地時間5日、辞任を表明した。デジタル銀行ueno（ウエノ）の破綻をめぐり、利益相反などの疑いで野党が弾劾の手続きを始め、抗議活動も広がっていた。中央銀行は同行が最低限の支払い能力の基準を満たしていないとして介入し、約300万人の顧客が口座を使えなくなった。辞任は上下両院の承認が必要で、アリアナ副大統領が後任となる見通し。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/5）",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
+    },
+    {
+     "name": "France 24（11/5）",
+     "url": "https://www.france24.com/es/minuto-a-minuto/20261105-santiago-pe%C3%B1a-renuncia-a-la-presidencia-de-paraguay-en-medio-del-esc%C3%A1ndalo-de-ueno-bank"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスで全国スト、物価高に抗議",
+   "summary": "内務省の集計で57万5000人がデモに参加した。448人が逮捕された。",
+   "body": "フランス各地で現地時間5日、生活費の上昇に抗議するストライキとデモが行われた。参加者は内務省の集計で57万5000人、労働組合CGTの発表で160万人。報道によると448人が逮捕され、警察官53人がけがをした。",
+   "sources": [
+    {
+     "name": "France 24（11/5）",
+     "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル、67議員がアイゼンコット氏を推薦",
+   "summary": "ネタニヤフ氏の推薦は46人。ヘルツォグ大統領が8日に組閣を託す人物を決める。",
+   "body": "イスラエル総選挙後の各党との協議で、67人の議員が野党のアイゼンコット氏を首相候補に推薦し、ネタニヤフ首相の推薦は46人だった。過半数は61。ヘルツォグ大統領は8日（日曜）に組閣を託す人物を決める。新しい国会は10日に招集される。",
+   "sources": [
+    {
+     "name": "Jerusalem Post（11/5）",
+     "url": "https://www.jpost.com/israel-election-2026/article-913989"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "シリアとサウジ、防衛協力協定に署名",
+   "summary": "サウジの開発基金はシリアに約4億300万ドルの融資を行う。医療や電力の復旧にあてる。",
+   "body": "シリアのシャラア大統領がサウジアラビアを訪れ、両国は現地時間4日、国防省間の防衛協力協定に署名した。協定の中身は公表されていない。サウジ開発基金は6件、約4億300万ドルの融資を決め、医療施設に1億ドル、アレッポの火力発電所に9000万ドルなどをあてる。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/5）",
+     "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans"
+    },
+    {
+     "name": "Arab News（11/5）",
+     "url": "https://www.arabnews.com/saudi-arabia/saudi-fund-provides-over-403m-for-infrastructure-and-public-service-projects-in-syria-3009880"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン、ホルムズ案への米回答「説得力ない」",
+   "summary": "米国はイランのケシュム島を攻撃したと認めた。カタールは双方が交渉を続ける意向だとしている。",
+   "body": "イランは海峡の再開に向けて示した7項目の条件に対する米国の回答を「説得力がない」と評価した。トランプ大統領はケシュム島の対空施設を攻撃したと認め、「戦争ではない」と述べた。カタール外務省は、双方が交渉を続ける意向だとしている。イラン革命防衛隊はタンカー4隻が機雷に触れたと主張しているが、独立した確認はない。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/4）",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    {
+     "name": "CNBC（11/3）",
+     "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "韓国、ホルムズ海峡近くに哨戒機など派遣へ",
+   "summary": "ソマリア沖の部隊の活動範囲を広げる。戦闘には加わらず、国会の同意が必要になる。",
+   "body": "韓国国防省は5日、ソマリア沖で海賊対策にあたる清海部隊の活動範囲を広げ、海上哨戒機と爆発物処理チームをホルムズ海峡近くに派遣する計画を示した。新たな装備はジブチに置き、活動はオマーン南方の公海に限る。派遣には国会の同意が必要で、イランは派遣しないよう警告している。",
+   "sources": [
+    {
+     "name": "France 24（11/5）",
+     "url": "https://www.france24.com/en/asia-pacific/20261105-south-korea-military-mission-strait-of-hormuz"
+    },
+    {
+     "name": "The Korea Herald（11/5）",
+     "url": "https://www.koreaherald.com/article/10926571"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/6",
+   "what": "消費減税法案、衆院で採決の見通し"
+  },
+  {
+   "when": "11/6",
+   "what": "サイバー緊急対策を閣僚会議で決定"
+  },
+  {
+   "when": "11/8",
+   "what": "イスラエル大統領が組閣を託す人物を決定"
+  },
+  {
+   "when": "11/8",
+   "what": "南アフリカ地方選の正式結果発表"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "イスラエル新国会が招集"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
