@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-05",
+ "slot": "pm",
+ "key": 2026110502,
+ "generatedAt": "2026-11-05T18:55:35+09:00",
+ "brief": [
+  "日経平均は1110円安で4日続落。米国のAI規制強化への警戒が続く。",
+  "政府、非核三原則の例外明記を検討。首相は仏大統領にEV優遇策への懸念。",
+  "ホルムズ海峡でタンカー4隻が触雷とイラン。南アは与党が僅差でリード。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が1110円安、4日続けて下落",
+   "summary": "米国でAI規制が強まるとの警戒から半導体株が売られた。一方でTOPIXは上昇した。",
+   "body": "5日の東京株式市場で日経平均株価は前日比1110円73銭安の6万1077円90銭で取引を終え、4日続けて下落した。米中間選挙の結果を受けてAI規制への警戒が強まり、AI・半導体関連株が売られた。アドバンテスト1銘柄で指数を約1097円押し下げた。東証株価指数（TOPIX）は反発した。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "61,077.90",
+    "unit": "円",
+    "caption": "前日比 -1110.73円"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/5）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB050H0TV01C26A1000000/"
+    },
+    {
+     "name": "時事通信（Infoseek、11/5）",
+     "url": "https://news.infoseek.co.jp/article/jiji_2026110500875/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "政府、非核三原則に例外の明記を検討",
+   "summary": "緊急時に核兵器の持ち込みを認める例外を、年末に改定する国家安全保障戦略に書き込む案が有力。",
+   "body": "政府は年末に改定する安全保障関連3文書のうち国家安全保障戦略に、非核三原則の例外として緊急時の核持ち込みを認める内容を明記する案を検討している。三原則そのものの見直しは見送る方向。",
+   "sources": [
+    {
+     "name": "共同通信（11/5）",
+     "url": "https://news.yahoo.co.jp/articles/cc8e835507100618c1b8e3414b53f571507172ed"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "首相、仏大統領に欧州のEV優遇策への懸念を伝達",
+   "summary": "EUが検討している欧州製EVの優遇策について、適切な対応を求めた。",
+   "body": "高市首相は5日、フランスのマクロン大統領と電話で会談し、欧州連合（EU）が検討している欧州製の電気自動車（EV）の優遇策に強い懸念を伝え、適切な対応を求めた。",
+   "sources": [
+    {
+     "name": "共同通信（11/5）",
+     "url": "https://news.yahoo.co.jp/articles/11c73438e70834aa6a7d11fed95692ba0128023a"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "過疎地の訪問介護、月単位の定額報酬に",
+   "summary": "要介護度や利用の頻度に応じて、複数の料金区分を設ける方向で調整している。",
+   "body": "厚生労働省は、過疎地域などでの訪問介護に1か月単位の定額報酬制を導入するにあたり、要介護度や利用の頻度などに応じて複数の料金区分を設ける方向で調整に入った。",
+   "sources": [
+    {
+     "name": "共同通信（11/5）",
+     "url": "https://news.yahoo.co.jp/articles/d837acc914270b47597a3e5c8aa522ad58ea5cfe"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "備蓄米の売り渡し、最長10か月かかる",
+   "summary": "会計検査院の決算検査報告で指摘された。品質確認や運送の調整に時間がかかった。",
+   "body": "会計検査院は5日、2025年度決算検査報告を高市首相に提出した。政府備蓄米の放出では、品質の確認や運送の調整に時間がかかり、小売業者への売り渡しが申し込みから最長10か月と長引いたと指摘した。",
+   "visual": {
+    "kicker": "備蓄米の売り渡し",
+    "figure": "10",
+    "unit": "か月",
+    "caption": "申し込みからの最長期間"
+   },
+   "sources": [
+    {
+     "name": "琉球新報（共同、11/5）",
+     "url": "https://ryukyushimpo.jp/kyodo/entry-5590413.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "サイバー攻撃に対応する新チーム、早期運用へ",
+   "summary": "不正アクセスによる情報漏えいが相次ぐなか、政府が今週中にまとめる緊急対策に盛り込む方向。",
+   "body": "政府は、今週中をめどにまとめるサイバー対策の緊急パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に始めることなどを盛り込む方向で調整している。",
+   "sources": [
+    {
+     "name": "NHK（11/5）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261105de70695"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "個人向け国債に「複利型」追加を検討",
+   "summary": "財務省が個人向け国債の魅力を高める案を示した。20年物など超長期の商品の新設も検討する。",
+   "body": "財務省は、個人向け国債の商品性を高める案として、利子を元本に組み入れる「複利型」を加えることや、20年物などの超長期債を新設することを検討している。",
+   "sources": [
+    {
+     "name": "時事通信（Infoseek、11/5）",
+     "url": "https://news.infoseek.co.jp/article/jiji_2026110500978/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ホルムズ海峡でタンカー4隻が触雷とイラン",
+   "summary": "イランは米国と集中的に交渉しているとする一方、トランプ氏は大規模な攻撃もあり得ると警告している。",
+   "body": "イランは4日、ホルムズ海峡で石油タンカー4隻が機雷に触れて炎上したと主張した。独立した確認はとれていない。イランのアラグチ外相は米国との交渉が「非常に集中的に」進んでいるとしつつ、すべては米国次第だと述べた。トランプ大統領は「大きな打撃」を与える可能性に言及している。",
+   "visual": {
+    "kicker": "触雷したタンカー",
+    "figure": "4",
+    "unit": "隻",
+    "caption": "イラン側の主張"
+   },
+   "sources": [
+    {
+     "name": "France 24（11/4）",
+     "url": "https://www.france24.com/en/middle-east/20261104-four-oil-tankers-destroyed-in-hormuz-after-hitting-mines-tehran-says"
+    },
+    {
+     "name": "Gulf News（11/4）",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米民主党、医療費や関税の見直しから着手へ",
+   "summary": "両院を制した民主党が来年からの方針を示した。トランプ政権への調査も強める。",
+   "body": "上下両院を制した米民主党の指導部は、期限切れとなった医療保険の補助の復活や、低所得者向け医療保険の削減の撤回、トランプ政権の関税を取り消す法案から取り組む方針を示した。大統領一族の事業などへの調査も進める。下院議長にはジェフリーズ氏が就く見通し。トランプ氏は「2年間、拒否権を使い続けるだけにはしたくない」と述べている。",
+   "sources": [
+    {
+     "name": "CNBC（11/4）",
+     "url": "https://www.cnbc.com/2026/11/04/congressional-democrats-affordability-oversight.html"
+    },
+    {
+     "name": "NBC News",
+     "url": "https://www.nbcnews.com/politics/congress/democrats-control-house-senate-plans-trump-oversight-rcna605714"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "南アフリカ地方選、与党ANCが僅差でリード",
+   "summary": "開票の初期段階で、与党と野党第1党が拮抗している。正式な結果は8日に発表される。",
+   "body": "南アフリカの統一地方選挙は、開票率約12%の段階でアフリカ民族会議（ANC）が約32%、民主同盟（DA）が約30%と拮抗している。最大都市ヨハネスブルクではDAが約41%でリードし、ANCは約17%にとどまる。選挙管理委員会は8日に正式な結果を発表する。",
+   "sources": [
+    {
+     "name": "U.S. News（ロイター、11/4）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-04/south-africas-anc-on-32-of-vote-with-12-of-votes-counted-in-municipal-election"
+    },
+    {
+     "name": "Inside Metros（11/5）",
+     "url": "https://insidemetros.co.za/2026/11/05/da-leads-in-joburg-as-anc-trails-far-behind-in-early-election-results/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスでゼネスト、警官7万人以上を配置",
+   "summary": "賃金や年金、予算削減に抗議する全国的なストとデモ。学校や鉄道に影響が見込まれる。",
+   "body": "フランスで5日、労働組合5団体が賃金や年金、予算削減に抗議するストに入り、国鉄の4労組も加わった。内相は7万人以上の警察官を配置すると説明した。教育省は公立小学校の教員の17.5%がストに参加すると見込んだ。議会では2027年予算案の前半部分が否決されている。",
+   "sources": [
+    {
+     "name": "Euronews（11/5）",
+     "url": "https://euronews.com/2026/11/05/france-braces-for-nationwide-strike-as-government-backs-austerity-budget-to-rein-in-soarin"
+    },
+    {
+     "name": "TimesLIVE（ロイター、11/5）",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-05-france-faces-new-protests-as-macron-seeks-to-prevent-repeat-of-october-unrest/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "フィリピン気象庁「非常に強い」エルニーニョ",
+   "summary": "年末にかけて最も強まり、来年半ばまで影響が残る見通し。干ばつが深刻になるおそれがある。",
+   "body": "フィリピン気象庁（PAGASA）は、熱帯太平洋で「非常に強い」エルニーニョ現象が発生していると発表した。年末にかけてピークを迎え、影響は2027年半ばまで続く見通しで、国内の干ばつが悪化するおそれがあるとしている。",
+   "sources": [
+    {
+     "name": "Viet Nam News",
+     "url": "https://vietnamnews.vn/world/1803625/very-strong-el-ni-o-now-active-in-tropical-pacific-says-philippine-state-weather-bureau.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "ベトナムとインドネシア、グリーンエネルギーで協力",
+   "summary": "廃棄物処理や電気自動車、スマートシティーなどでも協力を話し合った。",
+   "body": "ベトナムとインドネシアは5日、グリーンエネルギー分野での協力強化について協議した。廃棄物管理、クリーンな交通、電気自動車、都市のスマート技術なども議題となった。",
+   "sources": [
+    {
+     "name": "VietnamPlus（11/5）",
+     "url": "https://en.vietnamplus.vn/vietnam-indonesia-boost-green-energy-cooperation-post354859.vnp"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/6",
+   "what": "首相が出席し衆院財務金融委で質疑"
+  },
+  {
+   "when": "11/8",
+   "what": "南アフリカ地方選の正式結果発表"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  }
+ ]
+}
