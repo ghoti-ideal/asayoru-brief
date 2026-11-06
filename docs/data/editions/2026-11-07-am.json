@@ -1,0 +1,268 @@
+{
+ "date": "2026-11-07",
+ "slot": "am",
+ "key": 2026110701,
+ "generatedAt": "2026-11-07T06:56:33+09:00",
+ "brief": [
+  "沖縄政策協議会が13年ぶりに開催。政府はサイバー攻撃の緊急対策をまとめた。",
+  "米国の10月の雇用者数は16万5000人増で予想を上回った。円は一時158円台に。",
+  "EUはトランプ氏の欧州安保合意案を拒否。中国が宇宙で原子冷却の最低記録。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "沖縄政策協議会、13年ぶりに開催",
+   "summary": "首相は基地の負担を目に見える形で減らすと述べた。知事は普天間飛行場の返還期日をはっきりさせるよう求めた。",
+   "body": "政府と沖縄県が沖縄振興や米軍基地の負担軽減を話し合う沖縄政策協議会が6日朝、首相官邸で開かれた。高市首相は関係閣僚に、2027年度予算の編成などで対応を検討するよう指示した。古謝知事は普天間飛行場の返還期日の明確化などを求めた。会合は約15分で、年内にもう1回開く方向で調整している。",
+   "visual": {
+    "kicker": "沖縄政策協議会",
+    "figure": "13",
+    "unit": "年ぶり",
+    "caption": "前回の開催は2013年"
+   },
+   "sources": [
+    {
+     "name": "琉球新報（11/6）",
+     "url": "https://ryukyushimpo.jp/news/entry-5591115.html"
+    },
+    {
+     "name": "東奥日報（共同、11/6）",
+     "url": "https://www.toonippo.co.jp/articles/-/2397624"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "政府、サイバー攻撃の緊急対策をまとめる",
+   "summary": "流出した情報が載ったサイトを強制的に遮断する仕組みの検討を急ぐ。被害を防ぐための新しいチームもつくる。",
+   "body": "政府は6日、サイバーセキュリティーに関する関係閣僚会議を首相官邸で開き、相次ぐ不正アクセスを受けて「緊急対策パッケージ」をまとめた。流出情報が載ったサイトへの強制遮断（ブロッキング）の検討を加速することや、被害防止に向けた新たなチームの設置を盛り込んだ。",
+   "sources": [
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110600989&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "石破前首相ら、消費減税法案の採決で退席",
+   "summary": "自民党の4人が採決の前に本会議場を出た。党内からは処分を求める声が出ている。",
+   "body": "6日の衆院本会議で食料品の消費税減税関連法案が可決された際、自民党の石破茂前首相や小渕優子氏ら4人が採決の前に退席した。自民党内からは処分を求める声が出ている。法案は参院に送られた。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71359"
+    },
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110600913&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "人口戦略の有識者会議が初会合",
+   "summary": "人口減少への対策を話し合う。副大臣らの会議と連携して戦略を具体化していく。",
+   "body": "総合的な人口戦略の策定に向けた政府の有識者会議が6日、初会合を開いた。関係副大臣らによる会議と連携しながら、戦略の具体化を進めることを確認した。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71964"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "重要な土地の取得規制法案、10日審議入り",
+   "summary": "安全保障上重要な土地の取得への規制を強める法案。衆院で審議を始めることで与野党が合意した。",
+   "body": "安全保障上重要な土地の取得への規制を強化する法案について、与野党は10日に衆院本会議を開き、審議入りすることで合意した。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71558"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "三菱重工、今期の最終利益予想を上方修正",
+   "summary": "過去最高益の予想をさらに引き上げた。4〜9月期の最終利益は前年同期から7割以上増えた。",
+   "body": "三菱重工業は6日、2027年3月期の連結最終利益の予想を15.8%上方修正し、過去最高益の予想を上乗せした。4〜9月期の連結最終利益は前年同期比76.9%増の2032億円だった。",
+   "sources": [
+    {
+     "name": "株探（11/6）",
+     "url": "https://kabutan.jp/news/?b=k202611060047"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "米雇用統計の発表後、円は一時158円台に",
+   "summary": "米国の雇用が予想より強く、ドルが買われた。ただ、値動きは限られた。",
+   "body": "米国の10月の雇用統計が日本時間6日22時30分に発表され、雇用者数が予想を大きく上回ったことを受けて、円相場は一時1ドル＝158円58銭まで円安・ドル高が進んだ。その後は発表前の水準に戻した。",
+   "sources": [
+    {
+     "name": "ザイFX!（11/6）",
+     "url": "https://zai.diamond.jp/articles/-/498630"
+    },
+    {
+     "name": "みんかぶFX（11/6）",
+     "url": "https://fx.minkabu.jp/news/383809"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "米国の雇用者数、10月は16万5000人増",
+   "summary": "市場の予想を大きく上回った。失業率は4.1%に下がった。",
+   "body": "米労働省が6日に発表した10月の雇用統計で、農業分野以外の雇用者数は前月から16万5000人増えた。市場予想は約6万人台だった。失業率は4.1%と前月の4.2%から下がった。8月と9月の雇用者数は合わせて8万4000人上方修正された。",
+   "visual": {
+    "kicker": "米雇用者数の増加",
+    "figure": "165,000",
+    "unit": "人",
+    "caption": "10月、失業率は4.1%"
+   },
+   "sources": [
+    {
+     "name": "FOX Business（11/6）",
+     "url": "https://www.foxbusiness.com/economy/us-jobs-report-october-2026"
+    },
+    {
+     "name": "Yahoo Finance（11/6）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "EU、トランプ氏の「欧州全体の安保合意」案を拒む",
+   "summary": "欧州の安全保障は欧州が決めると主張した。10日からはウクライナ和平の協議がある。",
+   "body": "トランプ大統領がロシアとの合意は「欧州全体」に及ぶ可能性があると述べたことに対し、EUのカラス外交安全保障上級代表は「欧州にはすでに安全保障の枠組みがある」と述べ、プーチン大統領に拒否権はないとした。ポーランドの外相も、欧州抜きの合意は受け入れられないと述べた。米国、ロシア、ウクライナの協議は10〜11日にアブダビで開かれる。",
+   "sources": [
+    {
+     "name": "Euronews（11/6）",
+     "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン、米無人機を撃墜したと主張",
+   "summary": "ホルムズ海峡では船への被害が続く。イランは一部の国の船は通れるとしている。",
+   "body": "イラン革命防衛隊は6日、ホルムズ海峡のケシュム島上空で米軍の無人機を撃墜したと主張した。同じ日には海峡を通るタンカーへの被害も報告された。イランの議員は、インド、中国、イラク、カタールの船は海峡を自由に通れると述べた。イラン側の主張は独立した確認がされていない。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/6）",
+     "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions"
+    },
+    {
+     "name": "Al Jazeera（11/6）",
+     "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "パラグアイ下院、辞任表明直後に大統領を弾劾",
+   "summary": "下院は全会一致で弾劾を決め、上院に送った。検事総長は銀行破綻をめぐる捜査を命じた。",
+   "body": "パラグアイの下院は現地時間5日、ペニャ大統領が辞任を表明した直後に78対0で弾劾訴追を可決し、上院に送った。検事総長はデジタル銀行uenoの破綻をめぐり3件の刑事捜査を命じた。アリアナ副大統領が後任となる見通しだが、辞任の受理をめぐっては報道が分かれている。",
+   "sources": [
+    {
+     "name": "OPB（AP、11/5）",
+     "url": "https://www.opb.org/article/2026/11/05/paraguay-president-impeached-minutes-after-resigning-following-bank-collapse/"
+    },
+    {
+     "name": "AS/COA（11/6）",
+     "url": "https://www.as-coa.org/articles/paraguays-president-resigns-why-and-what-comes-next"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "science",
+   "title": "中国の宇宙ステーション、原子の冷却で最低記録",
+   "summary": "原子をこれまでで最も低い温度まで冷やした。成果は米科学誌サイエンスに載った。",
+   "body": "中国の研究チームは、宇宙ステーション「天宮」の実験モジュールで約2万個のルビジウム原子を冷やし、9.7ピコケルビン相当の温度に達したと発表した。成果は6日、米科学誌サイエンスの電子版に掲載された。これまでの記録は、2022年に国際宇宙ステーションで達成された52ピコケルビンだった。",
+   "visual": {
+    "kicker": "到達した温度",
+    "figure": "9.7",
+    "unit": "ピコケルビン",
+    "caption": "これまでの記録は52ピコケルビン"
+   },
+   "sources": [
+    {
+     "name": "中国科学院（11/6）",
+     "url": "https://english.cas.cn/newsroom/cas-in-media/202611/t20261106_1213502.shtml"
+    },
+    {
+     "name": "Phys.org（11/6）",
+     "url": "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "欧州で旅客機への爆破予告が相次ぐ",
+   "summary": "5日には少なくとも25便が影響を受けた。6日も予告があったが、爆発物は見つかっていない。",
+   "body": "欧州で旅客機を狙った爆破予告が相次いでいる。5日には少なくとも25便が影響を受け、ダブリン発ローマ行きの便はフランスの空軍基地に着陸した。6日にはローマ発リスボン行きの便が警戒態勢となったが、爆発物は確認されていない。",
+   "sources": [
+    {
+     "name": "Euronews（11/6）",
+     "url": "https://www.euronews.com/2026/11/06/bomb-threat-targets-ryanair-flight-to-lisbon-as-scares-continue-across-europe"
+    },
+    {
+     "name": "France 24（11/5）",
+     "url": "https://france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/8",
+   "what": "イスラエル大統領が組閣を託す人物を決定"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "土地取得規制法案が衆院で審議入り"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/12",
+   "what": "臨時国会の会期末"
+  }
+ ]
+}
