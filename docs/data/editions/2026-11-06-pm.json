@@ -1,0 +1,267 @@
+{
+ "date": "2026-11-06",
+ "slot": "pm",
+ "key": 2026110602,
+ "generatedAt": "2026-11-06T18:57:03+09:00",
+ "brief": [
+  "日経平均は3643円安で6万円割れ。韓国株も6%下げ、AI関連株の売りが続く。",
+  "消費減税法案が衆院を通過。ロシアはJTの現地工場を一時管理下に置いた。",
+  "トランプ氏はロ・ウ和平が「非常に近い」と発言。COP31は9日に開幕する。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が3643円安、6万円を割り込む",
+   "summary": "下げ幅は終値として過去3番目の大きさ。米国でAI規制が強まるとの警戒から売りが広がった。",
+   "body": "6日の東京株式市場で日経平均株価は前日比3643円13銭安の5万7434円77銭で取引を終えた。終値で6万円を下回るのは5月20日以来。下げ幅は終値として過去3番目の大きさとなった。東証株価指数（TOPIX）は232.40ポイント安の3707.99だった。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "57,434.77",
+    "unit": "円",
+    "caption": "前日比 -3643.13円"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71341"
+    },
+    {
+     "name": "共同通信（Yahoo!、11/6）",
+     "url": "https://news.yahoo.co.jp/articles/c5ae46580766964d58aeb7f751ee558f20643e0f"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "食料品の消費減税法案が衆院を通過",
+   "summary": "食料品の税率を2年間1%に下げる内容。参院に送られ、12月12日までの会期中の成立を目指す。",
+   "body": "飲食料品の消費税率を2027年4月から2年間、8%から1%に下げる法案が6日、衆院本会議で可決された。所得に応じて給付する「就業者負担軽減支援金」も盛り込んでいる。日経によると、国民民主党や公明党など野党は全党が反対した。政府・与党は12月12日までの臨時国会での成立を目指す。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/6）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA060IV0W6A101C2000000/"
+    },
+    {
+     "name": "毎日新聞（Yahoo!、11/6）",
+     "url": "https://news.yahoo.co.jp/articles/5f503f4f45937abaf123f58e48e31e7c814b9af9"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "ロシア、JTの現地工場を一時管理下に",
+   "summary": "プーチン大統領が大統領令に署名した。日本政府はロシアに抗議し、撤回を求めた。",
+   "body": "ロシアのプーチン大統領は5日、JTの海外子会社がロシアで持つ製造会社4社を、ロシア企業の一時的な管理下に置く大統領令に署名した。所有権はすぐには移らないが、経営権の行使が制限される。JTは6日、影響を確認していると発表した。日本政府は外交ルートで抗議し、措置の撤回を求めた。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/6）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC060Q60W6A101C2000000/"
+    },
+    {
+     "name": "日本経済新聞（11/6）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA060YW0W6A101C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "経産省、中部電力に業務改善命令",
+   "summary": "浜岡原発の審査でデータを改ざんするなど不祥事が続いたため、再発防止を求めた。",
+   "body": "経済産業省は6日、中部電力に業務改善命令を出し、再発防止に向けた取り組みを求めた。中部電力は再稼働を目指す浜岡原子力発電所の審査をめぐり、地震に関するデータを改ざんしていたことが2026年1月に明らかになっていた。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71336"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "インフルエンザ患者、1医療機関10人超で横ばい",
+   "summary": "患者数は約1か月、ほぼ横ばいが続く。自治体は注意報などで対策を呼びかけている。",
+   "body": "今月1日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関あたり10.26人だった。患者数はおよそ1か月前からほぼ横ばいの状態が続いている。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71737"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "西日本の128信金でATMが使えず",
+   "summary": "通信障害により、西日本を中心とする信用金庫でATMが利用できなくなった。",
+   "body": "6日、西日本地域を中心に128の信用金庫で、通信障害によりATMが利用できなくなった。",
+   "sources": [
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110600836&g=eco"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日本製紙、八代工場の生産再開を断念",
+   "summary": "被災した設備や建屋の復旧には3〜4年の工期と大きな費用がかかるため。",
+   "body": "日本製紙は6日、熊本地震で被災した八代工場での紙の生産を再開しないと発表した。生産設備や建屋の復旧には3〜4年の工期と相当規模の費用がかかるとしている。",
+   "sources": [
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110600756&g=eco"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "アジアでもハイテク株の売り続く、韓国6%安",
+   "summary": "米国でAIへの規制が強まるとの警戒が広がった。韓国当局は信用取引の担保の要件を3か月免除する。",
+   "body": "6日の韓国株式市場で総合株価指数（KOSPI）は6.02%安の5059.69で取引を終えた。取引開始直後には一時8.78%下げ、売買を一時止める措置が発動された。台湾の加権指数も4.5%下げた。前日の米国市場でナスダック総合指数が5.5%下げた流れを受けた。",
+   "visual": {
+    "kicker": "韓国KOSPI 下落率",
+    "figure": "6.02",
+    "unit": "%",
+    "caption": "6日終値 5059.69"
+   },
+   "sources": [
+    {
+     "name": "Korea JoongAng Daily（11/6）",
+     "url": "https://www.koreajoongangdaily.com/business/kospi-falls-for-2nd-day-on-ai-rout-after-us-midterms/12960072"
+    },
+    {
+     "name": "Al Jazeera（11/6）",
+     "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、ロ・ウ和平「非常に近い」",
+   "summary": "ロシア大統領の特使と会談した後に述べた。10日から米ロ・ウクライナの3者協議が予定されている。",
+   "body": "トランプ大統領は米東部時間5日（日本時間6日）、プーチン大統領の特使ドミトリエフ氏とホワイトハウスで会談した後、ロシアとウクライナの戦争の解決に「非常に近づく」と述べた。具体的な内容は明らかにしなかった。米国、ロシア、ウクライナの3者協議は10〜11日にアラブ首長国連邦のアブダビで開かれる予定。ロシアは停戦案を拒み、ドンバス地方の割譲を求めている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/6）",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+    },
+    {
+     "name": "Kyiv Independent（11/6）",
+     "url": "https://kyivindependent.com/trump-meets-russian-envoy-in-washington-ahead-of-ukraine-peace-talks-claims-big-beautiful-agreement-coming/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、カタール首長とイラン情勢を協議",
+   "summary": "首長は対話の継続を求めた。イラン側はタンカー2隻が機雷に触れて炎上したと主張している。",
+   "body": "トランプ大統領はカタールのタミム首長と電話で会談し、首長は事態の悪化を防ぐため対話を続けるよう求めた。トランプ氏はイランの残りを「破壊しなければならないかもしれない」とも述べた。イラン革命防衛隊は、ホルムズ海峡を許可のない航路で通ろうとしたタンカー2隻が機雷に触れて炎上したと主張している。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/6）",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "エチオピアとスーダン、互いの領事館を閉鎖",
+   "summary": "スーダンの内戦をめぐり、相手が反政府勢力を支援していると互いに非難している。",
+   "body": "エチオピアは西部アソサにあるスーダン領事館を閉鎖し、外交官6人に48時間以内の退去を求めた。スーダンも東部ゲダレフのエチオピア領事館を閉鎖した。スーダンはエチオピアが準軍事組織RSFを支援していると、エチオピアはスーダンがティグレの反政府勢力を支援していると非難し、双方とも否定している。",
+   "sources": [
+    {
+     "name": "TimesLIVE（ロイター、11/5）",
+     "url": "https://www.timeslive.co.za/news/africa/2026-11-05-ethiopia-and-sudan-close-each-others-consulates-after-allegations-of-meddling-in-civil-war/"
+    },
+    {
+     "name": "The National（11/5）",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31、9日にトルコで開幕へ",
+   "summary": "大きな発表は見込まれていない。フランスの閣僚は会議への「疲れ」を指摘している。",
+   "body": "国連気候変動枠組み条約第31回締約国会議（COP31）は9日（月）、トルコのアンタルヤで2週間の日程で始まる。France 24によると、大きな発表は見込まれておらず、フランスのエコロジー移行相は締約国会議への「疲れ」に言及した。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/6）",
+     "url": "https://www.france24.com/en/live-news/20261106-un-climate-summits-face-fatigue-and-pleas-for-reform"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "米ドロップボックス、AI向け保存企業を買収",
+   "summary": "買収額は約3億5000万ドル。企業や開発者向けのAI基盤の事業を強める。",
+   "body": "米ドロップボックスは、AI向けのデータ保存サービスを手がける米ティグリス・データを現金約3億5000万ドルで買収すると発表した。11月3日に契約を結び、2026年10〜12月期に買収を終える見込み。あわせて新サービス「DBX Agent Cloud」を始めた。",
+   "sources": [
+    {
+     "name": "Dropbox 米SEC提出書類（11/5）",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001467623/000146762326000056/dbx-20261103.htm"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "北京市、水素の燃料電池車を増やす計画",
+   "summary": "2030年までの計画で、燃料電池車と水素ステーションを増やし、費用を3割以上下げる目標を掲げた。",
+   "body": "北京市は2026〜2030年の水素エネルギー産業の計画を公表した。報道によると、2030年までに燃料電池車を1万2000台超、水素ステーションを40か所超にする。燃料電池車と主要部品の費用を3割以上下げる目標も掲げた。台数の目標を「1万台超」と伝える報道もある。",
+   "sources": [
+    {
+     "name": "South China Morning Post（11/6）",
+     "url": "https://www.scmp.com/economy/china-economy/article/3372980/beijing-city-officials-boost-hydrogen-cars-china-sets-sights-future-industry"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/8",
+   "what": "イスラエル大統領が組閣を託す人物を決定"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "イスラエル新国会が招集"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/12",
+   "what": "臨時国会の会期末"
+  }
+ ]
+}
