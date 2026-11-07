@@ -1,0 +1,254 @@
+{
+ "date": "2026-11-07",
+ "slot": "pm",
+ "key": 2026110702,
+ "generatedAt": "2026-11-07T18:56:22+09:00",
+ "brief": [
+  "自民が採決で退席した石破氏らに説明を要求。日越首脳は9日に会談する。",
+  "パラグアイで新大統領が就任。米首席補佐官はミラー氏に交代する。",
+  "ニュージーランド総選挙は2大政党が接戦。フランスでは再び抗議デモ。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "自民、採決で退席の石破氏らに説明求める",
+   "summary": "消費減税法案の採決の前に退席した理由を問う文書を配った。回答の期限は9日。",
+   "body": "自民党執行部は、6日の衆院本会議で消費税減税関連法案の採決の前に退席し、賛成しなかった石破茂前首相ら4人に対し、事実関係と理由の説明を求める文書を配った。回答期限は9日としている。",
+   "visual": {
+    "kicker": "採決前に退席",
+    "figure": "4",
+    "unit": "人",
+    "caption": "回答期限は11月9日"
+   },
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/7）",
+     "url": "https://news.yahoo.co.jp/articles/4450594000dd4c63c4e3714f12af8d57aa83ab4a"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日越首脳、9日に法制度支援の文書を交換へ",
+   "summary": "日本がベトナムの法律の仕組みづくりを支える事業について、首脳会談で文書を取り交わす。",
+   "body": "高市首相とベトナムのトー・ラム共産党書記長兼国家主席は、9日の首脳会談で、ベトナムの法制度整備の支援事業に関する文書を交換する見通しとなった。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/7）",
+     "url": "https://news.yahoo.co.jp/articles/722f159f47843546bf6256c0e65b0647387d937c"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "「台湾有事」答弁から1年、首相は対話を強調",
+   "summary": "首相は中国と意思疎通を図り、安定した関係を築く考えを示した。中国の強硬な姿勢は続いている。",
+   "body": "高市首相の「台湾有事」をめぐる国会答弁から7日で1年となった。首相は中国と意思疎通を図りながら、建設的で安定的な関係を築く考えを改めて示した。時事通信によると、中国の習近平政権は日本への強硬姿勢を崩していない一方、超党派の議員や民間団体の訪問は受け入れている。",
+   "sources": [
+    {
+     "name": "NHK（11/6）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261106de71861"
+    },
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110601107&g=int"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "泊原発で国の原子力総合防災訓練",
+   "summary": "地震で原発事故が起きたと想定し、住民が避難する手順などを確かめた。",
+   "body": "北海道電力泊原子力発電所で7日、地震をきっかけに原発事故が起きたという想定で、国の原子力総合防災訓練が行われ、住民の避難の手順などを確認した。",
+   "sources": [
+    {
+     "name": "NHK（11/7）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261107de72069"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "北日本で冬型強まる、8日にかけ暴風に警戒",
+   "summary": "東北や北海道では非常に強い風が吹き、高波や雪にも注意が必要になっている。",
+   "body": "強い冬型の気圧配置の影響で、東北地方では西よりの非常に強い風が吹いている。8日明け方にかけて暴風や高波に警戒が必要。北海道では8日にかけて暴風に警戒し、日本海側北部では雪にも注意が必要としている。",
+   "sources": [
+    {
+     "name": "NHK（11/7）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261107de72092"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "原油高が長期化、ガソリン補助金は縮小へ",
+   "summary": "補助で170円程度に抑えているガソリン価格の目安を、12月から毎月5円ずつ上げる方針。",
+   "body": "中東情勢による原油高が続き、米中間選挙の後も収束の見通しは立っていない。高市首相は、補助金でレギュラーガソリン1リットルあたり170円程度に抑えている基準価格を、12月から春先に向けて毎月5円ずつ引き上げることを基本とする考えを示している。",
+   "sources": [
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110601033&g=pol"
+    },
+    {
+     "name": "毎日新聞（Yahoo!）",
+     "url": "https://news.yahoo.co.jp/articles/12c887df0c8c23362b017e17d20f564ab4fccc07"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "サイバー緊急対策、専門人材の確保が課題",
+   "summary": "多くの支援チームをつくるとしたが、必要な人材を集められる見通しは立っていない。",
+   "body": "政府が6日にまとめたサイバー攻撃への緊急対策には、多くの支援チームの創設が盛り込まれた。ただ、時事通信によると、必要な専門人材を確保できる見通しは立っておらず、実効性を疑問視する声もある。",
+   "sources": [
+    {
+     "name": "時事通信（11/6）",
+     "url": "https://www.jiji.com/jc/article?k=2026110600998&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "パラグアイ、ペニャ氏を罷免し新大統領が就任",
+   "summary": "議会は辞任を受け入れずに弾劾を進めた。副大統領だったアリアナ氏が2028年まで務める。",
+   "body": "パラグアイの上院は、デジタル銀行の破綻をめぐり弾劾されたペニャ大統領の罷免を決め、副大統領だったアリアナ氏が現地時間6日に大統領に就任した。議会はペニャ氏の辞任を受け入れず、弾劾の手続きを進めた。アリアナ氏は2028年8月までの残りの任期を務める。報道によると、ペニャ氏は自宅で拘束されている。",
+   "visual": {
+    "kicker": "新大統領の任期",
+    "figure": "2028",
+    "unit": "年8月まで",
+    "caption": "アリアナ氏が就任"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（11/7）",
+     "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+    },
+    {
+     "name": "U.S. News（ロイター、11/6）",
+     "url": "https://www.usnews.com/news/world/articles/2026-11-06/paraguays-alliana-sworn-in-as-president-after-pena-impeachment"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、首席補佐官をミラー氏に交代",
+   "summary": "ワイルズ氏に代わり、移民政策を主導してきたミラー氏が9日から務める。閣僚の交代もありうるとした。",
+   "body": "トランプ大統領は米東部時間6日（日本時間7日）、ホワイトハウスの首席補佐官をワイルズ氏から側近のミラー氏に代えると発表した。ミラー氏は9日から務める。トランプ氏は交代は選挙のためではないと述べ、閣僚も何人か交代させる可能性があるとした。",
+   "sources": [
+    {
+     "name": "CNBC（11/6）",
+     "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+    },
+    {
+     "name": "CNN（11/6）",
+     "url": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ニュージーランド総選挙、2大政党が接戦",
+   "summary": "開票の途中で与党と最大野党の得票率はどちらも3割弱。与党連合は過半数をわずかに上回る勢い。",
+   "body": "ニュージーランドで7日、総選挙の投開票が行われた。開票の途中経過では、与党・国民党と最大野党・労働党の得票率はどちらも30%弱で並んでいる。国民党を中心とする与党連合は、過半数をわずかに上回る議席を得る勢いとなっている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/7）",
+     "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"
+    },
+    {
+     "name": "RNZ（11/7）",
+     "url": "https://www.rnz.co.nz/news/election-2026-results"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "子宮頸がんの死者、2050年に4割増と推計",
+   "summary": "年間の死者は約52万人になる見通し。特にアフリカのサハラ砂漠以南で増え方が大きい。",
+   "body": "米ワシントン大学などのチームは、世界の子宮頸がんによる年間の死者が2023年の約36万9000人から2050年には約52万2000人に、39%増えるとの推計を米医学誌ネイチャー・メディシンに発表した。発症者は約20%増えて約108万人になるとした。サハラ砂漠以南のアフリカでは死者が約95%増えると見込んでいる。",
+   "sources": [
+    {
+     "name": "Nature Asia（11月）",
+     "url": "https://www.natureasia.com/ja-jp/research/highlight/15654"
+    },
+    {
+     "name": "Epocrates（11月）",
+     "url": "https://www.epocrates.com/online/article/cervical-cancer-deaths-could-climb-39-by-2050"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスで再び抗議デモ、警官7万人を配置",
+   "summary": "物価高への抗議が続く。首相は9日に労働組合や経営者の団体と賃金について話し合う。",
+   "body": "フランスで7日、労働組合や学生団体が生活費の上昇に抗議するデモを行った。「黄色いベスト」運動は当局が禁止したパリ中心部での集会を呼びかけ、内務相は全国に警察官など7万人を配置するとした。ルコルニュ首相は9日、賃金や購買力について労使の代表と協議する。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/7）",
+     "url": "https://www.france24.com/en/live-news/20261107-france-braces-for-protests-as-yellow-vests-urge-mass-disobedience"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "米メタ、AIエージェントと共同作業する新機能",
+   "summary": "チャットで考えを伝えると、AIが予定表や進み具合の管理表などをつくる。",
+   "body": "米メタは6日、AIエージェント「Muse」と共同で作業できる新機能「Spaces」を発表した。利用者がチャットで考えを伝えると、Museが進捗管理表や計画表、プロジェクトの一覧などをつくる。外部のアプリとつなぐと、内容を自動で更新する。",
+   "sources": [
+    {
+     "name": "TechCrunch（11/6）",
+     "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/8",
+   "what": "イスラエル大統領が組閣を託す人物を決定"
+  },
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "土地取得規制法案が衆院で審議入り"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（中国・深圳）"
+  },
+  {
+   "when": "12/12",
+   "what": "臨時国会の会期末"
+  }
+ ]
+}
