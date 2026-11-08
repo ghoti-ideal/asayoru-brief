@@ -1,0 +1,262 @@
+{
+ "date": "2026-11-09",
+ "slot": "am",
+ "key": 2026110901,
+ "generatedAt": "2026-11-09T06:57:27+09:00",
+ "brief": [
+  "愛知・静岡の地震でけが人は計22人に。日越首脳は9日に会談する。",
+  "アイゼンコット氏が正式に組閣へ。トランプ氏はイラン再攻撃の可能性は低いと発言。",
+  "COP31が9日に開幕。ポーランドは銃撃事件をテロとして捜査。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "society",
+   "lead": true,
+   "title": "愛知・静岡の地震、けが人は計22人に",
+   "summary": "建物の一部損壊や断水も出た。揺れの強かった地域では1週間程度、同程度の揺れに注意が必要。",
+   "body": "8日午前1時4分ごろの静岡県西部を震源とする地震（M5.7）で、愛知県と静岡県で計22人がけがをした。日本テレビによると、愛知県内では住宅や公共施設など8棟が一部損壊し、東浦町では約15軒で断水した。気象庁は揺れの強かった地域で1週間程度、同程度の地震に注意するよう呼びかけている。",
+   "visual": {
+    "kicker": "けが人（愛知・静岡）",
+    "figure": "22",
+    "unit": "人",
+    "caption": "愛知県知多市で最大震度5強"
+   },
+   "sources": [
+    {
+     "name": "中日新聞（11/8）",
+     "url": "https://www.chunichi.co.jp/article/1336396"
+    },
+    {
+     "name": "日テレNEWS（Yahoo!、11/8）",
+     "url": "https://news.yahoo.co.jp/articles/2aa7e0f0834aa22d3bcc52e124307f62f1cd40e1"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日越首脳会談、逮捕者の相互通報で新協定へ",
+   "summary": "相手国の人を逮捕したとき、本人の同意がなくても互いに知らせる協定の締結方針を確認する見通し。",
+   "body": "高市首相とベトナムのトー・ラム共産党書記長兼国家主席は9日に会談する。時事通信によると、自国内で逮捕・拘束した相手国民の情報を、本人の同意がなくても相互に通報する新協定の締結方針を確認する見通し。警察庁によると、2025年のベトナム人の検挙件数は前年比約11%増の1万773件だった。",
+   "sources": [
+    {
+     "name": "時事通信（11/3）",
+     "url": "https://www.jiji.com/jc/article?k=2026110300379&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、自民政調会長「制度が分かる審議を」",
+   "summary": "参院では野党の賛成も得て成立させたい考えを示した。法案は11日に参院で審議が始まる。",
+   "body": "自民党の小林政務調査会長は、食料品の消費税減税関連法案について、参院では制度の具体的なイメージがわくような審議が必要だと述べた。そのうえで、野党の賛同も得て成立を図りたいとの考えを強調した。法案は11日に参院で審議入りする。",
+   "sources": [
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72482"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "東北の景気判断「持ち直している」で据え置き",
+   "summary": "AIの需要が広がり、半導体関連の生産や受注が増えている。個人消費も一部に弱さはあるが持ち直している。",
+   "body": "東北財務局は10月の管内経済情勢報告で、景気の判断を「持ち直している」のまま据え置いた。AI需要を背景に企業の生産が増えていることなどを挙げた。個人消費は一部に弱さがみられるものの、持ち直しているとした。",
+   "sources": [
+    {
+     "name": "NHK（11/7）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261107de72016"
+    },
+    {
+     "name": "東北財務局（11/5）",
+     "url": "https://lfb.mof.go.jp/tohoku/content/tohoku_jousei20261105.pdf"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "網走市長選、現職の水谷氏が5回目の当選",
+   "summary": "8日に投票が行われ、無所属の現職が元市議の新人を破った。",
+   "body": "8日に投票が行われた北海道網走市の市長選挙で、無所属で現職の水谷洋一氏が、元市議会議員の新人を抑えて5回目の当選を果たした。",
+   "sources": [
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72626"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "泊原発の訓練、装甲車で孤立地域から避難",
+   "summary": "地震と原発事故が重なり、地域が孤立した場合を想定した。国の訓練は8日で最終日だった。",
+   "body": "北海道電力泊原子力発電所で事故が起きたと想定した国の原子力総合防災訓練は8日、最終日を迎えた。地震などの複合災害で孤立した地域から、住民が装甲車に乗って避難する流れを確認した。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/8）",
+     "url": "https://news.yahoo.co.jp/articles/53b37268c698e8c3d3e22beb2a7a4958939cc04f"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "イスラエル、アイゼンコット氏が正式に組閣へ",
+   "summary": "28日以内に過半数の連立をつくる必要がある。本人は「国家緊急政権」をつくると訴えた。",
+   "body": "イスラエルのヘルツォグ大統領は現地時間8日、野党のアイゼンコット氏に正式に組閣を指示した。期限は28日間で、最大14日延長できる。アイゼンコット氏は式典で「国家緊急政権」の樹立を目指すと述べ、「型にはまらない政治的な手段が必要になる」とした。",
+   "visual": {
+    "kicker": "組閣の期限",
+    "figure": "28",
+    "unit": "日",
+    "caption": "最大14日の延長が可能"
+   },
+   "sources": [
+    {
+     "name": "Jerusalem Post（11/8）",
+     "url": "https://www.jpost.com/israel-election-2026/article-914236"
+    },
+    {
+     "name": "Times of Israel（11/8）",
+     "url": "https://www.timesofisrael.com/liveblog_entry/watch-eisenkot-receives-mandate-to-form-next-government-in-official-ceremony"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、イランへの再攻撃「可能性低い」",
+   "summary": "協議が進めばという条件付き。イラン外相は攻撃が再開すれば激しく反撃すると警告した。",
+   "body": "トランプ大統領は米東部時間8日（日本時間9日）、CNNの電話インタビューで、核問題やホルムズ海峡をめぐる協議が進めば、イランへの攻撃再開は「可能性が非常に低い」と述べた。一方、必要なら攻撃する余地も残した。イランのアラグチ外相は、米国が攻撃を再開すれば激しく反撃すると警告した。",
+   "sources": [
+    {
+     "name": "CNN（11/8）",
+     "url": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran"
+    },
+    {
+     "name": "Al Jazeera（11/8）",
+     "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナでロシアの攻撃、85万人が停電",
+   "summary": "東部や北東部の電力施設が狙われた。一部では電気が戻りつつある。",
+   "body": "ロシアによるエネルギー施設への攻撃で、ウクライナのドニプロペトロウシク州とハルキウ州で約85万人が停電した。電力会社によると、ドニプロペトロウシク州では60万人超が影響を受け、徐々に復旧している。米国の仲介による和平協議は10〜11日にアブダビで開かれる予定。",
+   "sources": [
+    {
+     "name": "Euronews（11/8）",
+     "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+    },
+    {
+     "name": "Al Jazeera（11/8）",
+     "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ポーランド、銃撃事件をテロとして捜査",
+   "summary": "古都クラクフの中心部で6人が死亡した。政府は2日間の国の服喪を決めた。",
+   "body": "ポーランド南部クラクフの中心部の広場で7日、男が銃を乱射し、6人が死亡、10人以上がけがをした。検察は事件をテロとして捜査を始め、国は8日と9日を服喪の日とした。当局によると、容疑者の男は極右思想に傾倒していたとみられる。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/8）",
+     "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe"
+    },
+    {
+     "name": "Notes from Poland（11/8）",
+     "url": "https://notesfrompoland.com/2026/11/08/prosecutors-launcher-terror-investigation-as-poland-reels-from-fatal-shootings/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "韓国、金融機関580社のセキュリティーを一斉点検",
+   "summary": "1か月で37社から情報が流出したため。暗号資産の業者も対象に含める。",
+   "body": "韓国の金融委員会は、年内に約580社の金融関連企業のセキュリティーを総点検する。SBSによると、過去1か月に37社から約47万3000件の情報が流出し、約10億ウォンが盗まれた。これまで金融の安全規制の外にあった暗号資産の業者も対象に含める。",
+   "sources": [
+    {
+     "name": "SBS（11/5）",
+     "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008831581"
+    },
+    {
+     "name": "South China Morning Post（11/7）",
+     "url": "https://www.scmp.com/week-asia/economics/article/3373363/south-korea-investigates-580-finance-firms-over-data-leaks-issues-warning"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31が開幕、議長国トルコは電化を訴え",
+   "summary": "電気がエネルギー需要に占める割合を高める構想を掲げる。化石燃料をめぐる合意は難しい見通し。",
+   "body": "国連の気候変動会議COP31が9日、トルコのアンタルヤで始まる。会期は20日まで。議長を務めるトルコのクルム環境相は、2035年までに世界のエネルギー需要に占める電気の割合を35%にする構想を進める。化石燃料をめぐる合意は難しいとみられている。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/8）",
+     "url": "https://www.france24.com/en/live-news/20261108-turkey-s-cop31-message-electrify-recycle-don-t-mention-coal"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ローマ教皇、南米で女性への暴力に言及",
+   "summary": "夫に妻を尊重するよう求めた。8日にはアルゼンチンに入り、ミレイ大統領と会う予定。",
+   "body": "南米を訪問中のローマ教皇レオ14世は、中南米で女性の殺害が深刻になっていることを背景に、夫たちに妻を尊重するよう呼びかけた。教皇は現地時間8日にウルグアイからアルゼンチンに入り、ミレイ大統領と会談する予定。",
+   "sources": [
+    {
+     "name": "France 24（11/8）",
+     "url": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america"
+    },
+    {
+     "name": "Buenos Aires Times",
+     "url": "https://www.batimes.com.ar/news/argentina/milei-welcome-broadcasts-and-a-vp-thaw-quirno-confirms-details-of-pope-leos-visit-to-argentina.phtml"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "土地取得規制法案が衆院で審議入り"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/11",
+   "what": "消費減税法案が参院で審議入り"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  }
+ ]
+}
