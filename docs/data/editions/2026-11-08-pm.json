@@ -1,0 +1,257 @@
+{
+ "date": "2026-11-08",
+ "slot": "pm",
+ "key": 2026110802,
+ "generatedAt": "2026-11-08T18:57:25+09:00",
+ "brief": [
+  "愛知の震度5強で気象庁は1週間程度の注意を呼びかけ。消費減税法案は11日に参院審議入り。",
+  "米軍がイランの陸上の物流を断つ部隊を新設。ウクライナ和平協議は10日から。",
+  "イスラエルの組閣は難航も。COP31は9日に開幕し、削減策が焦点。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "society",
+   "lead": true,
+   "title": "愛知の震度5強、気象庁「1週間程度注意」",
+   "summary": "同じ程度の揺れが起きるおそれがあるとして注意を呼びかけた。けが人は愛知と静岡で出ている。",
+   "body": "8日午前1時すぎに愛知県で最大震度5強を観測した地震について、気象庁は今後1週間程度、同じ程度の揺れに注意するよう呼びかけた。NHKによると、愛知県内では午前3時の時点で8人がけがをし、静岡県でも転倒などで軽いけがをした人がいる。JR東海の在来線は点検のため始発から運転を見合わせた。",
+   "visual": {
+    "kicker": "同程度の揺れに注意",
+    "figure": "1週間",
+    "unit": "程度",
+    "caption": "8日未明、愛知で最大震度5強"
+   },
+   "sources": [
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72435"
+    },
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72299"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "首相、拉致問題の集会で日朝首脳会談に意欲",
+   "summary": "自分の在任中に解決への突破口を開く決意を改めて示した。",
+   "body": "高市首相は8日、東京都内で開かれた拉致問題に関する集会で、日朝首脳会談への意欲を重ねて示した。在任中に突破口を開く決意も改めて述べた。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/8）",
+     "url": "https://news.yahoo.co.jp/articles/848e9d6a0b70190c6f6040060bff83df69764940"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、11日から参院で審議",
+   "summary": "与党は参院で過半数に届かず、国民民主党と公明党の理解を得たい考え。両党は内容に注文をつけている。",
+   "body": "衆院を通過した消費税減税関連法案は、11日から参院で審議が始まる。参院は与党が少数のため、政府・与党は国民民主党と公明党の理解を得たい考え。国民民主党は住民税の控除の引き上げなどを柱とする対案を示し、公明党は減税と所得に応じた給付を一本化している点を問題視している。",
+   "sources": [
+    {
+     "name": "時事通信（11/7）",
+     "url": "https://www.jiji.com/jc/article?k=2026110700339&g=pol"
+    },
+    {
+     "name": "KSB瀬戸内海放送（ANN、11/6）",
+     "url": "https://news.ksb.co.jp/ann/article/17031098"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "北海道で雪の影響、死亡事故が相次ぐ",
+   "summary": "7日から日本海側を中心に雪が降っている。路面の凍結などが原因とみられる。",
+   "body": "北海道では冬型の気圧配置の影響で、7日から日本海側を中心に雪が降り、路面の凍結などが原因とみられる死亡事故が相次いだ。8日午後も日本海側で雪が降るおそれがある。",
+   "sources": [
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72443"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "東海道新幹線、架線への飛来物で一時見合わせ",
+   "summary": "東京と新横浜の間で、朝に上下線の運転を一時止めた。その後、運転を再開した。",
+   "body": "8日朝、東海道新幹線の東京―新横浜間で架線に飛来物が付着しているのが見つかり、上下線で運転を見合わせた。その後、運転を再開した。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/8）",
+     "url": "https://news.yahoo.co.jp/articles/f5d942514058a3f940368ce270d971cbb6643d6f"
+    },
+    {
+     "name": "NHK（11/8）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72365"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日銀のETF売却益、官民投資に回す構想",
+   "summary": "日銀は10月末、保有する上場投資信託の売却を速めると決めた。売却益の使い道に関心が集まる。",
+   "body": "日本経済新聞によると、日銀は10月末、保有する上場投資信託（ETF）の売却を加速することを決めた。政権が税以外の収入を増やそうとする中、売却益を官民による投資に充てる構想がある。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/8）",
+     "url": "https://www.nikkei.com/article/DGXZQODK070WZ0X01C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米軍、イランの陸上の物流を断つ部隊を新設",
+   "summary": "港の海上封鎖に加え、陸の国境やカスピ海を通る武器や制裁対象の物資の流れを止める。",
+   "body": "米中央軍は8日、イランの陸上の補給路を断つ任務部隊「アイアン・ゲート」を設けると発表した。陸の国境やカスピ海を通る先端兵器や軍民両用の技術、制裁対象の物資の移動を阻む。財務省や国務省なども関わる見通し。米軍はすでにイランの港を海上で封鎖している。",
+   "visual": {
+    "kicker": "米軍の新たな任務部隊",
+    "figure": "アイアン・ゲート",
+    "caption": "陸上の補給路を断つ"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（11/8）",
+     "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+    },
+    {
+     "name": "CNBC（11/7）",
+     "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナ、10日からの和平協議前に攻撃続く",
+   "summary": "ゼレンスキー大統領は電力施設や橋への新たな攻撃が準備されていると警告した。",
+   "body": "ウクライナでは、ロシアの攻撃で過去1日に5人が死亡、10人がけがをした。支援物資の配布所へのロシアの攻撃による死者は55人に増えた。米国の仲介による協議は10〜11日にアブダビで開かれ、ウクライナ側はウメロフ氏が代表を務める。ゼレンスキー大統領は、エネルギー施設やドニプロ川の橋への新たな攻撃が準備されているとの情報があると述べた。",
+   "sources": [
+    {
+     "name": "Kyiv Independent（11/8）",
+     "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-10-in-ukraine-over-the-past-day-striking-zaporizhzhia-oblast-over-700-times"
+    },
+    {
+     "name": "Al Jazeera（11/7）",
+     "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イスラエル、アイゼンコット氏の組閣は難航も",
+   "summary": "大統領は8日に正式に組閣を指示する。過半数には宗教政党の協力が必要だが、見通しは立たない。",
+   "body": "ヘルツォグ大統領は現地時間8日午後5時（日本時間9日午前0時）、アイゼンコット氏に正式に組閣を指示する。期限は28日間で、最大14日延長できる。過半数の61議席に届くには超正統派の2党の協力が必要だが、シャス党の党首はネタニヤフ首相を推しており、交渉に入るのも難しいとの見方がある。",
+   "sources": [
+    {
+     "name": "Times of Israel（11/8）",
+     "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ローマ教皇、南米訪問でアルゼンチンへ",
+   "summary": "がんの手術から3週間で南米を回る。アルゼンチンではミレイ大統領と会う。",
+   "body": "ローマ教皇レオ14世は6日にウルグアイに到着し、南米を回る12日間の訪問を始めた。肺がんの手術から3週間後の訪問となる。8日にはアルゼンチンに入り、ミレイ大統領と会う。訪問は17日にペルーで終わる。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/7）",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders"
+    },
+    {
+     "name": "France 24（11/6）",
+     "url": "https://www.france24.com/en/americas/20261106-pope-leo-arrives-in-uruguay-for-first-stop-on-12-day-south-america-tour"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米FRB、12月に追加利上げの公算",
+   "summary": "10月の雇用者数が大きく伸び、物価の安定を優先するとの見方が強まっている。",
+   "body": "時事通信によると、米国の10月の雇用統計で雇用者数の伸びが加速したことを受け、米連邦準備制度理事会（FRB）が12月の会合で追加利上げに踏み切る公算が大きくなっている。",
+   "sources": [
+    {
+     "name": "時事通信（11/7）",
+     "url": "https://www.jiji.com/jc/article?k=2026110700326&g=int"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31が9日開幕、削減策の具体化が焦点",
+   "summary": "トルコで20日まで開かれる。温室効果ガスを減らす具体策がまとまるかが注目される。",
+   "body": "国連気候変動枠組み条約第31回締約国会議（COP31）が9日、トルコのアンタルヤで開幕する。会期は20日まで。温室効果ガスの削減策の具体化が焦点となる。",
+   "sources": [
+    {
+     "name": "時事通信（11/7）",
+     "url": "https://www.jiji.com/jc/article?k=2026110700337&g=soc"
+    },
+    {
+     "name": "France 24（AFP、11/6）",
+     "url": "https://www.france24.com/en/live-news/20261106-cop31-faces-tough-test-as-climate-threats-mount-1"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "science",
+   "title": "NASAの火星探査機、地球のそばを通過",
+   "summary": "火星に向かう2機の探査機が地球の重力を使って加速する。2機目は9日に通過する。",
+   "body": "NASAの火星探査機「ESCAPADE」の1機目が7日に地球のそばを通過し、地球の重力を使って火星へ向かう軌道に入る予定だった。2機目は9日に通過する。研究チームは、観測した地球の磁気圏の様子について近く発表するとしている。",
+   "sources": [
+    {
+     "name": "NASA（11/2）",
+     "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/9",
+   "what": "日越首脳会談"
+  },
+  {
+   "when": "11/9 0:00",
+   "what": "イスラエル大統領が組閣を正式に指示"
+  },
+  {
+   "when": "11/9〜20",
+   "what": "COP31（トルコ・アンタルヤ）"
+  },
+  {
+   "when": "11/10",
+   "what": "土地取得規制法案が衆院で審議入り"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/11",
+   "what": "消費減税法案が参院で審議入り"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  }
+ ]
+}
