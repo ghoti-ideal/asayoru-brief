@@ -1,0 +1,266 @@
+{
+ "date": "2026-11-09",
+ "slot": "pm",
+ "key": 2026110902,
+ "generatedAt": "2026-11-09T18:57:32+09:00",
+ "brief": [
+  "日経平均は1340円高で6日ぶり反発。衆院定数31削減の法案原案がまとまった。",
+  "南アの統一地方選で与党の得票は3割。トランプ氏はイランへの陸上封鎖開始を表明。",
+  "COP31がトルコで開幕。都心は今季一番の寒さで、台風32号が小笠原へ。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が1340円高、6日ぶりに反発",
+   "summary": "前週末に米国のハイテク株が上がった流れを受け、半導体株などが買い戻された。",
+   "body": "週明け9日の東京株式市場で、日経平均株価は前週末比1340円73銭高の5万8775円50銭で取引を終え、6日ぶりに反発した。取引時間中には上げ幅が2000円を超える場面もあった。米国の半導体株高を受けた買い戻しが優勢となった。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "58,775.50",
+    "unit": "円",
+    "caption": "前週末比 +1340.73円"
+   },
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/9）",
+     "url": "https://news.yahoo.co.jp/articles/b2076ad63b8c413d69882670fd8c36a7ea9460a3"
+    },
+    {
+     "name": "株探（11/9）",
+     "url": "https://kabutan.jp/news/marketnews/?b=n202611091226"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "日越首脳会談、原子力や重要鉱物で協力へ",
+   "summary": "共同声明の発表に向けて調整した。日本産ブドウの輸出解禁や法整備の支援も盛り込む見通し。",
+   "body": "高市首相は9日、ベトナムのトー・ラム共産党書記長兼国家主席と会談した。NHKによると、重要鉱物の供給網の強化や原子力分野の連携などを共同声明として発表する方向で調整した。共同通信によると、AI時代に対応する法整備の協力強化や、日本産ブドウとベトナム産のかんきつ類ポメロの相互輸入解禁も合意文書に盛り込む見通し。",
+   "sources": [
+    {
+     "name": "NHK（11/9）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261108de72624"
+    },
+    {
+     "name": "共同通信（Yahoo!）",
+     "url": "https://news.yahoo.co.jp/articles/5983489e541fee834af0684338243ac5870aa87e"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "参院の野党6党、消費減税の審議に首相出席を要求",
+   "summary": "新しく設ける特別委員会での審議に首相が出るよう求める。法案は11日に参院本会議で審議に入る。",
+   "body": "参院の野党6党は9日、消費税減税関連法案を審議する特別委員会での審議入りにあたり、高市首相の出席を与党に重ねて求める方針を確認した。時事通信によると、法案は11日の参院本会議で趣旨説明と質疑が行われ、特別委員会では13日から実質的な審議に入る見通し。自民党と日本維新の会は、成立に向けて参院でも緊密に連携することを確認した。",
+   "sources": [
+    {
+     "name": "NHK（11/9）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261109de72947"
+    },
+    {
+     "name": "時事通信（11/7）",
+     "url": "https://www.jiji.com/jc/article?k=2026110700339&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "衆院定数31削減、3党が法案の原案をまとめる",
+   "summary": "比例代表を31議席減らし434議席にする。12日にも国会に共同で提出する方針。",
+   "body": "自民党、日本維新の会、国民民主党の実務者は9日、衆院の比例代表の定数を31議席減らして434議席にする法案の原案をまとめた。比例の議席配分の方式を「修正サン・ラグ方式」に変えることも盛り込んだ。3党は各党の了承を経て、12日にも国会に共同提出することを目指す。",
+   "sources": [
+    {
+     "name": "TBS NEWS DIG（Yahoo!、11/9）",
+     "url": "https://news.yahoo.co.jp/articles/aae430bcd66079dec953c20efde2de9d9c6f4f09"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "コメ価格の見通し指数が上昇",
+   "summary": "長雨で収量が減るとの懸念から、価格は今の水準で推移するとみる人が増えた。",
+   "body": "向こう3か月のコメ価格の見通しを示す先月の指数は、前の月より上昇した。各地の長雨で収量が減るとの懸念から、価格は現在の水準で推移するとみる向きが増えている。",
+   "sources": [
+    {
+     "name": "NHK（11/9）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261109de72985"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "都心で今季一番の寒さ、台風32号は小笠原へ",
+   "summary": "東京都心は朝の気温が今季初めて10度を下回った。小笠原諸島では高波に警戒が必要。",
+   "body": "9日朝の東京都心の最低気温は8.6度で、今季初めて一桁となった。日中も気温が上がらず、1月並みの寒さとなった。全国で冬日の地点は今季最多の154地点だった。台風32号は11日ごろ、強い勢力で小笠原諸島に近づくおそれがある。",
+   "sources": [
+    {
+     "name": "tenki.jp（11/9）",
+     "url": "https://tenki.jp/lite/forecaster/kubo_tomoko/2026/11/09/41254.html"
+    },
+    {
+     "name": "ウェザーニュース（11/8）",
+     "url": "https://weathernews.jp/news/202611/080081"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "肺高血圧症の新薬候補、効能追加の治験を開始",
+   "summary": "今ある薬を別の病気に使う開発で、2030年以降の承認申請を目指す。",
+   "body": "バイタルケーエスケー・ホールディングスは9日、傘下のメドリープファーマ（仙台市）が開発中の肺高血圧症向けの新薬候補について、効能を追加するための新たな治験を始めたと発表した。既存の薬を別の病気の治療に使う開発で、2030年以降の承認申請を目指す。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/9）",
+     "url": "https://www.nikkei.com/article/DGXZQOCC094770Z01C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "南ア統一地方選、与党ANCが第1党も得票3割",
+   "summary": "どの党も過半数に届かない議会が大きく増えた。各地で連立協議が始まる。",
+   "body": "南アフリカの選挙管理委員会は8日、4日に行われた統一地方選挙の最終結果を発表した。与党のアフリカ民族会議（ANC）が得票率約30.76%で第1党となり、民主同盟（DA）が約24.64%で続いた。ANCが単独で過半数を握った自治体は53にとどまった。過半数を持つ党がない議会は、2021年の70から142に増えた。",
+   "visual": {
+    "kicker": "与党ANCの得票率",
+    "figure": "30.76",
+    "unit": "%",
+    "caption": "過半数のない議会は142に"
+   },
+   "sources": [
+    {
+     "name": "Mail & Guardian（11/8）",
+     "url": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/"
+    },
+    {
+     "name": "The Citizen（11/8）",
+     "url": "https://www.citizen.co.za/news/anc-2026-local-government-election-ramaphosa-coalition/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、イランへの陸上封鎖が始まったと表明",
+   "summary": "来週のAPECで中国とロシアの首脳とイランの非核化について話すとした。",
+   "body": "トランプ大統領は、米軍によるイランの陸上の補給路の封鎖が始まったと述べた。港の海上封鎖とあわせて続ける。トランプ氏は、来週中国・深圳で開かれるAPECで習近平国家主席やプーチン大統領と、イランの「非核化」について話す考えを示した。イランは、7つの条件が満たされない限り交渉や海峡の再開に応じないとしている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/9）",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq"
+    },
+    {
+     "name": "CNN（11/9）",
+     "url": "https://cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米上院選、アラスカとミシシッピはなお接戦",
+   "summary": "どちらも差が1ポイント未満で、結果が出るまで時間がかかる見通し。",
+   "body": "米中間選挙の上院選のうち、アラスカ州とミシシッピ州はなお当選者が決まっていない。アラスカ州は民主党のペルトラ氏が48.2%、共和党のサリバン氏が47.9%で、順位付け投票の集計に進む。ミシシッピ州は民主党のコロム氏が49.1%、共和党のハイドスミス氏が48.8%となっている。",
+   "sources": [
+    {
+     "name": "NewsNation",
+     "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/mississippi-alaska-senate-races-not-called/"
+    },
+    {
+     "name": "WHEC",
+     "url": "https://www.whec.com/top-news/alaska-and-mississippi-senate-races-still-too-close-to-call-along-with-nearly-50-house-races/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "アジアの株式市場が反発、台湾は大幅高",
+   "summary": "前週末に米国株が値上がりした流れを受けた。前の週はハイテク株の急落が続いていた。",
+   "body": "9日のアジアの株式市場は、日本、韓国、台湾、香港の主な指数が値上がりした。Al Jazeeraによると、日本時間午後1時の時点で日経平均株価は3.45%高、台湾の加権指数は5.72%高、韓国総合株価指数は1.68%高だった。前週は米国の中間選挙の結果を受けたハイテク株の急落が続いていた。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/9）",
+     "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31がトルコで開幕",
+   "summary": "20日まで開かれ、10万人以上が集まる見込み。議長国は電化を議題の中心に据える。",
+   "body": "国連の気候変動会議COP31が9日、トルコのアンタルヤで開幕した。会期は20日まで。議長国トルコは電化を中心的なテーマに掲げ、交渉はオーストラリアが主導する。環境団体からは、電化の誓約は増える電気を低炭素の電源でまかなうことを求めていないとの批判が出ている。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/9）",
+     "url": "https://www.france24.com/en/live-news/20261109-cop31-opens-as-climate-and-geopolitical-pressures-mount"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/events/cop31"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ローマ教皇、アルゼンチンで「権力の限界」説く",
+   "summary": "ミレイ大統領と会談した後の演説で、権威は奉仕として使うべきだと述べた。",
+   "body": "南米を訪問中のローマ教皇レオ14世は8日、アルゼンチンでミレイ大統領と会談した。その後の演説で、民主主義を守り権力には限界があるべきだと訴え、「権威は奉仕として行使されるとき最も本物になる」と述べた。経済は人々に仕えるべきだとも語った。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/8）",
+     "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+    },
+    {
+     "name": "Buenos Aires Times（11/8）",
+     "url": "https://batimes.com.ar/news/argentina/pope-leo-sends-milei-a-message-during-argentina-visit.phtml"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/10",
+   "what": "土地取得規制法案が衆院で審議入り"
+  },
+  {
+   "when": "11/10〜11",
+   "what": "米ロ・ウクライナ3者協議（アブダビ）"
+  },
+  {
+   "when": "11/11",
+   "what": "消費減税法案が参院本会議で審議入り"
+  },
+  {
+   "when": "11/12",
+   "what": "衆院定数削減法案を国会に提出へ"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  }
+ ]
+}
