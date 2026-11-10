@@ -1,0 +1,258 @@
+{
+ "date": "2026-11-11",
+ "slot": "am",
+ "key": 2026111101,
+ "generatedAt": "2026-11-11T06:55:31+09:00",
+ "brief": [
+  "ソフトバンクGは4〜9月期に7680億円の赤字。台風32号が小笠原に最接近。",
+  "米国の10月の物価は0.4%上昇で予想超え。12月の利上げ観測が強まった。",
+  "ウクライナ和平協議の初日は「建設的」。DV被害者情報の漏えい119件に総務相が遺憾。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "ソフトバンクG、4〜9月期は7680億円の赤字",
+   "summary": "米国のデータセンター計画を見直し、発電設備などで損失を出した。前年同期は大幅な黒字だった。",
+   "body": "ソフトバンクグループは10日、2026年4〜9月期の連結最終損益が7680億円の赤字だったと発表した。前年同期は2兆9240億円の黒字だった。米国のAIデータセンター計画の見直しに伴い、前倒しで調達していた発電関連設備で約6000億円の損失を計上した。売上高は前年同期比13.3%増の4兆2350億円だった。",
+   "visual": {
+    "kicker": "4〜9月期の最終損益",
+    "figure": "-7680",
+    "unit": "億円",
+    "caption": "前年同期は2兆9240億円の黒字"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/10）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB103RY0Q6A111C2000000/"
+    },
+    {
+     "name": "NHK（11/10）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73545"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "非常に強い台風32号、小笠原諸島に最接近",
+   "summary": "父島と母島が暴風域に入った。11日にかけて非常に強い風と大しけに警戒が必要。",
+   "body": "非常に強い台風32号は10日午後10時、父島の南南東約80キロにあり、中心気圧は960ヘクトパスカル。母島と父島は風速25メートル以上の暴風域に入った。小笠原諸島では11日にかけて非常に強い風が吹き、うねりを伴って大しけとなる所がある。台風はその後、東へ進んで日本から離れる見込み。",
+   "sources": [
+    {
+     "name": "ウェザーニュース（11/10）",
+     "url": "https://weathernews.jp/news/202611/100291/"
+    },
+    {
+     "name": "tenki.jp（11/10）",
+     "url": "https://tenki.jp/forecaster/gureweather/2026/11/10/41276.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "国家安保戦略、「根本的な変革期」と明記へ",
+   "summary": "年内に改める戦略の骨格案で、国際社会の現状をこう位置づける方向。",
+   "body": "共同通信によると、政府が年内に改定する国家安全保障戦略の骨格案で、国際社会が根本的な変革期にあると明記する方向となった。自民党と日本維新の会は10日から、安全保障関連3文書の改定に向けた協議を始めている。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/10）",
+     "url": "https://news.yahoo.co.jp/articles/3910bfdded2e98aa791d4de4eba21ed3e36b5cc5"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "自民・萩生田氏、石破氏ら処分は「迅速な対応が必要」",
+   "summary": "参院での消費減税法案の審議を前に、早く処分する必要があったと説明した。",
+   "body": "自民党の萩生田幹事長代行は10日、消費税減税関連法案の採決前に本会議を退席した石破前首相ら4人を戒告処分にしたことについて、参院での審議を控え、迅速な対応が必要だったと説明した。法案は11日に参院本会議で審議入りする。",
+   "sources": [
+    {
+     "name": "NHK（11/10）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73396"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "DV被害者の情報漏えい119件、総務相「遺憾」",
+   "summary": "自治体が守るべき被害者の住所などを誤って加害者側に伝えていた。2016年度以降の件数。",
+   "body": "藤井総務相は10日、DVやストーカーの被害者を守る支援措置の対象者の情報を、自治体が誤って加害者側に漏らした事案が2016年度から昨年度までに119件あったことについて「遺憾だ」と述べた。支援措置は、加害者が住民票などを請求しても交付を制限する仕組み。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/10）",
+     "url": "https://news.yahoo.co.jp/articles/d8a93086f44a1a9952fa42b5f537031a3571e6f4"
+    },
+    {
+     "name": "神奈川新聞（共同、11/3）",
+     "url": "https://www.kanaloco.jp/news/social/article-1317692.html"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "不正アプリでスマホを遠隔操作か、全国初の逮捕",
+   "summary": "不正なアプリを通じて他人のスマートフォンを操作したとして、中国籍の男2人が逮捕された。",
+   "body": "共同通信によると、福岡県警などは10日までに、不正なアプリを通じてスマートフォンを遠隔操作したとみられる中国籍の男2人を詐欺の疑いで逮捕した。この手口での逮捕は全国で初めて。警察庁は、SNS広告などから不正アプリを入れないよう注意を呼びかけている。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/10）",
+     "url": "https://news.yahoo.co.jp/articles/f035b09b295f46cd6c506b5a92e844ad182ba781"
+    },
+    {
+     "name": "警察庁",
+     "url": "https://www.npa.go.jp/bureau/cyber/pdf/R8_Vol.18cpal.pdf"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "米消費者物価、10月は0.4%上昇で予想上回る",
+   "summary": "食料品やガソリンが上がった。米中央銀行が12月に利上げする見方が強まった。",
+   "body": "米労働省が10日に発表した10月の消費者物価指数（CPI）は前月比0.4%上昇し、市場予想の0.3%を上回った。値動きの大きい食品とエネルギーを除く指数は0.3%上昇した。住居費が上昇分の3割余りを占めた。2025年10月のデータが政府機関の閉鎖で集められなかったため、前年同月比は公表されなかった。",
+   "visual": {
+    "kicker": "米CPI 前月比",
+    "figure": "0.4",
+    "unit": "%",
+    "caption": "市場予想は0.3%"
+   },
+   "sources": [
+    {
+     "name": "CNBC（11/10）",
+     "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    },
+    {
+     "name": "米労働統計局",
+     "url": "https://www.bls.gov/news.release/cpi.nr0.htm"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "NY株は反落、物価指標を受けて売り",
+   "summary": "物価上昇を受けて利上げ観測が強まり、ハイテク株を中心に売られた。",
+   "body": "米東部時間10日（日本時間11日朝）のニューヨーク株式市場は、予想を上回る消費者物価の伸びを受けて主要3指数がそろって下落した。ナスダック総合指数の下げが大きく、エヌビディア株は約5%下げた。",
+   "sources": [
+    {
+     "name": "TheStreet（11/10）",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+    },
+    {
+     "name": "Yahoo Finance（11/10）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナ和平協議の初日、「建設的」と大統領",
+   "summary": "米国は双方の溝が縮まったとした。11日も協議を続け、捕虜の大規模な交換などを話し合う。",
+   "body": "アブダビで10日に始まった米国、ロシア、ウクライナの協議について、ゼレンスキー大統領は「建設的で中身があった」と述べた。米国のクシュナー氏は双方の溝を縮めたとしたが、詳細は明らかにしていない。大規模な捕虜交換などが話し合われた。ロシアのラブロフ外相は、先の見通しがないまま即時停戦には応じないとしている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/10）",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+    },
+    {
+     "name": "Euronews（11/10）",
+     "url": "https://www.euronews.com/2026/11/10/ukraine-and-russia-reportedly-show-a-little-bit-of-flexibility-on-territory-as-abu-dhabi-t"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "南ア警察、ロシア軍参加を図った外国人を拘束",
+   "summary": "ウクライナでの戦闘に加わるためロシアに向かおうとしたとみられる9人を拘束した。",
+   "body": "南アフリカの警察は、ウクライナでロシア側として戦うためにロシアへ向かおうとしたとみられる外国籍の9人を、ヨハネスブルクの空港と近くのホテルで拘束した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/9）",
+     "url": "https://www.aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ローマ教皇、アルゼンチンで250万人とミサ",
+   "summary": "南米訪問の一環。8日にはミレイ大統領と会った後の演説で、権力の限界を説いていた。",
+   "body": "時事通信によると、南米を訪問中のローマ教皇レオ14世は、アルゼンチンで約250万人が参加するミサを行った。教皇は8日、ミレイ大統領と会談した後の演説で、権力には限界があるべきだと述べていた。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000160&g=int"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "エヌビディアに株主が集団訴訟",
+   "summary": "最高経営責任者をめぐるスパイ疑惑を受けた動き。株価は10日も大きく下げた。",
+   "body": "時事通信によると、米半導体大手エヌビディアの株主が、最高経営責任者のジェンスン・フアン氏をめぐるスパイ疑惑に関連して集団訴訟を起こした。フアン氏が交際していた女性は中国の情報機関との関係が疑われ、FBIが調べている。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000790&g=int"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "イランでの戦争で炭素排出が減少、研究者が発表",
+   "summary": "気候変動の研究グループがCOP31の会期中に公表した。",
+   "body": "時事通信によると、気候変動の調査グループはトルコで開かれているCOP31で、イランへの攻撃をきっかけに炭素の排出量が減ったとする調査結果を発表した。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000663&g=int"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/11",
+   "what": "消費減税法案が参院本会議で審議入り"
+  },
+  {
+   "when": "11/12",
+   "what": "衆院定数削減法案を国会に提出へ"
+  },
+  {
+   "when": "11/13",
+   "what": "参院特別委で消費減税法案の審議開始"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18",
+   "what": "エヌビディアCEOの議会証言（要請）"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  }
+ ]
+}
