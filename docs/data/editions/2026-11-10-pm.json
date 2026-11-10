@@ -1,0 +1,250 @@
+{
+ "date": "2026-11-10",
+ "slot": "pm",
+ "key": 2026111002,
+ "generatedAt": "2026-11-10T18:54:53+09:00",
+ "brief": [
+  "日経平均は1684円高で6万円台を回復。9月の消費支出は6.8%減った。",
+  "米ロ・ウクライナがアブダビで協議を開始。トランプ氏はイラン戦争は事実上終了と発言。",
+  "中国の10月輸入は41.6%増。台風32号が小笠原諸島に接近している。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が1684円高、6万円台を回復",
+   "summary": "前日の米国株高や原油安を受けて買いが広がった。2日続けて大きく値上がりした。",
+   "body": "10日の東京株式市場で、日経平均株価は前日比1684円08銭高の6万0459円58銭で取引を終え、終値で6万円台を回復した。東証株価指数（TOPIX）の終値は3893.71だった。前日の米国株高や原油安が追い風となった。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "60,459.58",
+    "unit": "円",
+    "caption": "前日比 +1684.08円"
+   },
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/10）",
+     "url": "https://news.yahoo.co.jp/articles/1568a35028611dd2eb22810df9132a264b12599a"
+    },
+    {
+     "name": "共同通信（OANDA、11/10）",
+     "url": "https://www.oanda.jp/lab-education/market_news/kn_2026111001001948/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "9月の消費支出6.8%減、10か月連続マイナス",
+   "summary": "減少幅は2020年9月以来の大きさ。天候不順が響いた。",
+   "body": "総務省が10日に発表した9月の家計調査で、2人以上の世帯の消費支出は物価の変動を除いた実質で前年同月比6.8%減り、10か月連続で前年を下回った。減少幅は2020年9月以来の大きさだった。",
+   "sources": [
+    {
+     "name": "NHK（11/10）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73268"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "上半期の経常黒字17兆円、過去2番目の水準",
+   "summary": "原油高で黒字は縮んだものの、高い水準を保った。",
+   "body": "財務省が10日に発表した2026年度上半期（4〜9月）の国際収支速報で、経常収支の黒字は17兆1482億円だった。原油価格の高騰で前年より縮小したが、上半期として過去2番目の大きさだった。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000254&g=eco&p=20261110ax02S&rel=pv"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "非常に強い台風32号、小笠原諸島に接近",
+   "summary": "10日夜遅くから11日未明に最も近づく見込みで、暴風に厳重な警戒が必要。",
+   "body": "非常に強い台風32号は、10日夜遅くから11日未明にかけて小笠原諸島に最も近づく見込みで、気象庁は暴風に厳重に警戒するよう呼びかけている。関東甲信は10日も冬のような寒さとなった。",
+   "sources": [
+    {
+     "name": "NHK（11/10）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73719"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "重要土地の規制強化法案が衆院で審議入り",
+   "summary": "ドローンを使った新しい戦い方に対応するため、土地を手に入れる段階から規制する。",
+   "body": "安全保障上重要な土地の取得への規制を強める重要土地等調査法の改正案が10日、衆院本会議で審議入りした。小野田経済安保相は、ドローンを使った新しい戦い方に対応するため、土地取得の段階で規制する必要があると述べた。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000891&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "総務省、流出情報の悪用防ぐ通信遮断を議論へ",
+   "summary": "サイバー攻撃で漏れた個人情報が使われないよう、専門家の会議で法的な整理を進める。",
+   "body": "総務省は10日、サイバー攻撃で漏えいした個人情報の悪用を防ぐため、通信へのアクセスを抑止する方法を議論する専門家会議を新設すると発表した。通信の遮断（ブロッキング）について法的な整理を進める。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000921&g=eco"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "science",
+   "title": "火星衛星探査機MMX、順調に飛行",
+   "summary": "地球から約600万キロ離れた宇宙を飛んでいる。JAXAが学会で報告した。",
+   "body": "10月に打ち上げられた日本の火星衛星探査機「MMX」が、地球からおよそ600万キロ離れた宇宙空間を順調に飛行していると、宇宙航空研究開発機構（JAXA）が学会で報告した。",
+   "sources": [
+    {
+     "name": "NHK（11/10）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261110de73663"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "lead": true,
+   "title": "中国の10月輸入が41.6%増、15年ぶりの伸び",
+   "summary": "輸出も35.2%増と高い伸びが続いた。年初からの貿易黒字は1兆ドルを超えた。",
+   "body": "中国の税関当局が10日に発表した10月の貿易統計で、輸入は前年同月比41.6%増え、2011年5月以来の伸びとなった。輸出は35.2%増だった。10月の貿易黒字は1053億ドルで、年初からの累計は1兆400億ドルに達した。米国向けの輸出は32.9%増えた。",
+   "visual": {
+    "kicker": "中国の10月輸入",
+    "figure": "41.6",
+    "unit": "%増",
+    "caption": "輸出は35.2%増"
+   },
+   "sources": [
+    {
+     "name": "CNBC（11/10）",
+     "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
+    {
+     "name": "South China Morning Post（11/10）",
+     "url": "https://www.scmp.com/economy/economic-indicators/article/3373871/chinas-imports-outpace-exports-october-beijing-seeks-address-imbalance"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米ロ・ウクライナ、アブダビで和平協議",
+   "summary": "3者協議は今年3回目。戦闘の終結や戦後の安全保障などが議題で、大きな進展は見込まれていない。",
+   "body": "米国、ロシア、ウクライナの代表が10日、アラブ首長国連邦のアブダビで協議を始めた。協議は11日までの予定。ウクライナ側は戦闘の終結、戦後の安全の保証、経済の復興、人道的な措置を優先事項に挙げた。ロシアは3者の形式にこだわり、欧州の参加は別の場での協議にとどまった。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/10）",
+     "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+    },
+    {
+     "name": "France 24（11/10）",
+     "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トランプ氏、イランとの戦争は「事実上終わった」",
+   "summary": "カタール首相との会談後に述べた。海上封鎖は続け、イラン側は発言を否定的に受け止めた。",
+   "body": "トランプ大統領は9日、カタールのムハンマド首相との会談後、イランとの戦争は軍事的には「事実上終わった」と述べた。一方で、イランの港の海上封鎖や陸上の補給路を断つ取り組みは続けるとした。戦争は「かなり早く」終わるとも述べた。イラン側は発言を「偽のニュース」だと批判した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/9）",
+     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+    },
+    {
+     "name": "CNBC（11/10）",
+     "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "サウジ、首都に向けたミサイルを迎撃",
+   "summary": "前日には石油パイプラインが攻撃を受けた。けが人は報告されていない。",
+   "body": "サウジアラビア主導の連合軍は10日、首都リヤドに向けて発射されたミサイル2発と、南部に向けたミサイル1発を迎撃したと発表した。イエメンの反政府勢力フーシ派によるものだとしている。9日には西部メディナ州で東西を結ぶ石油パイプラインが攻撃され、小規模な火災が起きたが、操業に影響はなかった。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/10）",
+     "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "エヌビディアCEOの交際問題、FBIが調査",
+   "summary": "相手の女性に中国の情報機関との関係が疑われている。トランプ氏はCEOは知らなかったと信じるとした。",
+   "body": "トランプ大統領は9日、米半導体大手エヌビディアのジェンスン・フアンCEOが交際していた女性について、FBIが調べていると明らかにした。女性は中国の情報機関のために働いていた疑いが持たれている。トランプ氏はフアン氏から知らなかったと聞き、それを信じると述べた。同社の取締役会は外部の弁護士による独立調査を始めた。中国外務省は疑惑を否定している。",
+   "sources": [
+    {
+     "name": "CNN（11/9）",
+     "url": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy"
+    },
+    {
+     "name": "CNBC（11/9）",
+     "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "化石燃料の排出量、コロナ禍以来の減少へ",
+   "summary": "研究者の推計では、今年は前年より少し減る見通し。COP31の会期中に発表された。",
+   "body": "France 24によると、トルコで開かれているCOP31の会期中に公表された研究で、化石燃料による二酸化炭素の排出量は2026年に前年より減る見通しとなった。減少すれば新型コロナウイルスの流行期以来となる。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/10）",
+     "url": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/11",
+   "what": "消費減税法案が参院本会議で審議入り"
+  },
+  {
+   "when": "11/12",
+   "what": "衆院定数削減法案を国会に提出へ"
+  },
+  {
+   "when": "11/13",
+   "what": "参院特別委で消費減税法案の審議開始"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18",
+   "what": "エヌビディアCEOの議会証言（要請）"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  }
+ ]
+}
