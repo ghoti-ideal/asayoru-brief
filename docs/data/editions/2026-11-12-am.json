@@ -1,0 +1,244 @@
+{
+ "date": "2026-11-12",
+ "slot": "am",
+ "key": 2026111201,
+ "generatedAt": "2026-11-12T06:55:13+09:00",
+ "brief": [
+  "円が1ドル＝159円台に下落し2か月ぶり安値。ドコモで全国的な通信障害が起きた。",
+  "ウクライナ和平協議は大規模な捕虜交換で合意。NY株はAI関連株が買われ反発。",
+  "インドネシア副大統領が辞意。日本などがCOP31で「化石賞」を受けた。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "円が1ドル＝159円台に下落、2か月ぶり安値",
+   "summary": "米国の利上げ観測が強まり、ドルが買われた。政府・日銀の介入への警戒も広がる。",
+   "body": "11日の外国為替市場で円相場は1ドル＝159円台に下落し、9月2日以来約2か月ぶりの円安・ドル高水準となった。米国の物価指標が予想を上回り、米連邦準備制度理事会（FRB）が12月に追加利上げに踏み切るとの見方が強まった。日本経済新聞によると、1ドル＝160円が近づき、政府・日銀による為替介入への警戒感も広がっている。",
+   "visual": {
+    "kicker": "円相場（対ドル）",
+    "figure": "159",
+    "unit": "円台",
+    "caption": "約2か月ぶりの円安水準"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/11）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB06AZ70W6A101C2000000/"
+    },
+    {
+     "name": "NHK（11/12）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261112de74514"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "ドコモで全国的な通信障害、夜に復旧",
+   "summary": "5G専用の設備を使う一部の契約者が影響を受けた。5日にも障害が起きていた。",
+   "body": "NTTドコモで11日午前10時34分ごろから全国で通信障害が起き、午後7時すぎに復旧した。影響を受けたのは、5G専用の設備だけで通信するオプション「5G SA」の契約者。基地局からの信号を処理する交換機の不具合が原因で、不正アクセスなどは確認されていない。ドコモでは5日にも通信障害が起きていた。",
+   "sources": [
+    {
+     "name": "NHK（11/11）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73934"
+    },
+    {
+     "name": "時事通信（11/11）",
+     "url": "https://www.jiji.com/jc/article?k=2026111100508&g=soc"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "science",
+   "title": "愛知の震度5強、調査委「海側プレート内の地震に注意」",
+   "summary": "南海トラフ沿いの状況の変化を示すものではないとした。",
+   "body": "政府の地震調査委員会は11日の定例会合で、8日に愛知県で最大震度5強を観測した地震（M5.7）を検討した。委員長は、南海トラフ沿いの状況の変化を示すものではないとしたうえで、震源の周辺では海側のプレートの内部で起きる地震が時折あるため注意が必要だと述べた。",
+   "sources": [
+    {
+     "name": "中日新聞（共同、11/11）",
+     "url": "https://www.chunichi.co.jp/article/1338014"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "衆院定数削減法案、12日に3党で提出へ",
+   "summary": "比例代表を31議席減らす内容。今の国会での成立を目指す。",
+   "body": "自民党、日本維新の会、国民民主党の3党は、衆院の比例代表の定数を31削減することなどを盛り込んだ法案を12日に共同で提出する方向で調整に入った。今国会での成立を目指す。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/11）",
+     "url": "https://news.yahoo.co.jp/articles/d9da165bd0d25e82ad65d6c2b14fb6e1f9503554"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "首相、現金給付は「より多くの方に恩恵」",
+   "summary": "参院で審議に入った消費減税法案について、給付の対象を広げる考えを改めて示した。",
+   "body": "共同通信によると、高市首相は11日、消費税減税関連法案に盛り込んだ所得に応じた現金給付について、より多くの人に恩恵が及ぶと述べた。首相は6日の衆院の委員会で、給付の対象を就業者全体の3割以上とする方針を示している。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/11）",
+     "url": "https://news.yahoo.co.jp/articles/aef62fae3e9a5d9644ed7c8dc7e2ea8c1f4aa29c"
+    },
+    {
+     "name": "熊本日日新聞（共同、11/6）",
+     "url": "https://kumanichi.com/articles/2054767"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "日本など9か国に「化石賞」、COP31首脳欠席で",
+   "summary": "環境団体が、気候変動対策に後ろ向きだとする国を選ぶ賞。首脳の会合を欠席したことが批判された。",
+   "body": "共同通信によると、トルコで開かれているCOP31で、国際的な環境団体のネットワークは、首脳級会合を欠席したことを批判して日本を含む9か国に「化石賞」を贈った。高市首相は首脳級会合を欠席している。",
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/11）",
+     "url": "https://news.yahoo.co.jp/articles/d66aa41e49b5e8bb3143a4f27e2b581d917f4be9"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ウクライナ和平協議、大規模な捕虜交換で合意",
+   "summary": "人数は12日に詰める。停戦や領土では大きな進展はなかった。",
+   "body": "アブダビで開かれた米国、ロシア、ウクライナの協議は11日、2日間の日程を終え、大規模な捕虜交換を行うことで原則合意した。米国のクシュナー氏が発表し、交換する人数は翌日に決めるとした。ウクライナ側によると、これまでに双方1000人ずつ、あるいは1500人ずつの案が話し合われていた。停戦や領土をめぐっては大きな進展はなかった。",
+   "visual": {
+    "kicker": "アブダビ協議",
+    "figure": "捕虜交換",
+    "caption": "人数はまだ公表されていない"
+   },
+   "sources": [
+    {
+     "name": "Euronews（11/11）",
+     "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+    },
+    {
+     "name": "Kyiv Independent（11/11）",
+     "url": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "NY株が反発、AI関連株が買われる",
+   "summary": "AI向けのクラウド企業の決算がよく、半導体株などが買われた。",
+   "body": "米東部時間11日（日本時間12日朝）のニューヨーク株式市場で、ダウ工業株30種平均は前日比254.60ドル高の5万2486.49ドルで取引を終えた。S&P500種は1.31%高の7619.38、ナスダック総合指数は約1.6%上昇した。AI向けのクラウド事業を手がけるコアウィーブが好決算を受けて24%上がった。",
+   "sources": [
+    {
+     "name": "TheStreet（11/11）",
+     "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+    },
+    {
+     "name": "Yahoo Finance（11/11）",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "インドネシア副大統領が辞意、学歴めぐり",
+   "summary": "裁判所が高校卒業資格の証明を無効と判断していた。正式な辞任かどうかは報道が分かれている。",
+   "body": "インドネシアの国家官房長官は10日、ギブラン副大統領がプラボウォ大統領に辞任の意向を伝えたと明らかにした。最高裁が副大統領の学歴の証明を無効と判断したことなどを受けたもの。11日には下院議員120人が弾劾につながる請願に署名した。正式に辞表が出され、受理されたかどうかは報道が分かれている。",
+   "sources": [
+    {
+     "name": "The Jakarta Post（11/11）",
+     "url": "https://www.thejakartapost.com/indonesia/2026/11/11/gibran-offers-to-resign"
+    },
+    {
+     "name": "South China Morning Post（11/11）",
+     "url": "https://www.scmp.com/week-asia/politics/article/3374034/indonesian-vp-resignation-drama-raises-stakes-prabowo-alliances-strain"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "エルサルバドル軍、ハイチのギャング拠点を攻撃",
+   "summary": "ハイチの治安維持に加わる部隊が強力なギャングの本部を破壊したと大統領が発表した。",
+   "body": "エルサルバドルのブケレ大統領は、ハイチに派遣された同国の部隊が、有力なギャング組織「400マウォゾ」の本部を破壊したと発表した。Al Jazeeraによると、この作戦で20人が死亡した。エルサルバドルの部隊の大半は国連が支援する治安部隊に加わっておらず、交戦規則をめぐる懸念も出ている。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/10）",
+     "url": "https://www.france24.com/en/live-news/20261110-bukele-says-salvadoran-troops-destroyed-gang-hq-in-haiti"
+    },
+    {
+     "name": "Al Jazeera（11/10）",
+     "url": "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "サウジの原油生産、イランとの戦争後で最大に",
+   "summary": "OPECの報告で、10月の生産量は前月から日量200万バレル以上増えた。",
+   "body": "石油輸出国機構（OPEC）が11日に公表した報告によると、サウジアラビアの10月の原油生産量は日量1056万3000バレルで、9月から200万バレル以上増えた。イランとの戦争が始まって以降で最も多いが、2月の水準はまだ下回っている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/11）",
+     "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "science",
+   "title": "マレーシア上空の謎の光、宇宙機の再突入と流星群",
+   "summary": "各地で目撃された光の筋について、同国の宇宙機関が原因を説明した。",
+   "body": "マレーシア宇宙庁（MYSA）は、パハン州やサバ州、ジョホール州などの上空で目撃された光の筋について、NASAの宇宙望遠鏡が大気圏に再突入したことと、流星群によるものだと説明した。",
+   "sources": [
+    {
+     "name": "New Straits Times（11月）",
+     "url": "https://www.nst.com.my/amp/news/nation/2026/11/1571540/mysa-mysterious-lights-over-malaysia-were-nasa-space-debris-meteor"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/12",
+   "what": "衆院定数削減法案を国会に提出へ"
+  },
+  {
+   "when": "11/13",
+   "what": "参院特別委で消費減税法案の審議開始"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18",
+   "what": "エヌビディアCEOの議会証言（要請）"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/29",
+   "what": "OPECプラスの会合"
+  }
+ ]
+}
