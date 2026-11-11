@@ -1,0 +1,237 @@
+{
+ "date": "2026-11-11",
+ "slot": "pm",
+ "key": 2026111102,
+ "generatedAt": "2026-11-11T18:58:42+09:00",
+ "brief": [
+  "日経平均は789円高で3日続伸。最高裁は昨年の参院選を「違憲状態」と判断。",
+  "消費減税法案が参院で審議入り。国家公務員の給与は5年連続で上がる。",
+  "ウクライナ和平協議は2日目で捕虜交換を協議。米下院は国防長官の弾劾を棚上げ。"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が789円高、6万1000円台を回復",
+   "summary": "AI投資への警戒感が和らぎ、半導体などハイテク株が買われた。3日続けて上がった。",
+   "body": "11日の東京株式市場で、日経平均株価は前日比789円01銭高の6万1248円59銭で取引を終え、3日続けて上昇した。東証株価指数（TOPIX）は35.68ポイント高の3929.39だった。半導体関連株などハイテク株が買われた。",
+   "visual": {
+    "kicker": "日経平均 終値",
+    "figure": "61,248.59",
+    "unit": "円",
+    "caption": "前日比 +789.01円"
+   },
+   "sources": [
+    {
+     "name": "共同通信（Yahoo!、11/11）",
+     "url": "https://news.yahoo.co.jp/articles/3514f6eb2b4c88c0bf88351229494635504bc300"
+    },
+    {
+     "name": "中日新聞（11/11）",
+     "url": "https://www.chunichi.co.jp/article/1337828"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、参院で審議入り",
+   "summary": "首相は中低所得者への支援を続けると強調した。13日から特別委員会で本格的に審議する。",
+   "body": "食料品の消費税減税関連法案は11日、参院本会議で審議入りした。高市首相は、対象者の大半が税率引き下げの効果を上回る支援を受けられると強調した。与野党は13日に参院の特別委員会を開いて審議を始めることで合意し、首相も出席する。",
+   "sources": [
+    {
+     "name": "時事通信（11/11）",
+     "url": "https://www.jiji.com/jc/article?k=2026111100652&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "最高裁、昨年の参院選は「違憲状態」と判断",
+   "summary": "1票の重みの差が最大3.13倍だった。選挙を無効にする請求は退けた。",
+   "body": "「1票の格差」が最大3.13倍だった昨年7月の参院選は憲法違反だとして、弁護士グループが選挙の無効を求めた16件の訴訟の上告審判決で、最高裁大法廷は11日、「違憲状態」と判断した。選挙無効の請求は退けた。",
+   "sources": [
+    {
+     "name": "時事通信（11/11）",
+     "url": "https://www.jiji.com/jc/article?k=2026111100661&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "国家公務員の給与、5年連続の引き上げが決定",
+   "summary": "月給を平均3.51%上げる改正法が成立した。ボーナスも年4.70か月分に増える。",
+   "body": "2026年度の国家公務員の月給とボーナスを引き上げる改正給与法が11日、参院本会議で可決・成立した。月給は平均3.51%（1万5056円）増え、ボーナスは0.05か月分増の年4.70か月分となる。月給とボーナスの引き上げは5年連続。",
+   "sources": [
+    {
+     "name": "NHK（11/11）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261111de74159"
+    },
+    {
+     "name": "共同通信（Yahoo!、11/11）",
+     "url": "https://news.yahoo.co.jp/articles/4460f5e1894d2afa39f0969095d96718d4095ee5"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "ラピダス、先端半導体の量産を1年延期する案",
+   "summary": "開発が難しく、目標としてきた2027年度後半から28年度にずれ込む可能性が高い。",
+   "body": "時事通信によると、先端半導体の国産化を目指すラピダスで、量産の開始を1年延ばす案が浮上している。2027年度後半を目指してきたが、開発が難しく、28年度にずれ込む可能性が高い。良品の割合を高めることにも苦労しているとみられる。",
+   "sources": [
+    {
+     "name": "時事通信（11/10）",
+     "url": "https://www.jiji.com/jc/article?k=2026111000768&g=eco"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "公取委、アマゾンの改善計画を認める",
+   "summary": "独占禁止法違反の疑いで調べていた問題で、アマゾン側が出した計画を承認した。",
+   "body": "公正取引委員会は11日、出品者に価格の引き下げを求めたなどとして独占禁止法違反の疑いで調べていたアマゾンジャパンが提出した改善計画を認定した。",
+   "sources": [
+    {
+     "name": "NHK（11/11）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73933"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ウクライナ和平協議2日目、捕虜交換を協議",
+   "summary": "互いに1000人から1500人の捕虜を交換する案が話し合われた。領土と安全の保証が主な争点。",
+   "body": "アブダビでの米国、ロシア、ウクライナの協議は11日、2日目に入った。ゼレンスキー大統領によると、双方が捕虜1000人ずつ、あるいは1500人ずつを交換する案が話し合われている。エネルギー施設や黒海での緊張緩和なども議題となった。領土と安全の保証が主な争点として残っている。",
+   "visual": {
+    "kicker": "協議中の捕虜交換",
+    "figure": "1000〜1500",
+    "unit": "人ずつ",
+    "caption": "合意はまだ発表されていない"
+   },
+   "sources": [
+    {
+     "name": "Euronews（11/11）",
+     "url": "https://www.euronews.com/2026/11/11/ukraine-russia-peace-talks-enter-second-day-with-territory-and-security-guarantees-in-focu"
+    },
+    {
+     "name": "France 24（11/11）",
+     "url": "https://www.france24.com/en/europe/20261111-live-ukraine-russia-hold-second-day-of-us-mediated-talks-in-abu-dhabi"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "イラン、米国との協議を否定",
+   "summary": "7つの条件が満たされるまでホルムズ海峡は閉じたままだとした。",
+   "body": "イランの安全保障担当のレザイ氏は、米国との協議を否定し、イランが求める7つの条件を米国が満たすまでホルムズ海峡は閉じたままにすると述べた。ペゼシュキアン大統領は、米国が新たな兵器を示して脅すことで外交を進めようとしていると批判した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/11）",
+     "url": "https://aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米下院、国防長官の弾劾決議を委員会に送る",
+   "summary": "事実上の棚上げとなった。来年1月に民主党が多数派になった後、改めて動く可能性がある。",
+   "body": "米下院は米東部時間10日、ヘグセス国防長官の弾劾訴追決議案を委員会に送る動議を賛成211、反対204で可決し、決議案は事実上棚上げとなった。決議案は共和党のマッシー議員が提出し、議会の承認なくイランとの戦争を始めたことなどを挙げていた。民主党のジェフリーズ下院院内総務は「これで終わりではない」と述べた。",
+   "sources": [
+    {
+     "name": "CNBC（11/10）",
+     "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+    },
+    {
+     "name": "CNN（11/10）",
+     "url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "マレーシアのナジブ元首相、自宅軟禁に",
+   "summary": "国王の恩赦を受け、残りの刑期を自宅で過ごす。手続きの遅れをめぐり政権内で波紋が広がった。",
+   "body": "汚職で服役していたマレーシアのナジブ元首相は10日夜、刑務所からクアラルンプールの自宅に移り、残りの刑期を自宅軟禁で過ごすことになった。高等裁判所が自宅での服役を直ちに認める命令を出した。移送が数日遅れたことをめぐり、与党の議員からは法務長官の休職を求める声が出ている。",
+   "sources": [
+    {
+     "name": "The Star（11/11）",
+     "url": "https://www.thestar.com.my/news/nation/2026/11/11/najibs-wait-is-over-order-upheld"
+    },
+    {
+     "name": "Malay Mail（11/10）",
+     "url": "https://www.malaymail.com/news/malaysia/2026/11/10/najib-arrives-at-taman-duta-residence-to-begin-his-house-arrest/242755"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "中国「独身の日」の大規模セール、節約志向も",
+   "summary": "ネット通販で最大のセールの日を迎えたが、消費者からは出費を抑える声も聞かれた。",
+   "body": "中国では11日、ネット通販の大規模セール「独身の日」を迎えた。NHKによると、消費者の間では節約を意識する声も聞かれた。",
+   "sources": [
+    {
+     "name": "NHK（11/11）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261111de73830"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31、気候資金めぐり先進国と途上国が対立",
+   "summary": "アフリカ諸国は適応のための資金を3倍にする目標を議題にするよう求めている。",
+   "body": "トルコで開かれているCOP31では、気候変動への備えにあてる資金が焦点になっている。アフリカの交渉団は、適応資金を3倍にする目標を議題に加えるよう求めている。EUは既存の約束の実行には応じるが、新たな資金の拠出には慎重な姿勢を示している。",
+   "sources": [
+    {
+     "name": "France 24（AFP、11/10）",
+     "url": "https://www.france24.com/en/live-news/20261110-nations-urged-to-exit-fossil-fuels-as-turkey-touts-oil-find"
+    },
+    {
+     "name": "Africanews（11/11）",
+     "url": "https://africanews.com/2026/11/11/cop31-activists-demand-better-climate-finance-for-africa"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/12",
+   "what": "衆院定数削減法案を国会に提出へ"
+  },
+  {
+   "when": "11/13",
+   "what": "参院特別委で消費減税法案の審議開始"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18",
+   "what": "エヌビディアCEOの議会証言（要請）"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）、米中首脳会談"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  }
+ ]
+}
