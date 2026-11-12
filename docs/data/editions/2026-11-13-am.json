@@ -1,0 +1,275 @@
+{
+ "date": "2026-11-13",
+ "slot": "am",
+ "key": 2026111301,
+ "generatedAt": "2026-11-13T06:57:19+09:00",
+ "brief": [
+  "10月の企業物価は7.1%上昇、消費減税法案は参院で質疑へ",
+  "エヌビディアのフアンCEOが辞任、暫定CEOは財務責任者",
+  "米特使がプーチン氏と会談、13日にゼレンスキー氏と協議"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "10月の企業物価、7.1%上昇",
+   "summary": "企業どうしで取引するモノの値段の上昇が続く。2カ月ぶりに7％台になった。",
+   "body": "日銀が12日に発表した10月の国内企業物価指数（速報値）は136.8で、前年同月比7.1％上昇した。9月の6.8％から伸びが広がった。品目別では非鉄金属が31.7％、石油・石炭製品が15.9％上がった一方、農林水産物は25.0％下がった。",
+   "visual": {
+    "kicker": "企業物価（前年同月比）",
+    "figure": "7.1",
+    "unit": "%",
+    "caption": "2カ月ぶりの7％台"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/12）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB1166J0R11C26A1000000/"
+    },
+    {
+     "name": "共同通信／Yahoo!ニュース（11/12）",
+     "url": "https://news.yahoo.co.jp/articles/37aed270784bc3b876bb9a5c0ea5dd7b7682b12f"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "7〜9月GDP、民間予測は小幅プラス",
+   "summary": "エコノミストの予測をまとめた調査。内閣府が16日に速報値を公表する。",
+   "body": "日本経済研究センターがまとめた民間エコノミスト37人の予測によると、2026年7〜9月期の実質国内総生産（GDP）は、平均で前期比年率0.11％増だった。内閣府は16日に速報値を公表する。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/12）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA1244O0S6A111C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税法案、参院委で首相出席の質疑へ",
+   "summary": "13日から参議院で本格的な審議に入る。与党側は参院で過半数に届いていない。",
+   "body": "食料品の消費税を減税する法案は、13日に参議院の特別委員会で高市首相が出席して質疑が行われる。減税の効果や、所得に応じて配る支援金の対象が主な論点になる見通し。参院では、与党と賛成の意向を示す日本保守党を合わせても過半数に2議席足りず、公明党は現段階では賛成しない姿勢を示している。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75105"
+    },
+    {
+     "name": "共同通信／Yahoo!ニュース（11/11）",
+     "url": "https://news.yahoo.co.jp/articles/593a1e0956c194c64ca69cf46597f4cf6124e38d"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "ロシアで拘束の北海道新聞記者、1か月",
+   "summary": "北海道新聞は記者の実名を公表した。解放の見通しは立っていない。",
+   "body": "ロシアの治安機関が10月13日にサハリンで北海道新聞の記者をスパイの疑いで拘束してから、13日で1か月となった。北海道新聞は12日、拘束されたのは今井裕紀記者（34）だと公表した。今井記者はモスクワの拘置所にいて、2度目の領事面会は実現していない。日本政府は即時解放を求めている。",
+   "sources": [
+    {
+     "name": "朝日新聞／Yahoo!ニュース（11/12）",
+     "url": "https://news.yahoo.co.jp/articles/b1c96daa685c2a4af30daaedcfbe85497028c8d9"
+    },
+    {
+     "name": "HBCニュース／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/85970a3e8a0dc7a8ae74c05e6c602a943eb23006"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "国保の保険料上限、27年度に3万円上げ",
+   "summary": "所得の高い人の負担を増やし、中間の所得の人の負担増を抑える。",
+   "body": "厚生労働省は11日、自営業者などが入る国民健康保険について、医療分の保険料の年間上限額を2027年度から3万円引き上げる案を審議会の部会に示し、了承された。引き上げは6年連続。日本経済新聞によると、上限額の対象は年収がおよそ1170万円以上の単身世帯など。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/11）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA106YA0Q6A111C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "山口のバス2社、来年2月に運賃値上げ申請",
+   "summary": "認められれば、初乗り運賃は170円から190円になる。",
+   "body": "山口県の「JRバス中国」と「防長交通」は、燃料費や物価の高騰などを理由に、2027年2月からの運賃値上げを中国運輸局に申請した。認可されれば、両社とも初乗り運賃が170円から190円になる見通し。",
+   "sources": [
+    {
+     "name": "NHK（11/12）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261112de74584"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "北海道、福祉灯油の交付金を初の2倍に",
+   "summary": "低所得の世帯などの灯油代を助ける制度。灯油の値上がりを受けた対応。",
+   "body": "北海道は、灯油価格の値上がりを受けて、低所得の世帯などの灯油代を助ける「福祉灯油」の交付金を、初めて2倍に引き上げる。",
+   "sources": [
+    {
+     "name": "NHK（11/12）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261112de74821"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "lead": true,
+   "title": "エヌビディアのフアンCEOが辞任",
+   "summary": "AI向け半導体の最大手。当面は財務責任者が暫定CEOを務める。",
+   "body": "米半導体大手エヌビディアは米国時間12日、ジェンスン・フアン氏が最高経営責任者（CEO）と取締役を即日辞任したと発表した。コレット・クレス最高財務責任者が暫定CEOに就き、後任を探す。フアン氏をめぐっては、中国の情報機関との関係が疑われる人物との交際などが報じられていた。同社の株価は12日、4.34％下落した。",
+   "visual": {
+    "kicker": "エヌビディア株の下落率",
+    "figure": "4.34",
+    "unit": "%",
+    "caption": "CEO辞任の発表を受けて（12日）"
+   },
+   "sources": [
+    {
+     "name": "Nvidia 8-K（11/12）",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "name": "CNBC（11/12）",
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "米特使がプーチン氏と会談、協議継続で一致",
+   "summary": "ロシアは欧州の協議参加には慎重。特使は13日にゼレンスキー氏と会う。",
+   "body": "米国のウィトコフ特使とクシュナー氏は12日、モスクワでロシアのプーチン大統領と会談し、ウクライナ和平に向けた協議を続けることで一致した。ロシア側は欧州が協議に加わることに慎重な姿勢を示した。両氏は13日、アイルランドのダブリンでウクライナのゼレンスキー大統領と会う予定。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin"
+    },
+    {
+     "name": "Euronews（11/12）",
+     "url": "https://www.euronews.com/2026/11/12/russia-plays-down-peace-talks-with-europe-after-witkoff-raises-hopes-of-breakthrough"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "習主席「台湾統一は実現する」、台湾は反発",
+   "summary": "孫文の生誕160年の式典で演説した。台湾当局は従来と変わらない主張だとした。",
+   "body": "中国の習近平国家主席は12日、北京で開かれた孫文の生誕160年の記念式典で演説し、台湾との統一は共産党の歴史的な使命だと述べた。「一国二制度」による平和的な統一を改めて掲げた。台湾の対中政策を担う大陸委員会はこれを退け、台湾の将来は台湾の人々が決めると反論した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen"
+    },
+    {
+     "name": "Focus Taiwan（11/12）",
+     "url": "https://focustaiwan.tw/politics/202611120026"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "コンゴ民主共和国、憲法改正の国民投票法が成立",
+   "summary": "大統領の3選に道を開くと野党が反発している。",
+   "body": "コンゴ民主共和国のチセケディ大統領は10日、憲法改正の国民投票を行いやすくする法律に署名した。野党連合は、大統領の任期の制限をなくすことが狙いだと批判している。現在の憲法では、チセケディ氏は2期目が終わる2028年末に退任しなければならない。",
+   "sources": [
+    {
+     "name": "Africanews（11/11）",
+     "url": "https://www.africanews.com/2026/11/11/dr-congo-tshisekedi-signs-new-referendum-law-amid-third-term-fears/"
+    },
+    {
+     "name": "France 24（11/12）",
+     "url": "https://www.france24.com/en/video/20261112-dr-congo-s-tshisekedi-signs-referendum-law-amid-fears-of-third-term-bid"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "EU、ロシア北極圏のLNGに87億ユーロ",
+   "summary": "環境団体の分析。EUは来年1月からこのガスの輸入を禁止する予定。",
+   "body": "ドイツの環境団体ウルゲヴァルトの分析によると、EUは2026年1〜10月に、ロシア北極圏で生産された液化天然ガス（LNG）に87億ユーロを支払った。EUは2027年1月1日からこのガスの輸入を禁止する準備を進めている。",
+   "sources": [
+    {
+     "name": "Euronews（11/12）",
+     "url": "https://www.euronews.com/2026/11/12/eu-spent-87bn-on-russian-arctic-lng-in-2026-as-import-ban-looms"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "EU、ハンガリーへの復興基金を承認へ",
+   "summary": "割り当て100億ユーロのほぼ全額。政権交代後の改革を受けた対応。",
+   "body": "ユーロニュースによると、欧州委員会は、ハンガリーに割り当てられた新型コロナ後の復興基金100億ユーロのほぼ全額を近く承認する見通し。マジャル首相の政権が進めた改革を受けた対応。",
+   "sources": [
+    {
+     "name": "Euronews（11/12）",
+     "url": "https://www.euronews.com/2026/11/12/commission-set-to-approve-hungarys-10bn-in-post-pandemic-recovery-fund-next-week"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "ローマ教皇がペルー訪問、虐待被害者に「償いを」",
+   "summary": "教皇はかつてペルーで司教を務めた。17日まで滞在し、各地を回る。",
+   "body": "ローマ教皇レオ14世は南米歴訪の最後の訪問国ペルーに入り、首都リマで多くの人に迎えられた。12日には国内の司教らに対し、聖職者による性的虐待の被害者に教会は償いをしなければならないと述べた。17日まで滞在し、かつて司教を務めた北部チクラヨなどを訪れる。",
+   "sources": [
+    {
+     "name": "France 24（11/12）",
+     "url": "https://www.france24.com/en/live-news/20261112-pope-in-peru-says-church-must-make-amends-to-abuse-victims"
+    },
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/13",
+   "what": "米特使とゼレンスキー氏がダブリンで会談"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/16",
+   "what": "7〜9月期GDP速報値の公表"
+  },
+  {
+   "when": "11/17",
+   "what": "ローマ教皇のペルー訪問が終了"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/29",
+   "what": "OPECプラスの会合"
+  }
+ ]
+}
