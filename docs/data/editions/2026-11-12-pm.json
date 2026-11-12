@@ -1,0 +1,247 @@
+{
+ "date": "2026-11-12",
+ "slot": "pm",
+ "key": 2026111202,
+ "generatedAt": "2026-11-12T18:57:32+09:00",
+ "brief": [
+  "日経平均は4日ぶり反落、円は一時159円95銭に",
+  "衆院定数31削減法案を提出、13日から委員会審議",
+  "米上院選で民主党が勝利、イスラエルはイラン攻撃に備え"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "日経平均が4日ぶり反落、429円安",
+   "summary": "終値は6万0819円36銭で、6万円台は保った。",
+   "body": "12日の東京株式市場で日経平均株価は4営業日ぶりに反落し、終値は前日比429円23銭安の6万0819円36銭だった。",
+   "visual": {
+    "kicker": "日経平均の終値",
+    "figure": "60,819.36",
+    "unit": "円",
+    "caption": "4営業日ぶりの反落"
+   },
+   "sources": [
+    {
+     "name": "共同通信／Yahoo!ニュース（11/12）",
+     "url": "https://news.yahoo.co.jp/articles/dbe639cf3722e8352bdcaec2d244018e3b84c0e8"
+    },
+    {
+     "name": "新潟日報（11/12）",
+     "url": "https://www.niigata-nippo.co.jp/articles/-/941419"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": false,
+   "title": "円が一時159円95銭、財務官「速過ぎる」",
+   "summary": "約2カ月ぶりの円安水準で、三村財務官は「動きは速過ぎる」と述べた。",
+   "body": "12日の外国為替市場で円相場は一時1ドル＝159円95銭近辺まで下落し、約2カ月ぶりの円安・ドル高水準となった。三村淳財務官は記者団に対し、為替の「動きは速過ぎる」と述べた。",
+   "sources": [
+    {
+     "name": "時事通信／Yahoo!ニュース（11/12）",
+     "url": "https://news.yahoo.co.jp/articles/8ec392980e8b2e7f5bae7458930687a37d8aef5b"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": false,
+   "title": "日産、9月中間は397億円の赤字",
+   "summary": "本業の損益は黒字に戻ったが、最終損益は2期連続の赤字となった。",
+   "body": "日産自動車の2026年9月中間連結決算は、純損益が397億円の赤字となり、中間期として2期連続の赤字だった。営業損益は黒字に転換した。中国での販売は15％減った。通期の純損益は200億円の黒字とする予想を維持した。",
+   "sources": [
+    {
+     "name": "時事通信（11/11）",
+     "url": "https://www.jiji.com/jc/article?k=2026111100745&g=eco"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": false,
+   "title": "衆院定数31削減法案を提出",
+   "summary": "比例代表を176から145に減らし、中国と四国のブロックを合区する。",
+   "body": "3党は12日、衆議院の定数を31削減する法案を国会に提出した。比例代表の定数を176から145に減らし、中国ブロックと四国ブロックを1つにする内容。13日の委員会では、まず政治とカネの問題を審議する。",
+   "sources": [
+    {
+     "name": "NHK（11/12）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261112de74738"
+    },
+    {
+     "name": "時事通信（11/12）",
+     "url": "https://www.jiji.com/jc/article?k=2026111200096&g=pol"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "lead": false,
+   "title": "千葉・旭市の養鶏場で鳥インフル疑い",
+   "summary": "ニワトリ30羽が死んでいるのが見つかった。13日朝に詳しい検査結果が出る見通し。",
+   "body": "千葉県旭市の養鶏場で、ニワトリ30羽が死んでいるのが見つかり、鳥インフルエンザの疑いがあるとして詳しい検査が行われている。結果は13日朝に判明する見通し。",
+   "sources": [
+    {
+     "name": "NHK（11/12）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261112de74995"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "lead": false,
+   "title": "経産省、中小企業の経済安保対応を支援へ",
+   "summary": "中堅・中小企業でも、特定の国から技術を狙われるリスクが高まっている。",
+   "body": "経済産業省は、中堅・中小企業の経済安全保障への対応を後押しする新たな支援の枠組みを検討する。中堅・中小企業の間でも、特定の国から技術を狙われるなどのリスクが高まっていることが背景にある。",
+   "sources": [
+    {
+     "name": "NHK（11/11）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261111de74475"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ミシシッピ州上院選、民主党コロム氏が勝利",
+   "summary": "現職のハイドスミス氏が敗北を認めた。民主党の上院議席は55になる。",
+   "body": "米南部ミシシッピ州の連邦上院選挙で、民主党のスコット・コロム氏が共和党の現職ハイドスミス氏を破った。ハイドスミス氏は敗北を認めた。コロム氏は、南北戦争後の再建期以来、同州で初めての黒人の上院議員となる。民主党の上院の議席は55になる。",
+   "visual": {
+    "kicker": "米上院の民主党議席",
+    "figure": "55",
+    "unit": "議席",
+    "caption": "ミシシッピ州で議席を獲得"
+   },
+   "sources": [
+    {
+     "name": "CNBC（11/11）",
+     "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
+    },
+    {
+     "name": "NBC News（11/11）",
+     "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": false,
+   "title": "イスラエル、イラン攻撃の準備を軍に指示か",
+   "summary": "イスラエルのメディアが報じた。イランは報復の範囲を広げると警告している。",
+   "body": "イスラエルのメディアによると、イスラエルの閣議は軍に対し、イランへの攻撃の可能性に備えるよう指示した。これに対しイランは、攻撃を受けた場合は報復の範囲を広げると警告した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "lead": false,
+   "title": "イスラエル軍、ガザの病院施設を攻撃",
+   "summary": "攻撃を受けたのはナセル医療施設で、少なくとも6人が死亡した。",
+   "body": "アルジャジーラによると、イスラエル軍がパレスチナ自治区ガザ地区のナセル医療施設を攻撃し、少なくとも6人が死亡した。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": false,
+   "title": "インドネシア副大統領、辞表を議会に提出",
+   "summary": "学歴をめぐる問題を受けた対応。後任は大統領が推す2人から議会が選ぶ。",
+   "body": "インドネシアのギブラン副大統領は12日、学歴をめぐる問題を受けて辞表を議会に提出した。同日予定されていた弾劾をめぐる下院の本会議は取りやめになった。副大統領が欠けた場合は選挙を行わず、国民協議会が60日以内に、大統領が推薦する2人の候補から後任を選ぶ。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/12）",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility"
+    },
+    {
+     "name": "The Jakarta Post（11/12）",
+     "url": "http://www.thejakartapost.com/indonesia/2026/11/12/vp-gibran-hands-in-resignation-as-jokowi-expresses-support-for-prabowo"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "lead": false,
+   "title": "COP31首脳会合、主要国の首脳が相次ぎ欠席",
+   "summary": "独仏伊などの首脳が参加しなかった。米国は政府代表団を送っていない。",
+   "body": "トルコのアンタルヤで開かれている国連気候変動会議（COP31）で、11日から12日にかけて首脳会合が開かれた。ドイツ、フランス、イタリア、スペイン、カナダ、日本、インドの首脳は欠席し、中国は韓正国家副主席が出席した。米国は政府代表団を派遣していない。国連のグテーレス事務総長は化石燃料からの脱却を求めた。",
+   "sources": [
+    {
+     "name": "France 24（11/11）",
+     "url": "https://www.france24.com/en/live-news/20261111-world-leaders-take-stage-at-cop31-but-big-names-missing"
+    },
+    {
+     "name": "Euronews（11/11）",
+     "url": "https://www.euronews.com/2026/11/11/more-than-just-a-photo-opportunity-why-are-key-eu-leaders-skipping-the-cop31-leaders-summi"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "lead": false,
+   "title": "インドネシアとノルウェー、排出削減量の取引で契約",
+   "summary": "太陽光発電による削減量を、ノルウェーが2038年までに最大1200万トン買う。",
+   "body": "インドネシアの国営電力会社PLNと国際機関のグローバル・グリーン成長研究所（GGGI）は11日、ノルウェーの基金の支援を受けて、COP31の会場でパリ協定6条2項に基づく排出削減量の購入契約に署名した。ノルウェーはPLNの太陽光発電事業による削減量を、2038年までに二酸化炭素換算で最大1200万トン購入する。価格は1トンあたり20〜40ドル。",
+   "sources": [
+    {
+     "name": "The Jakarta Post（11/12）",
+     "url": "http://www.thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/13",
+   "what": "参院特別委で消費減税法案の審議開始"
+  },
+  {
+   "when": "11/13",
+   "what": "旭市の鳥インフル詳細検査の結果"
+  },
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/18",
+   "what": "エヌビディアCEOの議会証言（要請）"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/29",
+   "what": "OPECプラスの会合"
+  }
+ ]
+}
