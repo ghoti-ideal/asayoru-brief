@@ -1,0 +1,246 @@
+{
+ "date": "2026-11-14",
+ "slot": "am",
+ "key": 2026111401,
+ "generatedAt": "2026-11-14T07:01:12+09:00",
+ "brief": [
+  "冬の電気・ガス代支援に6519億円、3メガ銀は最高益",
+  "企業献金見直し法案は採決見送り、インフル患者は増加",
+  "欧州が和平協議に5か国とEUで参加、ロシアは慎重"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "冬の電気・ガス代支援、予備費から6519億円",
+   "summary": "12月から2月の電気・ガス代を補助する。標準的な家庭で3か月計7000円程度の負担軽減を見込む。",
+   "body": "政府は13日の閣議で、中東情勢などに対応する予備費から6519億円を支出することを決めた。12月から来年2月の電気・都市ガス代の補助に約5200億円をあてる。電気の補助は1キロワット時あたり12月が1円、1月と2月が4.5円。LPガスや灯油などの支援には、自治体が使い道を決められる交付金1300億円をあてる。",
+   "visual": {
+    "kicker": "予備費からの支出",
+    "figure": "6519",
+    "unit": "億円",
+    "caption": "冬の電気・ガス代などの支援"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA1313U0T11C26A1000000/"
+    },
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75208"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "3メガバンクの中間決算、そろって過去最高益",
+   "summary": "金利の上昇で、貸し出しの利息収入や運用の収益が増えた。",
+   "body": "大手金融グループ3社の今年度の中間決算は、最終利益がいずれもこの時期として過去最高となった。金利の上昇で、貸し出しの利息収入や運用による収益が伸びた。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75684"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "楽天グループ、1〜9月の最終赤字が半減",
+   "summary": "金融と通販の事業が伸び、営業利益は大きく増えた。",
+   "body": "楽天グループの2026年1〜9月期の連結決算は、最終赤字が前年同期から半減した。金融や電子商取引（EC）の事業が伸び、営業利益は前年同期の67倍になった。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUB1360V0T11C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "企業献金見直しの3法案、採決は見送り",
+   "summary": "審議は続ける。政治資金を監視する第三者機関を具体化することでは合意した。",
+   "body": "衆議院の政治改革特別委員会は13日、企業・団体献金の見直しなど政治資金に関する3法案を審議した。与党は採決を提案したが、野党が反発して見送られた。与野党は、政治資金を監視する第三者機関「政治資金監視委員会」の具体化では合意した。与党が提案した衆院定数削減法案の16日の審議入りは折り合わなかった。",
+   "sources": [
+    {
+     "name": "共同通信／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/a4ecebdffe61132d90e809f866594764cc13f61d"
+    },
+    {
+     "name": "産経新聞／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/b2dd6b44caaf593a31b95aa85d9dc808dbed4eff"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "国の基金の余った資金、返納へ見直し検討",
+   "summary": "使われないままの資金を国に返すよう求める意見が相次いだ。",
+   "body": "各省庁が持つ基金について、使われないままの資金を国庫に返すよう求める意見が相次いだことを受け、中司行政改革相は見直しを検討する考えを示した。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75632"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "後発薬の安定供給、メーカーの評価を初公表",
+   "summary": "厚生労働省が185社を3つに分けた。評価の低い会社の名前は公表していない。",
+   "body": "厚生労働省は13日、ジェネリック医薬品（後発薬）を製造販売する185社を、安定供給への取り組みに応じて3つに分け、結果を初めて公表した。評価が最も高い38社と2番目の64社は企業名を公表し、最も低い83社の名前は明らかにしなかった。",
+   "sources": [
+    {
+     "name": "共同通信／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/9cf6748349ba22290d1cf9aa12982effd960976f"
+    },
+    {
+     "name": "テレビ朝日／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/6c5027ffede47abdb379740fe79342c68461bcd1"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "インフル患者、3週連続で増加",
+   "summary": "23の道県で、流行の注意報レベルを超えた。",
+   "body": "厚生労働省によると、11月2日から8日までの1週間に全国の定点医療機関から報告されたインフルエンザの患者数は、1医療機関あたり11.00人で、3週連続で増えた。23道県で注意報レベルの10人を超えた。",
+   "sources": [
+    {
+     "name": "テレビ朝日／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/0c69932ae23c922592a9965162681372f5654c44"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "ウクライナ和平協議、欧州は5か国とEUで参加",
+   "summary": "特使を1人に絞らず、主要国とEUの機関で交渉団を組む。ロシアは参加を認めていない。",
+   "body": "EUの首脳は13日、ダブリンでの非公式会合で、ウクライナ和平協議に参加する欧州の交渉団を、フランス、ドイツ、イタリア、ポーランド、英国の5か国とEUの機関などで構成することで合意した。欧州の特使を1人に絞ることは見送った。ロシアのペスコフ大統領報道官は、欧州の意図を見極めてから協議への参加を判断すると述べた。",
+   "visual": {
+    "kicker": "欧州交渉団の国の数",
+    "figure": "5",
+    "unit": "か国",
+    "caption": "仏独伊ポーランド英とEUの機関"
+   },
+   "sources": [
+    {
+     "name": "Euronews（11/13）",
+     "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
+    },
+    {
+     "name": "RTÉ（11/13）",
+     "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナとロシア、協議の最中も攻撃続く",
+   "summary": "ロシア側で9人、ウクライナ南部で3人が死亡した。キーウの病院も被害を受けた。",
+   "body": "双方の当局によると、12日夜から13日にかけて、ウクライナの攻撃でロシア側の少なくとも9人が死亡した。ロシアはキーウの病院を攻撃し、ウクライナ南部では少なくとも3人が死亡した。ウクライナ軍はロシア南部ボルゴグラードの大規模な製油所を攻撃したとしている。",
+   "sources": [
+    {
+     "name": "RTÉ（11/13）",
+     "url": "https://rte.ie/news/ukraine/2026/1113/1599085-ukraine-russia-conflict"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "エヌビディアの時価総額、4兆ドルを割る",
+   "summary": "CEO辞任の影響が続き、株価は6週連続で下がった。",
+   "body": "米半導体大手エヌビディアの株価は13日、2.01％下落し、時価総額は2025年7月以来初めて4兆ドルを下回った。この週の下落率は12.75％で、6週連続の下落となった。前CEOのフアン氏の辞任を受けた売りが続いた。",
+   "sources": [
+    {
+     "name": "CNBC（11/13）",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "ガザで呼吸器の感染症が増加、WHOが警告",
+   "summary": "冬の大雨でテントが水につかり、避難する人の密集も続いている。",
+   "body": "世界保健機関（WHO）によると、パレスチナ自治区ガザ地区では、急性呼吸器感染症が前年の同じ時期より3万3000件多い。避難している人のうち100万人近くが浸水しやすい場所で暮らしている。WHOは寒さや浸水、混み合った避難所の影響で、さらに増えるとみている。",
+   "sources": [
+    {
+     "name": "NBC News（11/13）",
+     "url": "https://www.nbcnews.com/world/gaza/warns-gaza-respiratory-infections-surging-winter-floods-overcrowding-rcna609132"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ナイジェリア、野党候補の集会が襲撃される",
+   "summary": "2か月後に大統領選挙を控える。警察は催涙ガスで群衆を散らした。",
+   "body": "ナイジェリアの最大都市ラゴスで、大統領選に立候補している野党のピーター・オビ氏の支持者の集会が武装した男たちに襲われ、記者も被害を受けた。警察は催涙ガスを使って群衆を散らした。ナイジェリアでは約2か月後に大統領選挙が行われる。",
+   "sources": [
+    {
+     "name": "Africanews（11/12）",
+     "url": "https://www.africanews.com/2026/11/12/peter-obi-supporters-and-journalists-attacked-at-campaign-event-in-nigeria/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "豪政府、若者の過激化に対応するテロ対策拠点",
+   "summary": "ネット上で過激な考えに染まる若者への対応を強める。",
+   "body": "オーストラリアのバーク内務相は13日、シドニーに7600万豪ドルをかけたテロ対策の拠点を開いた。インターネットを通じて過激化する若者への対応を主な目的としている。",
+   "sources": [
+    {
+     "name": "ABC News（11/13）",
+     "url": "https://abc.net.au/news/2026-11-13/federal-politics-live-blog-backpacker-visas/107380962"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/16",
+   "what": "7〜9月期GDP速報値の公表"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）"
+  },
+  {
+   "when": "11/19",
+   "what": "ウクライナ支援の有志国会合（ベルリン）"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/28",
+   "what": "台湾の統一地方選挙"
+  },
+  {
+   "when": "11/29",
+   "what": "OPECプラスの会合"
+  }
+ ]
+}
