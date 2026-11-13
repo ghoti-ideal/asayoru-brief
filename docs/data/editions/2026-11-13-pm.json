@@ -1,0 +1,275 @@
+{
+ "date": "2026-11-13",
+ "slot": "pm",
+ "key": 2026111302,
+ "generatedAt": "2026-11-13T19:03:52+09:00",
+ "brief": [
+  "円が一時160円台、財務相「一方的に急激な動き」",
+  "消費減税と併せた給付、対象を働く人の5割以上に",
+  "ウクライナ和平協議に欧州も参加へ、MS障害は世界に"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "lead": true,
+   "title": "円が一時1ドル＝160円台、財務相がけん制",
+   "summary": "約2か月ぶりの円安水準。財務相は米国と連携して適切に対応すると述べた。",
+   "body": "12日の海外市場に続き、13日の東京外国為替市場でも円相場は一時1ドル＝160円台に下落した。米国の利上げペースが速まるとの見方から、日米の金利差の拡大が意識された。片山財務相は13日、「足元で一方的に急激な動きがみられる」と述べ、米財務省と緊密に連携して適切に対応する考えを示した。",
+   "visual": {
+    "kicker": "円相場（対ドル）",
+    "figure": "160",
+    "unit": "円台",
+    "caption": "約2か月ぶりの円安水準"
+   },
+   "sources": [
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA121EF0S6A111C2000000/"
+    },
+    {
+     "name": "毎日新聞／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/140dd32ed7632caaf175dd0328b90d3d63f135af"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "日経平均が反発、322円高",
+   "summary": "前日に売られた半導体関連の株が買い戻された。一時は1000円を超えて上がった。",
+   "body": "13日の東京株式市場で日経平均株価は2営業日ぶりに反発し、終値は前日比322円99銭高の6万1142円35銭だった。前日に下がった半導体関連株を買い戻す動きが出て、上げ幅は一時1000円を超えた。",
+   "sources": [
+    {
+     "name": "共同通信／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/855df5be4bae22561d1b70a325d1487e913286df"
+    },
+    {
+     "name": "読売新聞／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/01d606a68679ba6620c736306f9b57d030e896f0"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "消費減税と併せた給付、対象を働く人の半数超に",
+   "summary": "参議院で首相が答弁した。先に配る分は1人最大2万5000円程度とする方向。",
+   "body": "食料品の消費税を減税する法案は13日、参議院の特別委員会で本格的な審議に入った。高市首相は、所得に応じて配る現金給付の対象を、これまでの「3割以上」から、働く人全体の5割以上に広げる方針を示した。2027年度と28年度に先行して配る額は、最大2万5000円程度とする方向で検討するとした。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA135XB0T11C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "大阪市、メールアドレス107万件が流出",
+   "summary": "市が使うメール配信サービスが不正アクセスを受けた。市は不審なメールに注意を呼びかけている。",
+   "body": "大阪市は13日、行政オンラインシステムの利用者のメールアドレス107万8713件が流出したと発表した。メール配信サービスを提供する会社への不正アクセスが原因という。メールの送信機能は止まっており、市は心当たりのないメールのリンクや添付ファイルを開かないよう呼びかけている。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75362"
+    },
+    {
+     "name": "共同通信／Yahoo!ニュース（11/13）",
+     "url": "https://news.yahoo.co.jp/articles/e41958e8adb15ea6ce975b542fed6f478bcb73d9"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "千葉・旭市で鳥インフル確認、今季2例目",
+   "summary": "県はこの養鶏場のニワトリの処分を始めた。周辺の農場からの出荷も止めている。",
+   "body": "千葉県旭市の養鶏場で死んだニワトリから高病原性の鳥インフルエンザウイルスが確認され、県はこの養鶏場のニワトリの処分を始めた。国内の養鶏場での確認は、京都府に続いて今シーズン2例目。半径10キロ以内の農場では、ニワトリや卵の移動などを禁止している。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75136"
+    },
+    {
+     "name": "時事通信（11/13）",
+     "url": "https://sp.m.jiji.com/article/show/3910642"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "美浜原発3号機、50年を超える運転が可能に",
+   "summary": "原子力規制委員会が運転を10年延ばす計画を認めた。来月で運転開始から50年になる。",
+   "body": "原子力規制委員会は、関西電力美浜原子力発電所3号機（福井県）について、運転を10年延長するための管理計画を認可した。運転開始から50年となる12月1日以降も運転を続けられるようになる。",
+   "sources": [
+    {
+     "name": "NHK（11/13）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261113de75103"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "health",
+   "title": "認知症のリスクを調べる検査キット発売",
+   "summary": "名古屋大学発の新興企業が発売した。軽い認知障害のリスクも調べられる。",
+   "body": "名古屋大学発の新興企業クライフ（東京・新宿）は13日、認知症や軽度認知障害（MCI）のリスクを調べる検査キットを発売したと発表した。日本経済新聞によると、尿を使って判定する。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC136NG0T11C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "lead": true,
+   "title": "マイクロソフトのメールなどで世界的な障害",
+   "summary": "アウトルックやチームズが使いにくくなった。同社は悪意のある攻撃は確認していないとしている。",
+   "body": "米東部時間12日午後（日本時間13日未明）から、マイクロソフトのメールサービス「アウトルック」や会議アプリ「チームズ」などで障害が起きた。障害情報サイトのダウンディテクターによると、影響は74の国と地域に広がった。同社は、インフラへの負荷が高まったことを挙げ、悪意のある活動は確認していないとした。NBCニュースによると、13日には復旧の兆しが出ている。",
+   "visual": {
+    "kicker": "障害が報告された国と地域",
+    "figure": "74",
+    "unit": "",
+    "caption": "ダウンディテクター調べ"
+   },
+   "sources": [
+    {
+     "name": "France 24（11/13）",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+    },
+    {
+     "name": "NBC News（11/13）",
+     "url": "https://www.nbcnews.com/tech/tech-news/live-blog/microsoft-outage-outlook-teams-updates-fix-rcna609118"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ウクライナ和平、次の協議に欧州も参加へ",
+   "summary": "ゼレンスキー大統領と米特使が確認した。欧州の代表を誰にするかは決まっていない。",
+   "body": "ウクライナのゼレンスキー大統領は12日夜、アイルランドのダブリン近郊で、モスクワから来た米国のウィトコフ特使、クシュナー氏と会談した。両者は、ロシアとの次の協議に欧州が加わることを確認した。クシュナー氏は「欧州が同席しなければ合意はまとめられない」と述べた。欧州の代表を誰にするかは、13日のEU首脳の非公式会合で話し合われる。",
+   "sources": [
+    {
+     "name": "France 24（11/13）",
+     "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+    },
+    {
+     "name": "Euronews（11/13）",
+     "url": "https://www.euronews.com/2026/11/13/eu-leaders-gather-in-dublin-to-decide-who-will-speak-for-europe-in-peace-talks"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "tech",
+   "title": "EU首脳、初めてAIを議題に会合",
+   "summary": "ダブリンで開いた非公式の会合。AIの専門家や欧州のAI企業の経営者が話をする。",
+   "body": "EUの首脳は13日、ダブリンで非公式の会合を開き、初めて人工知能（AI）を議題にした。AI研究者のジェフリー・ヒントン氏が社会への影響について、仏AI企業ミストラルのメンシュCEOが競争力について話す予定。非公式の会合のため、終了後に採択する文書はない。",
+   "sources": [
+    {
+     "name": "RTÉ（11/13）",
+     "url": "https://www.rte.ie/news/2026/1113/1599063-eu-summit-dublin/"
+    },
+    {
+     "name": "Euronews（11/13）",
+     "url": "https://www.euronews.com/2026/11/13/ukraine-envoy-row-hijacks-eu-leaders-first-ai-summit"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "米長期金利が5％超に上昇",
+   "summary": "米国の利上げを見込む動きが強まった。円安が進む一因になっている。",
+   "body": "米国債の10年物の利回りが5％を超えた。CNBCによると、市場では、FRBが12月9日の会合で利上げするとの見方が100％織り込まれている。",
+   "sources": [
+    {
+     "name": "CNBC（11/13）",
+     "url": "https://cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "韓国、佐渡金山の追悼式を3年連続で独自開催",
+   "summary": "日本側の式典は欠席した。韓国大使は、いずれは合同で開きたいと述べた。",
+   "body": "韓国政府は13日、新潟県佐渡市で、佐渡島の金山で働いた朝鮮半島出身者を追悼する式典を独自に開いた。日本側主催の追悼式を欠席し、独自に開くのは3年連続。日本側の式典の追悼の辞の表現をめぐって折り合わなかった。",
+   "sources": [
+    {
+     "name": "The Korea Herald（11/13）",
+     "url": "https://www.koreaherald.com/article/10936399"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "ガーナ、新しい種類の地層で油ガスを発見",
+   "summary": "これまでの発見とは違う岩の層で見つかった。資源の種類や量はまだ分かっていない。",
+   "body": "ガーナのマハマ大統領は、沖合の炭酸塩岩の層で初めて炭化水素（石油や天然ガス）を発見したと発表した。これまでの商業的な発見は主に砂岩の層だった。資源の種類や規模は分析中という。",
+   "sources": [
+    {
+     "name": "Africanews（11/12）",
+     "url": "https://www.africanews.com/2026/11/12/ghana-announces-first-ever-hydrocarbon-discovery-in-carbonate-reserve/"
+    },
+    {
+     "name": "MyJoyOnline（11/10）",
+     "url": "https://www.myjoyonline.com/mahama-announces-new-offshore-oil-discovery-in-deepwater-cape-three-points-block/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "economy",
+   "title": "豪百貨店デービッド・ジョーンズ、19店閉鎖",
+   "summary": "オーストラリアとニュージーランドの店で、多くが大都市の郊外にある。",
+   "body": "創業188年のオーストラリアの百貨店チェーン、デービッド・ジョーンズは、オーストラリアとニュージーランドで19店を閉めると発表した。閉鎖する店の多くは大都市の郊外にある。",
+   "sources": [
+    {
+     "name": "ABC News（11/13）",
+     "url": "https://abc.net.au/news/2026-11-13/nsw-david-jones-sydney-store-closure-suburban-economic-strain/107380310"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/16",
+   "what": "7〜9月期GDP速報値の公表"
+  },
+  {
+   "when": "11/17",
+   "what": "ローマ教皇のペルー訪問が終了"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/29",
+   "what": "OPECプラスの会合"
+  },
+  {
+   "when": "12/9",
+   "what": "米FRBの金融政策会合"
+  }
+ ]
+}
