@@ -1,0 +1,287 @@
+{
+ "date": "2026-11-14",
+ "slot": "pm",
+ "key": 2026111402,
+ "generatedAt": "2026-11-14T18:56:17+09:00",
+ "brief": [
+  "防衛費は5年で60兆円規模を軸に調整、国民民主は住民税減税を要求",
+  "米中ロ首脳が19日に初の3者会談、米は核削減を議題に",
+  "米で全便の出発を一時停止、はしかの死者は州集計で10人"
+ ],
+ "items": [
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "lead": true,
+   "title": "防衛費、5年で60兆円規模を軸に調整",
+   "summary": "年末に改める安全保障の文書で決まる見通し。首相は大幅な増税には慎重とされる。",
+   "body": "政府は、2027年度から5年間の防衛費の総額を60兆円規模を軸に調整している。防衛省は70兆〜80兆円が必要と試算し、財務省は50兆円台を主張している。総額は年末の安全保障関連3文書の改定で決まる見通し。時事通信によると、高市首相は防衛増税に消極的とされる。",
+   "visual": {
+    "kicker": "5年間の防衛費",
+    "figure": "60",
+    "unit": "兆円規模",
+    "caption": "政府が軸として調整（報道）"
+   },
+   "sources": [
+    {
+     "name": "時事通信（11/13）",
+     "url": "https://www.jiji.com/jc/article?k=2026111301051&g=pol"
+    },
+    {
+     "name": "日本経済新聞（11/13）",
+     "url": "https://www.nikkei.com/article/DGXZQOUA138JX0T11C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "国民民主、消費減税法案に住民税減税を要求",
+   "summary": "税率が元に戻るときの中間層の負担軽減が不十分だとしている。",
+   "body": "国民民主党の榛葉幹事長は14日、食料品の消費税を減税する法案について、税率が元に戻る際に中間層の負担を軽減できるかが明確ではないとして、党が主張する住民税の減税を受け入れるよう政府・与党に求める考えを示した。参議院では与党が過半数に届いていない。",
+   "sources": [
+    {
+     "name": "NHK（11/14）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261114de75874"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "politics",
+   "title": "九州・沖縄、10年で自衛隊の34部隊が発足",
+   "summary": "政府は防衛力の強化を掲げている。専門家は住民への丁寧な説明を求めている。",
+   "body": "九州・沖縄でこの10年間に新たに発足した自衛隊の部隊が、少なくとも34に上ることが防衛省への取材で分かった。政府は「防衛力の抜本的強化」を掲げている。専門家は、住民への丁寧な説明が必要だと指摘している。",
+   "sources": [
+    {
+     "name": "NHK（11/14）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261114de75845"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "tech",
+   "title": "ネットフリックス、国内で2年ぶりに値上げ",
+   "summary": "いま加入している人は12月14日から新しい料金になる。",
+   "body": "動画配信のネットフリックスは、日本での料金を2年ぶりに引き上げる。広告付きの最も安いプランは11％高い月額990円になる。新しく加入する人には14日から、いまの会員には12月14日から順次適用する。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/14）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC13CL30T11C26A1000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "economy",
+   "title": "タマホーム、保険代理業をやめる方針",
+   "summary": "社員による火災保険の不正な請求が見つかったことを受けた。",
+   "body": "住宅メーカーのタマホームは、社員が住宅向けの火災保険の保険金を不正に請求していた問題を受け、保険代理業を廃業する方針を損害保険各社に申し入れた。日本経済新聞によると、架空の請求や修理費の水増しで、約340件、計約2300万円の不正が確認された。",
+   "sources": [
+    {
+     "name": "日本経済新聞（11/14）",
+     "url": "https://www.nikkei.com/article/DGXZQOUC140J50U6A111C2000000/"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "society",
+   "title": "横田めぐみさん拉致から49年、新潟で集会",
+   "summary": "母の早紀江さんが早期の解決を訴えた。約3万5000人分の署名が政府に渡された。",
+   "body": "横田めぐみさんが北朝鮮に拉致されてから15日で49年になるのを前に、14日、新潟市で拉致問題の解決を求める県民集会が開かれた。母の早紀江さん（90）は川崎市の自宅から中継で参加し、「どうして50年近く解決が見えない状況が続いているのか」と訴えた。集会では約3万5000人分の署名が政府に手渡された。",
+   "sources": [
+    {
+     "name": "共同通信／Yahoo!ニュース（11/14）",
+     "url": "https://news.yahoo.co.jp/articles/6a83eed5dc040e0dd7a55675baf1e632fc76a00d"
+    },
+    {
+     "name": "新潟ニュースNST／Yahoo!ニュース（11/14）",
+     "url": "https://news.yahoo.co.jp/articles/e6343553dfca8ff17ee76b9c62d37e4ce41b57cf"
+    }
+   ]
+  },
+  {
+   "region": "domestic",
+   "cat": "environment",
+   "title": "出水平野のツル、30季連続で1万羽超え",
+   "summary": "国内最大のツルの越冬地。今季あと3回の調査が行われる。",
+   "body": "鹿児島県出水市で14日朝、今シーズン初めてのツルの羽数調査が行われ、1万4160羽が確認された。1万羽を超えるのは30シーズン連続。内訳はナベヅルが1万3770羽、マナヅルが381羽など。次の調査は12月5日の予定。",
+   "sources": [
+    {
+     "name": "NHK（11/14）",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261114de75795"
+    },
+    {
+     "name": "KYT鹿児島読売テレビ／Yahoo!ニュース（11/14）",
+     "url": "https://news.yahoo.co.jp/articles/294d6dcbe5a2cca50dd1496e6bf38701bea650e0"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "lead": true,
+   "title": "米中ロの首脳が19日に初の3者会談へ",
+   "summary": "中国で開くAPECの機会に会う。米国は核兵器の削減などを話し合うとしている。",
+   "body": "米ホワイトハウスは13日、トランプ大統領と中国の習近平国家主席、ロシアのプーチン大統領が、中国・深圳で開かれるAPEC首脳会議の機会に会談すると発表した。3か国の首脳による会談は初めて。トランプ氏は核兵器の削減やイラン情勢を取り上げる考えで、米政府高官は合意は見込んでいないと述べた。日本政府は会談をめぐり、米側に懸念を伝えていた。",
+   "visual": {
+    "kicker": "米中ロ首脳会談",
+    "figure": "深圳",
+    "caption": "19日、APEC首脳会議の機会に"
+   },
+   "sources": [
+    {
+     "name": "Al Jazeera（11/14）",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+    },
+    {
+     "name": "毎日新聞／Yahoo!ニュース（11/14）",
+     "url": "https://news.yahoo.co.jp/articles/11c245ff76ab5baf34c8c80771b98f40a3a15ff4"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "米国で全便の出発を一時停止、通信障害で",
+   "summary": "数時間後に解除されたが、数千便が欠航した。運輸長官は回復に時間がかかるとしている。",
+   "body": "米連邦航空局（FAA）は米東部時間13日午後3時54分（日本時間14日午前5時54分）、航空管制施設の通信障害を理由に、全米の空港からの出発を止めた。措置は午後8時15分（日本時間14日午前10時15分）に解除された。当局は、悪意のある攻撃の兆候はないとしている。数千便が欠航し、ダフィー運輸長官は機体や乗員の配置を戻すのに時間がかかると述べた。",
+   "sources": [
+    {
+     "name": "NBC News（11/14）",
+     "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+    },
+    {
+     "name": "CNBC（11/14）",
+     "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "米国のはしか死者、州の集計で今年10人に",
+   "summary": "患者数は1991年以来の多さ。国の集計の死者数は州より少ない。",
+   "body": "米国では13日、ペンシルベニア州とウィスコンシン州が新たにはしかによる死者を報告し、州の集計による今年の死者は10人になった。米疾病対策センター（CDC）の集計では6人となっている。今年の患者数は約5400人で、1991年以来の多さ。",
+   "sources": [
+    {
+     "name": "NBC News（11/13）",
+     "url": "https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "health",
+   "title": "ケニア、最後のエボラ患者が退院",
+   "summary": "新たな患者が出なければ、12月23日に流行の終息が宣言される。",
+   "body": "ケニア保健省は11日、国内で最後のエボラ出血熱の患者が退院したと発表し、流行の終息に向けた42日間の観察期間に入った。新たな感染者が出なければ、12月23日に終息が宣言される。ケニアでは9人の感染が確認され、2人が死亡した。",
+   "sources": [
+    {
+     "name": "WHOアフリカ地域事務局（11/11）",
+     "url": "https://www.afro.who.int/countries/kenya/news/kenyas-last-ebola-patient-goes-home-42-day-countdown-begins"
+    },
+    {
+     "name": "Africanews（11/11）",
+     "url": "https://www.africanews.com/2026/11/11/kenya-discharges-last-ebola-patient-begins-42-day-countdown-to-being-declared-ebola-free/"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "トルコとカタール、相互防衛協定に署名",
+   "summary": "どちらかが外から武力攻撃を受けた場合に共同で対応する。協定の全文は公表されていない。",
+   "body": "トルコのエルドアン大統領とカタールのタミム首長は13日、イスタンブールで相互防衛協定に署名した。どちらかの国への外部からの武力攻撃に対し、共通の立場をとる。合同軍事演習や防衛産業での協力も広げる。トルコは、特定の国に向けたものではないとしている。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/14）",
+     "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know"
+    },
+    {
+     "name": "France 24（11/13）",
+     "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "society",
+   "title": "フランスで5回目の抗議デモ、警官7万人を配置",
+   "summary": "高校の環境への不満から始まり、暮らしの苦しさへの抗議に広がっている。",
+   "body": "フランスでは14日、政府に抗議する5回目の大規模なデモが呼びかけられ、全国で50〜60のデモ行進が予定された。内務相は警察官と憲兵約7万人を配置するとした。抗議は9月に高校の環境への不満から始まり、生活水準の悪化への抗議に広がっている。",
+   "sources": [
+    {
+     "name": "France 24（11/14）",
+     "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "environment",
+   "title": "COP31、1週目は化石燃料の議論進まず",
+   "summary": "会議は20日まで。フィンランドは国内で化石燃料から脱する道筋を示した。",
+   "body": "トルコで開かれている国連気候変動会議（COP31）は1週目を終えた。化石燃料からの脱却は正式な交渉の議題になっておらず、大きな進展はないとみられている。一方、フィンランドは会期中に化石燃料から脱却するための国内の行程表を発表した。法的な期限は設けていない。",
+   "sources": [
+    {
+     "name": "Euronews（11/14）",
+     "url": "https://www.euronews.com/2026/11/14/cop31-is-once-again-shying-away-from-a-fossil-fuel-exit-but-one-european-country-is-taking"
+    }
+   ]
+  },
+  {
+   "region": "international",
+   "cat": "politics",
+   "title": "ASEAN首脳会議、マニラで開幕へ",
+   "summary": "トランプ米大統領も出席する予定。エネルギー危機や地域の紛争が課題となる。",
+   "body": "東南アジア諸国連合（ASEAN）の首脳会議が15日から17日までフィリピンのマニラで開かれる。トランプ米大統領も出席する予定。",
+   "sources": [
+    {
+     "name": "Al Jazeera（11/14）",
+     "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption"
+    },
+    {
+     "name": "The Jakarta Post（11/14）",
+     "url": "http://www.thejakartapost.com/world/2026/11/14/asean-unity-faces-test-as-energy-crisis-regional-conflicts-loom-over-summit"
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  {
+   "when": "11/15",
+   "what": "熊本市長選・愛媛県知事選の投開票"
+  },
+  {
+   "when": "11/15〜17",
+   "what": "ASEAN首脳会議（マニラ）"
+  },
+  {
+   "when": "11/16",
+   "what": "7〜9月期GDP速報値の公表"
+  },
+  {
+   "when": "11/18〜19",
+   "what": "APEC首脳会議（深圳）"
+  },
+  {
+   "when": "11/19",
+   "what": "米中ロ首脳会談（深圳）"
+  },
+  {
+   "when": "11/20",
+   "what": "COP31が閉幕"
+  },
+  {
+   "when": "11/27",
+   "what": "NZ総選挙の正式結果発表"
+  },
+  {
+   "when": "11/28",
+   "what": "台湾の統一地方選挙"
+  }
+ ]
+}
